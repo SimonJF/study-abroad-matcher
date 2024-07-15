@@ -1,0 +1,891 @@
+[
+ {
+  "name": "Computing Science - 1CT  Introduction to Computational Thinking COMPSCI1016",
+  "course_code": "COMPSCI1016",
+  "semester": "Semester 1",
+  "aims": "This course aims to develop in students the core computational thinking, and associated practical, skills that are required to be able to understand, reason about, and manipulate the computational systems surrounding us, essential to modern-day science, business and life.",
+  "ilos": "By the end of this course students will be able to:1.Identify core characteristics of computational systems;2.Describe the purpose and operation of a range of individual computational concepts, as exemplified in more than one programming language;3.Explain the purpose and operation of partial and complete computations expressed in a range of notations at various levels of abstraction;4.Apply computational understanding to solve programming problems involving textual, numerical and graphical contexts;5.Amend computations to adjust their functionality;6.Identify and correct errors in computations expressed in a range of notations;7.Identify the application and emergence of computational concepts in artificial and natural systems, respectively."
+ },
+ {
+  "name": "Computing Science - 1S Systems COMPSCI1018",
+  "course_code": "COMPSCI1018",
+  "semester": "Semester 2",
+  "aims": "The aim of Computing Science 1S is to give students an understanding of the structure and function of a computer system at a range of levels, includingnumber systems,logic gates and circuits, the organisation of a CPU, machine and assembly language, how high level language constructs are realised in assembly language, and the operating system.  The emphasis is on the connections between the levels of abstraction in a computer system.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate an understanding of data representation, including bits, words, binary, and two's complement;2.Demonstrate understanding of the main subsystems in a processor architecture, includingcontrol and dataregisters, memory, and input/output;3.Write a simple program in assembly language and run it using suitable tools;4.Demonstrate understanding of the representation of instructions;5.Demonstrate an understanding of the execution of machine language programs by the CPU in terms of the fetch-execute cycle;6.Design and simulate simple synchronous logic circuits, comprising logic gates and delay flip flops;7.Demonstrate an understanding of the relationship between thearchitecture andhigh-level programming languages."
+ },
+ {
+  "name": "Computing Science 1F - Computing Fundamentals COMPSCI1006",
+  "course_code": "COMPSCI1006",
+  "semester": "Semester 1",
+  "aims": "The aim of the CS1F courseis to give students an understanding of:Human-computer interaction:styles of interaction, requirements for an interactive system in relation to the  nature ofthe tasks being supported, issues in the design of interactive systems, critical assessment of designs;The ways in which databases contribute to the management of large amounts of data;The professional and ethical issues raised by the existence of databases and   networks;Mathematics to support the previous items and to provide a foundation for level 2.",
+  "ilos": "On completion of the CS1Fcourse, the student should be able to:1.Explain how applications are built using programs clustered around databases and otherlargecollections of data;2.Diagram the architecture of a database management system (DBMS) in general terms; the processes it has to perform and the operational tasks;3.Given an outline design; carry out all the operational tasks of setting up and using a relational database using a typical DBMS product and a standard SQL;4.Identify the main forms of human computer interaction and appreciate the issues involved in delivering successful interaction via these forms;5.Critically assess usability of interactive systems using informal means; and know when to perform such assessments and how to use the outcomes;6.Demonstrate and understanding of the nature of human computer activities as tasks; and be able to analyse their structure; assess the conditions under which they are performed; and use such task analysis in the software engineering process;7.Discuss the legal and ethical obligations of computing professionals."
+ },
+ {
+  "name": "Computing Science 1P  (Standard Route) COMPSCI1001",
+  "course_code": "COMPSCI1001",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of the CS1P course istoreview andbuild on students'existing programming skillsin order to develop analytic skills critical for embedding soundsoftware engineering practices.",
+  "ilos": "By the end of the course students will be able to:1.Design, implement, and evaluate programs using fundamental programming constructs, including functions, iteration, recursion, types, strings, files, sequences, maps, sets, sorting, searching, exceptions, classes and arrays;2.Recognise and apply procedural, functional, event-driven, and object-oriented programming to solve a given problem;3.Identify, select, and apply appropriate techniques, libraries, and algorithms to solve a given problem;4.Read and reason about code, and clearly articulate understanding of code in terms of structure, behaviour, correctness, efficiency, style and idiom.5.Communicate their understanding of a problem and solution approach clearly, design top-level plans for a problem, and translate these plans into a working program;6.Analyse the time complexity of a program using Big-O notation, and writeaefficient code to solve a given problem;7.Identify different types of errors that can occur in a program, deploy testing strategies to fix these errors, and build robust programs to solve a given problem."
+ },
+ {
+  "name": "Computing Science 1P (Half Course) COMPSCI1005",
+  "course_code": "COMPSCI1005",
+  "semester": "Semester 1",
+  "aims": "The aim of the CS1P (Half) course is to produce programmers equipped with an understanding of:Fundamental computational concepts underlying most programming languages;  A range of problem-solving techniques using computers;  The role of programming within the overall software development process;Attitudes and working practicesappropriate  fora professional programmer; The skills supporting the solution of small problemsusing a programming language;The clear expression of solutions at different levels of abstraction;Independent and self-motivated study in Computing Science.",
+  "ilos": "On completion of the CS1P (Half)course, the student should:Knowledge - know about:techniques for solving problems;basic computational concepts and elementary data structures;the edit-compile-link-run cycle froma userspoint of view;testing strategies;themain activities of software development and their interactions, and some of the major problems of software development.Skills - be able to:hand-execute simple programs, showing how input data is processed, output data is produced, and how the values of internal variables change;explain at various levels the behaviour of fragments of programming language code;amend existing programs to adjust or correct their functionality;translate well-structured plans into working programs;analyse simple programs involving text, numbers and graphics, producing a top-level plan with refinements;use the error message of the compiler to identify and correct mistakes in program syntax;usetesting strategies to identify and correct semantic errors in programs.Attitudes - appreciate that:a programmer requires creativity in order to solve problems and precision in the construction and manipulation of programming language code;a programmer builds up a repertoire of techniques for solving problems, usually adapting and reusing techniques as each new problem is encountered;a programmer must be able to communicate his/her ideas to others;effective programming requires effort both in front of and away from a computer;learningto program requires commitment and perseverance."
+ },
+ {
+  "name": "Computing Science 1PX  (Alternate Route) COMPSCI1017",
+  "course_code": "COMPSCI1017",
+  "semester": "Semester 2",
+  "aims": "This course aims to develop in students the core computational thinking skills that are required to be able to understand, reason about, and manipulate the computational systems surrounding us, both natural and artificial.",
+  "ilos": "By the end of this course students will be able to:1.Produce top-level plans with refinements;2.Translate well-structured plans into working programs;3.Deploy testing strategiesto identify and correct semantic errors in programs;4.Analyse programs with a view to assessing their complexity;5.Augment programs with error and event handling capabilities;6.Develop user-defined data structures as part of the solution to problems;7.Incorporate advanced techniques in solutions to problems, e.g. recursion;8.Identify a number of standard algorithms, e.g. sorting and searching, and incorporate them effectively in solutions to problems;9.Communicate their understanding of problems and their solutions clearly."
+ },
+ {
+  "name": "Foundation Mathematics for Computing Science and Software Engineering 1 COMPSCI1028",
+  "course_code": "COMPSCI1028",
+  "semester": "Summer",
+  "aims": "The primaryaimof this course isto providethe opportunity to pursue a degree-level course in ComputingScience or Software Engineeringto students from a diverserange ofbackgroundknowledge in Mathematics.A secondary aim is to serveas ameans toreview andrefreshthe Mathematicstopicsthat are a pre-requisite for certainH-level coursesin Computer Science and Software Engineering.",
+  "ilos": "By the end of this course students will be able to:1.Manipulatealgebraic expressions,solvealgebraic equations, and applyalgebraic skills to rectilinear shapes,circles and graphs.2.Manipulatetrigonometric expressionsand solve trigonometric equations.3.Understand functions, graphs, composites and inverse.4.Explainsequences,series,and recurrence, and model situations using sequences."
+ },
+ {
+  "name": "Foundations of Professional Software Engineering COMPSCI1019",
+  "course_code": "COMPSCI1019",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of this course is to impart a breadth of knowledge about software engineering in a professional environment. This knowledge will cover ethical issues, design lifecycles, development methodologies and security factors. It will also develop their ability to critically assess software development design decisions. Students should also develop an understanding of common software development tools and packages on a conceptual level to make their transition into the workplace more efficient.",
+  "ilos": "By the end of this course students will be able to:1.Discuss ethical and legal issues faced by professional software developers;2.Describethe basic concepts of software engineering;3.Describedifferent approaches to software testing;4.Evaluate object-oriented design patterns in order to contrast workplace practices;5.Appraise workplace practices and methodologies in order to critically discuss their application."
+ },
+ {
+  "name": "How to Learn a New Language COMPSCI1020",
+  "course_code": "COMPSCI1020",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of this course is to provide students with the skills and knowledge to pickup a new programming language.The students will also be able to developexisting programming skills in order to embed soundprogramming language fundamentals andtechniques for structuring programs appropriately. The course also teaches the basics ofwritinggood clean code that is easy to read and maintain.",
+  "ilos": "By the end of this course students will be able to:1.Demonstrate the use of a newly learned programming language to write simple programs2.Identify common concepts, characteristics and functionality shared by programming languages3.Understand the differences and similarities between programming language implementations and programming paradigms4.Recognise the importance of appropriate program design standards and clean coding concepts5.Apply knowledge of software engineering best practices to write easy-to-read and suitably formed programs6.Demonstrate the ability to make additions to a large codebase"
+ },
+ {
+  "name": "Introduction to Programming COMPSCI1027",
+  "course_code": "COMPSCI1027",
+  "semester": "Summer",
+  "aims": "This course aims to develop in students an ability to read and understand program solutions in a language. The student will be able to create and enhance solutions to problems in a programming language Python.",
+  "ilos": "By the end of this course students will be able to:1.Describe the purpose and operation of a range of individual computational concepts, as exemplified in oneprogramming language:1.Explain how information is manipulated in a programming language;1.Describe the core behaviours of solutions to problems expressed in a programming language;1.Analyse the inputs and outputs for problems in a programming language;1.Implement changes to the behaviour of solutions to problems in a programming language;1.Implement solutions from scratch to problems in a programming language."
+ },
+ {
+  "name": "Spatial Skills Training 1 COMPSCI1026",
+  "course_code": "COMPSCI1026",
+  "semester": "Semester 1",
+  "aims": "The spatial skills training course has been introduced to develop the spatial skills of students entering computing science with poor spatial ability.",
+  "ilos": "Students will become proficient in spatial visualisation - specifically rotation and orientation of 3D structures-as tested by thePSVT:Rtest of spatial skills."
+ },
+ {
+  "name": "Testing and Software Improvement COMPSCI1022",
+  "course_code": "COMPSCI1022",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce students to the concept of testing in broad terms, as well as the rationale for common strategies and methodologies employed by developers. It will also introducestudentsto code refactoring and clean coding guidelines.",
+  "ilos": "By the end of this course, students will be able to:1.Describe and apply different software testing methodologies as part of a test suite.2.Explain various development methodologies and underline the benefits and drawbacks of each in different contexts.3.Apply clean code concepts in order to write code of a high standard.4.Employ refactoring techniques to improve the efficiency and readability of code.5.Apply a range of measurement and analysis techniques to improve quality of software."
+ },
+ {
+  "name": "Web Application Systems COMPSCI1023",
+  "course_code": "COMPSCI1023",
+  "semester": "Semester 2",
+  "aims": "This course aims to guide students through typical web application design structures and related tools. It will also develop their understanding of networked and distributed systems with respect to communications and protocols involved in their design.",
+  "ilos": "By the end of this course, students will be able to:1.Use of a variety of development tools and web technologies.2.Explain and describe the different high-level system architectures common to the web and the role of messaging and protocols within the design of web applications.3.Describe and understand the opportunities and challenges involved in developing web applications and working in a distributed environment.4.Understand and interpret the design and specifications of a web application."
+ },
+ {
+  "name": "Workplace Assessment Year 1 COMPSCI1024",
+  "course_code": "COMPSCI1024",
+  "semester": "Summer",
+  "aims": "The aim of this project is to allow students an opportunity to demonstrate the practical skills they have developed over the course of their first year of study. The project will provide them with a framework in which to document their understanding of workplace systems and detail their additions to the codebase.",
+  "ilos": "By the end of this course, students will be able to:1.Demonstrate the use of a testing methodology in a software application.2.Demonstrate software engineering best practices to write easy-to-read and suitably formed software.3.Demonstrate an ability to identify code in a large codebase which can be refactored and describe an improvement processimprovement process."
+ },
+ {
+  "name": "Advanced Professional Software Engineering COMPSCI2025",
+  "course_code": "COMPSCI2025",
+  "semester": "Semester 2",
+  "aims": "The aim of this course is to further develop a breadth of professional software engineering concepts which students have been exposed to in a previous course and the workplace. It will also give them the opportunity to show their ability to work as part of a functional team and plan a group project effectively.",
+  "ilos": "By the end of this course, students will be able to:1.Appraise workplace practices which they have encountered throughout their academic career.2.Evaluate leadership qualities in the workplace.3.Assemble a significant piece of software as part of a team of peers.4.Assess team working practices in a team project of peers.5.Can break down and adequately estimatethe scale oftasks."
+ },
+ {
+  "name": "Algorithmic Foundations 2 COMPSCI2003",
+  "course_code": "COMPSCI2003",
+  "semester": "Semester 1",
+  "aims": "To introduce the foundational mathematics needed for Computing Science; To make students proficient in their use; To show how they can be applied to advantage in understanding computational phenomena.",
+  "ilos": "By the end of this course students will be able to:1.translate simple English sentences into the notationof predicate logic, set theoryand relational algebra;2.use predicate logic, set theory, and relational algebra to write assertions;3.use laws to prove assertions in predicate logic, set theory, and relational algebra;4.demonstrate an understanding of inductively-generated structures andproofs by induction;5.deploy the basic concepts of combinatorics;6.understand the basic principles of discrete probability theory and applythemto simple problems."
+ },
+ {
+  "name": "Algorithmics COMPSCI2026",
+  "course_code": "COMPSCI2026",
+  "semester": "Semester 2",
+  "aims": "The aim of this course is to furtherdevelop the student's skills in the design and analysis of algorithms. The students will studyalgorithms for a range of important standard problems. They will also be introducedto the theory of NP-completenessandfundamental concepts of computability, together withtheirpractical implications.",
+  "ilos": "By the end of this course, students will be able to:1.Apply standard algorithmic design methods and basic principles of algorithm analysis.2.Describe fundamental graph and string algorithms and be able to apply this knowledge in a program.3.Describe the basic principles and practical implications of the theory of NP-completeness.4.Provide examples of the computability andunsolvability, and know some standard examples of unsolvable problems."
+ },
+ {
+  "name": "Algorithms & Data Structures 2 COMPSCI2007",
+  "course_code": "COMPSCI2007",
+  "semester": "Semester 2",
+  "aims": "To familiarise students with fundamental data types and data structures used in programming, with the design and analysis of algorithms for the manipulation of such structures, and to provide practice in the implementation and use of these structures and algorithms in a Java context.",
+  "ilos": "By the end of the course students will be able to:1.Use an abstract data type (ADT) and its role in program design;2.Use stacks, queues, lists, sets and maps, and recognise typical contexts where their use is appropriate;3.Represent ADTs as Java interfaces;4.Explain the use of basic data structures; such as arrays; linked lists; binary trees; and hash tables;5.Implement basic data structures in Java;6.Represent standard ADTs by means of appropriate data structures;7.Use recursion as an algorithm design technique in appropriate contexts;8.Carry out the analysis of a range of algorithms in terms of algorithm analysis and express algorithm complexity using the O notation;9.Implement standard searching and sorting algorithms; including binary search;mergesortand quicksort; and their complexities;10.Use a collection in Java; and related concepts such as comparators and iterators;11.Make use of particular Java collections List; Set; Queue and Map; and their various realisations."
+ },
+ {
+  "name": "Computer Architecture and Network Systems COMPSCI2027",
+  "course_code": "COMPSCI2027",
+  "semester": "Semester 2",
+  "aims": "This course aims to develop the student's understanding of low-level systems and communications with the understanding that a deeper, richer understanding of these elements of computing will strengthen their understanding of thehigh levelday-to-day systems that they are likely to encounter.",
+  "ilos": "By the end of this course, students will be able to:1.Define the structure and functionality in a computer system at range of levels.2.Describe how high-level language constructs run in assembly language and computer operating systems.3.Define the basic principles of network systems, the concepts of a protocol, and the importance of layering in the design in a network.4.Discuss how systems areconnected togetherto form a network, how networks form an internet and how data is reliably delivered across the internet.5.Define common web protocolsand how they run on the internet."
+ },
+ {
+  "name": "Data Science Fundamentals COMPSCI2028",
+  "course_code": "COMPSCI2028",
+  "semester": "Semester 2",
+  "aims": "This course introduces students to data science, with topics covering a range of mathematical concepts involved in reviewing andmanipulatingdata. There will be discussions about different types and styles of data and how to handle them, particularly with respect to plotting and visualising this data.",
+  "ilos": "Bythe end of this course, students will be able to:1.Apply knowledge of tensor form,vectorisationand matrix decomposition in solving mathematical and practical problems.2.Describe how to bridge the continuous and discrete worlds, solving graph flow via metric operations in a software program.3.Create effective, clear, and precise visualisations of data and be able to apply manipulations and conversions on said visualisations."
+ },
+ {
+  "name": "Data Storage and Retrieval COMPSCI2029",
+  "course_code": "COMPSCI2029",
+  "semester": "Semester 1",
+  "aims": "The aim of this course is to introduce students to common database practices and interaction techniques, but also to expand their perception of databases beyond the relationalmodel, andintroduce different types of data stores and methods of persistence.",
+  "ilos": "By the end of this course, students will be able to:1.Describe the options for the persistence of data in a software program.2.Explain how databases contribute to the management of large amounts of data.3.Design, create and develop a relational database.4.Describe how programming languages interact with data stores."
+ },
+ {
+  "name": "Introduction to Object Oriented Programming COMPSCI2001",
+  "course_code": "COMPSCI2001",
+  "semester": "Semester 1",
+  "aims": "To further develop the students' experience in programming using a strongly typed language and strengthen their problem solvingskills;To introduce the ideas that underpin object-oriented programming and ensure students gain the ability to appropriately utilise these concepts in developing small and medium sized software systems;To develop the ability to select and re-use existing software components and libraries from a limited subset of standard libraries;To introduce and develop practical experience in concurrent programming, and to explore a variety ofconcurrency control mechanisms.",
+  "ilos": "By the end of this course students will be able to:1.Use all features of theObject Orientedprogramming languages required to build substantial single-threaded programs;2.Describe the object model ofalanguage;3.Explain the significance of the single and multiple inheritance hierarchies; and of implementation and interface inheritance;4.Explain the purpose of, and pitfalls inherent in, concurrent programming;5.Demonstrate elementary object-oriented design skills;6.Build well-structuredObject Orientedprograms of moderate size using the fundamental class libraries appropriately."
+ },
+ {
+  "name": "Networks and Operating Systems Essentials 2 COMPSCI2024",
+  "course_code": "COMPSCI2024",
+  "semester": "Semester 1",
+  "aims": "To introduce students to essential topics in computer networks and operating systems.The courseaims to givean overview of how the Internet works, and the difference between the Internet and the World-Wide Web. It introduces the basic principles of networked systems, the concept of a protocol, and the importance of layering in the design of the network. It discusses how systems are connected together to form a network; how networks are connected together to form an internet; and how data is reliably delivered across the Internet. The web protocols, and HTTP, are briefly introduced, as an example of the type of application that can run on the Internet.In addition, the course aims to present the abstractions that underlie traditional operating systems, and to sketch basic implementations for key components including process scheduling, memory management and file systems. Students should gain an awareness of implementation trade-offs and corresponding impacts on system behaviour.",
+  "ilos": "By the end of this course students will be able to:Understand the principles underlying networked systems, such as the Internet, including the importance of layering in protocol design;Describe the key features of a local-area network technology, such as Ethernet;Explain the concept of internetworking, and how the Internet is built as a network of networks; describe key features of the network layer;Describe what is meant by a best-effort service, and explain why the Internet offers such a service; discuss how the transport layer can enable reliable connections on this substrate;Understand the difference between the Web and the Internet, and be able to describe, in outline, the operation of HTTP;Be familiar with issues around privacy and security of Internet traffic;Use appropriate terminology in correctly explaining the functions of an operating system;Contrast the low-level hardware facilities (e.g., physical memory frames) with the higher-level abstractions provided by an operating system (e.g., virtual memory pages).;Evaluate the relative merits of a range of simple resource allocation algorithms (e.g., for process scheduling);Implement simple operating system components and basic algorithms (e.g.,scheduling, free space management);Knowledge and understanding of privacy and security issues of Internet traffic;Recognise risk/safety for safe operation of computing systems at the operating system level."
+ },
+ {
+  "name": "Object-Oriented Software Engineering 2 COMPSCI2008",
+  "course_code": "COMPSCI2008",
+  "semester": "Semester 2",
+  "aims": "To introduce the basic concepts of software engineering;To present methods for the design, implementation and documentation of larger object-oriented programs;To develop program comprehension and design skills by studying and extending existing programs;To introduce different approaches to software testing.",
+  "ilos": "By the end of the course students will be able to:1.Discuss the breadth of software engineering.2.Apply design principles and patterns while designing and implementing simple systems, based on reusable technology;3.Understand different approaches to software testing;"
+ },
+ {
+  "name": "Practical Algorithms COMPSCI1021",
+  "course_code": "COMPSCI1021",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of this course is to introduce students to the fundamentals of data structures and the algorithms that govern them. They will learn about common structures found in programming and various methods of sorting, searching and sequencing them. They will also be introduced to algorithm complexity and proofs, which should help them to justify design decisions when creating their own software.",
+  "ilos": "By the end of this course, students will be able to:1.Implement basic data structures such as arrays, linked lists, binary trees and hash tables in a language of choice.2.Use recursion as an algorithm design technique in a piece of software.3.Analyse and implement a range of algorithms, including searching and sorting algorithms, and express their complexity using suitable notation.4.Use predicate logic, set theory and relational algebra to write assertions and use laws to prove them.5.Demonstrate an understanding of inductively generated structures and proof by induction.6.Deploy basic concepts of combinatorics in solving mathematical problems."
+ },
+ {
+  "name": "Systems Programming COMPSCI2030",
+  "course_code": "COMPSCI2030",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "This course aims to strengthen the student's understanding of operating systems and their development. Students should understand theparticular issuesfaced in operating systems programming and how these issues differ from those in higher level programming. They should also understand these issues to the degree that they will inform their development on other platforms.",
+  "ilos": "By the end of this course, students will be able to:1.Explain the behaviour of low-level programs written in a systems language.2.Explain the concepts of memory management and concurrency, including issues and problems faced in these domains.3.Explain how data structures are represented, and how this interacts with caching and virtual memory, and to be able to demonstrate the performance impact of such issues.4.Recognise the impact of memory and machine specifics on the performance of a system.5.Discuss and reason about concurrency and race conditions.6.Describe the differences between hardware platforms and operating systems and the impact these have on system programming."
+ },
+ {
+  "name": "User Interaction COMPSCI2031",
+  "course_code": "COMPSCI2031",
+  "semester": "Semester 2",
+  "aims": "This course aims to provide students with the skills and knowledge to evaluate and design user interfaces effectively, with respect to direct interaction and functionality but also the wider scope of issues faced socially.",
+  "ilos": "By the end of this course, students will be able to:1.Identify the main forms of human computer interaction and appreciate the issues involved in delivering successful interaction via these forms.2.Identify the main issues and key concepts in evaluating interactive systems, in terms of immediate functionality and utility as well as in terms of wider social, legal and ethical criteria.3.Design, implement and evaluate a simple interactive system using appropriate technology."
+ },
+ {
+  "name": "Web Application Development 2 COMPSCI2021",
+  "course_code": "COMPSCI2021",
+  "semester": "Semester 2",
+  "aims": "To provide an overview of the tools and technologies used in web development;To promote the disciplined design and development of web applications;To develop an understanding of the complexity of building distributed applications;To develop the ability to implement and deploy a web application.",
+  "ilos": "By the end of this course students will be able to:1.Describe and understand the opportunitiesandchallengesinvolved in developing web applications and working in a distributed environment;2.Use a variety of development tools and web technologies;3.Explain and describe the different high level system architectures common to the web;4.Explain the role of messaging and protocols within the design of web applications;5.Understand and interpret the design and specifications of a web application;6.Construct, build and deploy a web application."
+ },
+ {
+  "name": "Workplace Assessment Year 2 COMPSCI2033",
+  "course_code": "COMPSCI2033",
+  "semester": "Summer",
+  "aims": "This project gives students an opportunity to put their programming skills into practice in the workplace. Theywill create a portfolio of work which they will contribute to over a year of software development intheir workplace. The report should detail additions they have made, the reasons for making these additions, the reasoning behind their design choices andreflection on what they learned.",
+  "ilos": "By the end of this course, students will be able to:1.Demonstrate the developmentorextensionofa substantial software product whichdisplaystechnical achievements in computer science.2.Analysesoftware engineering best practices to write easy-to-read and suitably formedsoftware.3.Create software that include well-justified data structures and test coverage.4.Documenttheir professional activity in report form."
+ },
+ {
+  "name": "Professional Issues in the Workplace COMPSCI3012",
+  "course_code": "COMPSCI3012",
+  "semester": "Semester 1",
+  "aims": "The aim of this course is to formalise and consolidate apprentices' understanding of ethical, social, and professional issues that relate to Software Engineering. The course also aims to develop apprentices' verbal and written argumentation skills, honing their ability to constructwell arguedand properly researched positions on issues encountered in their professional experience as Software Engineers. In addition, the course aims to develop apprentices' critical thinking skills by encouraging them to critically engage with the arguments put forward by others.",
+  "ilos": "By the end of this course, students will be able to:1.Explain the ethical and social issues they have encountered in the workplace.2.Apply relevant professional codes of conduct in the workplace.3.Analyse the ethical and social issues that relate to the profession of Software Engineering more broadly.4.Evaluate, synthesise and present arguments about issues related to Software Engineering."
+ },
+ {
+  "name": "Team Project 3 COMPSCI3004",
+  "course_code": "COMPSCI3004",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce students to the constraints and challenges of substantial, long lived software development projects.  To provide the opportunity to practice software industry standard practices and tools for managing the complexity of large scale software development.",
+  "ilos": "By the end of this course students will be able to:1.Manage a substantial team based software project in a disciplined and organised manner.2.Work with a customer in a problem domain to elaborate, specify and refine requirements.3.Select, and employ industry standard software practices and tools as appropriate within a software process.4.Present project progress through short demonstrations;5.Review, analyse and adapt project processes within a process improvement framework."
+ },
+ {
+  "name": "Workplace Assessment Year 3 COMPSCI3011",
+  "course_code": "COMPSCI3011",
+  "semester": "Full Year",
+  "aims": "This project aims toexercisea student's abilitytomake useful contributions to a project. They should document their role in a major software development project in the workplace and indicate the contributions they have made, as well as their reasons for making particular development decisions.",
+  "ilos": "By the end of this course, students will be able to:1.Designor significantly extenda substantial software product which demonstrates technical achievements in computer science.2.Evaluate workplace practices and methodologies in order to critically discuss their application.3.Present a detailed account of the work that they have done to assessors and their workplace team."
+ },
+ {
+  "name": "Advanced Networked Systems (H) COMPSCI4091",
+  "course_code": "COMPSCI4091",
+  "semester": "Semester 2",
+  "aims": "Computer networks have become an integral part of society - we take for granted the ability to transact commerce over the Internet, to store documents online, and that users can avail themselves of a growing set of communication methods, ranging from file sharing to social networking and video conferencing. Moreover, computer networks underpin a lot of recent paradigm-shifting advances in ICT, from Cloud Computing, to Smart Cities and the Internet of Things.To support the seamless provision of all these advanced services, computer networks engage a complex set of interconnected systems and components whose design is governed by principles across the spectrum of Computing Science and Engineering: from hardware and software architecture, to protocols and algorithms, to analysis and modelling.This course will therefore adopt a holistic systems thinking instead of the 'black-box' thinking that often results from treating concepts (such as, e.g., algorithms, OS, networking) in isolation.1.The coursewill look at 'network algorithmics' as an interdisciplinary systems approach to streamlining network stack implementations in routers and end-nodes, and understand the bottlenecks that need to be overcome in order to meet strict performance requirements.2.The coursewillcoverthe importance of high performance in network design and implementation, and understand the need for building networked systems that are on par with ever increasing physical link capacities (you can buy more bandwidth, but cannot buy less delay). In doing so, ways to measure network performancewill be explored, and also approaches to evaluating and analysing the performance of networked systems. Students will therefore be able to generalise and reason about the capabilities and limitations of different processing and service models.3.In addition, the coursewill look at algorithms and technologies for efficient and fair resource usage,and students willunderstand the importance of end-to-end protocol design and traffic engineering.For example, studentswill understand why, in networks, packet loss is not an isolated incident 'when things go wrong' but the norm: a mechanism based on which the appropriate feedback loopscan be createdto ensure that the underlying resources are used fully and shared equally.4.The course will alsolook at recent technological and research advances in emergingcomputer networking technologies and protocols. For example, Data Centre / Cloud networking for achievingfull bi-section bandwidth; Software-Defined Networking (SDN) as a transformative paradigm aiming to logically centralise the network control plane; Network Function Virtualisation (NFV) as an approach to embed add-on services on top of connectivity in network infrastructures;Resilient networked systems.By the end of this course, students will have a deep understanding of the design and implementation principles for building high-performance inter-connected systems, as well as specialist knowledge in advances in computer networking technology. This course will be particularly suitable for students who aspire to successful careers either in systems research, or in diverse industry sectors ranging from global (e.g., Google, Facebook, Amazon) to local (e.g., the banking sector) infrastructure operators, to equipment vendors (e.g., Cisco, Huawei, Ericson) and Internet Service Providers (e.g., BT).",
+  "ilos": "By the end of this course students will be able to:1.Articulate the key challenges in building high-speed networked systems2.Illustratethe design and implementationimplicationsfor high-performance networked systems,protocols, and algorithms3.Design and conduct experiments over diverse networked infrastructures4.Outline and critique advances in networking technology and systems"
+ },
+ {
+  "name": "Advanced Systems Programming (H) COMPSCI4089",
+  "course_code": "COMPSCI4089",
+  "semester": "Semester 2",
+  "aims": "The computing landscape has changed radically in the last decade. The desktop personal computer has become largely irrelevant, and heterogeneous, multicore, mobile, and real-time systems - smart mobile phones, netbooks, and laptops - are now ubiquitous. Yet, despite this shift, these systems are still programmed in C, and the majority run some variant of the Unix operating system.The course aims to explore the features of modern programming languages and operating systems that can ease the challenges of systems programming, considering type systems and run-time support. It will review the research literature on systems programming and operating system interfaces, discuss the limitations of deployed systems, and consider how systems programming might evolve to address the challenges of supporting modern computingsystems.  Particular emphasis will be placed on system correctness and secure programming, to ensure the resulting systems are safe to use in an adversarial environment.",
+  "ilos": "By the end of thiscourse students will be ableto:Discuss the advantages and disadvantages of C as a systems programming language, and to compare and contrast this with a modern systems programming language, for example Rust;todiscuss the role of the type system, static analysis, and verification tools in systems programming, and show awareness of how to model system properties using the type system to avoid errors;Discuss the challenges of secure low-level programming and write secure code in a modern systems programming language to perform systems programming tasks such as parsing hostile network input; show awareness of security problems in programs written in C;Discuss the advantages and disadvantages of integrating automatic memory management with the operating system/runtime, to understand the operation of popular garbage collection algorithms and alternative techniques for memory management, and know when it might be appropriate to apply such techniques and managed run-times to real-time systems and/or operating systems;Understand the impact of heterogeneous multicore systems on operating systems, compare and evaluate different programming models for concurrent systems, their implementation, and their impact on operating systems; andConstruct and/or analyse simple programming to demonstrate understanding of novel techniques for memory management and/or concurrent programming, to understand the trade-offs and implementation decisions."
+ },
+ {
+  "name": "Algorithmics I (H) COMPSCI4009",
+  "course_code": "COMPSCI4009",
+  "semester": "Semester 1",
+  "aims": "To develop the student's skills in the design and analysis of algorithms;To study algorithms for a range of important standard problems;To introduce the student to the theory of NP-completeness together with its practical implications;To make the student aware of fundamental concepts of computability.",
+  "ilos": "By the end of the course the student will be able to:1.Recognise, and be able to use, standard algorithmic design methods;2.Apply the basic principles of algorithm analysis;3.Code standard efficient sorting algorithms;4.Code fundamental graph algorithms - for search and traversal, shortest paths, minimum spanning trees, and topological sorting;5.Describe classical algorithms for string searching, string comparison, and text compression;6.Expound on the basic principles, and the practical implications of, the theory of NP-completeness;7.Follow NP-completeness proofs for particular problems;8.Deploy various strategies for dealing with computational problems that are apparently intractable;9.Provide examples of the computability and unsolvability, and know some standard examples of unsolvable problems."
+ },
+ {
+  "name": "Algorithmics II (H) COMPSCI4003",
+  "course_code": "COMPSCI4003",
+  "semester": "Semester 1",
+  "aims": "The aims of the course are:To present a broad range of algorithm design methods, with examples chosen to reflect practical applications;to enable students to make educated choices between strategies for algorithmic problem-solving;to convey the significance of computational complexity, and to present a range of methods for dealing with it in practice.",
+  "ilos": "By the end of the course students will be able to:1.Describe a wide range of efficient algorithms for problems with important applications in domains such as computational geometry, string processing and graph theory;2.Discuss why these algorithms are correct, and prove their correctness;3.Demonstrate the execution of such algorithms as applied to typical problem instances;4.Characterise and manipulate advanced data structures such as the suffix tree;5.Apply algorithmic techniques to specific problems motivated by practical applications;6.Analyse the worst-case complexity of algorithms using a variety of mathematical techniques;7.Discuss the theory and practical implications of NP-completeness;8.Explain techniques for coping with complexity, such as backtracking algorithms, pseudo-polynomial-time algorithms, constant-factor approximation algorithms, and polynomial-time approximation schemes;9.Construct proofs of NP-completeness andinapproximabilityresults."
+ },
+ {
+  "name": "Artificial Intelligence (H) COMPSCI4004",
+  "course_code": "COMPSCI4004",
+  "semester": "Semester 1",
+  "aims": "The aim of this course is to provide an overview of intelligent agent design, where agents perceive their environment and act rationally to fulfil their goals.Students will gain practical experience in labs, programming various aspects of intelligent systems.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate familiarity with the history of AI, philosophical debates, and understand the potential and limitations ofthe subject in its current form;2.Explain the basic components of an intelligent agent, and be able to map these onto other advanced subjects such as information retrieval, computer vision, database systems, robotics, human-computer interaction, reactive systems etc3.Discuss difficulties in computer perception;4.Discuss basic issues in planning;5.Explain and apply search-based problem-solving techniques;6.Formulate and apply Bayesian networks in modelling and planning;7.Explain and apply utility theory as a probabilistic framework for rational decision making;8.Explain and apply basic machine learning techniques to learn from rewards and observations."
+ },
+ {
+  "name": "Big Data: Systems, Programming, and Management (H) COMPSCI4064",
+  "course_code": "COMPSCI4064",
+  "semester": "Semester 2",
+  "aims": "The course aims to endow students with:An understanding of the new challenges posed by the advent for big data, as they refer to its modelling, storage, and access, paying particular emphasis on the impact of the desiderata of scalability and efficiency in big data infrastructures.Exposure to a number of different clouddata storesand their design and implementation details, showing how they can achieve efficiency and scalability, while also addressing design trade-offs and their impacts.Familiarity withmodernprogramming paradigms (e.g., MapReduce, RDDs, etc.), so to enable them to write programs which can execute in massively parallel infrastructures in the cloud.The ability to understand the internals of(NoSQL)clouddatastorage systems and the ability to enrich these systems with additional functionality.",
+  "ilos": "By the end of this course students will be able to:1.Design,employand evaluateprograms to access big data repositories in a massively parallel manner;2.Describe andcontrastthe internals of the design and implementationof current clouddata storageand processingsystems;3.Identify and discussissues related to the scalability and efficiency challenges when processing complex queries/algorithmsagainst big data systems, and propose ways of addressing said challenges;4.Demonstrate that they have mastered the required background knowledge to pursue graduate studies in the fields of cloud systems and big data."
+ },
+ {
+  "name": "Coaching Software Teams (H) COMPSCI4094",
+  "course_code": "COMPSCI4094",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce advanced principles, practices and methods used in whole-team coaching of Software Engineering teams.To introduce techniques for effective working in software teams in a mentoring role,To expose students to the practicalities and reality of software engineering in industry.",
+  "ilos": "By the end of this course students will be able to:1.Explain a range of advanced practices in large-scale collaborative software engineering including agile project management, stakeholder management, user research and product discovery;2.Apply and adapt mentoring techniques for working with less experienced colleagues;3.Identify, plan, implement and evaluate improvements to team software processes;4.Be aware of the limitations of existing software engineering practices in large scale systems development."
+ },
+ {
+  "name": "Computational Social Intelligence (H) COMPSCI4080",
+  "course_code": "COMPSCI4080",
+  "semester": "Semester 1",
+  "aims": "The aim of the course is to introduce the students to the main computational methodologiesfor automaticanalysisof human behaviour.In particular the course teaches how to design and organise the observation of human behaviour in viewof the application ofcomputational approaches. Furthermore, it shows how to quantify social and psychological phenomena through theapplicationofstandard psychometric questionnaires. Finally, it introduces basic methodologies - based on machine learning and statistics - aimed at mapping behavioural observations into high-level interpretations of human behaviourthat take into account social and psychologicalaspects of human-human and human-machine interactions.",
+  "ilos": "By the endof thiscourse, the students will beable to:1.Design and organise the collection of behavioural data in view of the application of statistical and computational methodologiesfor human behaviour understanding;2.Measure social and psychologicalconstructs- in quantitative terms - through the adoption of standard psychometric questionnaires;3.Applybasicstatistical methodologies (e.g.,k-Means and Nave Bayes Classifier) toautomaticallymap behavioural observations into social and psychological constructs."
+ },
+ {
+  "name": "Computer Architecture (H) COMPSCI4007",
+  "course_code": "COMPSCI4007",
+  "semester": "Semester 1",
+  "aims": "This course provides a working understanding of the fundamental principles of computer systems.  It answers the question \"How do computers work?\" at a substantive level, as well as giving a foundation needed for other areas in computer systems.  The course reviews the behaviour of digital circuits and introduces a functional hardware description language for specifying and simulating synchronous circuits.  Using the hardware description language, a complete and precise design ofa simplebut realistic computer architecture is developed.  Advanced topics include the memory system, pipelining, superscalar organisation, and interaction between the architecture and operating system, and the use of formal methods in hardware design.  Current trends are introduced, in particular parallelism and reconfigurable computing.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate understanding of a processordatapathdesign, and be able to derive the control signal settings required to make thedatapathperform an operation;2.Implement thedatapathand the control as digital circuits;3.Use simulation to explore properties of a processor circuit;4.Analyse the behaviour of a processor pipeline as the processor executes various sequences of instructions;5.Predictthe impact of the memory hierarchy on system performance;6.Describe how the operating system utilizes the architecture's supportin order toprovide processes, protection, virtual memory, and input/output;7.Discuss the role of parallelism in current and future architectures."
+ },
+ {
+  "name": "Computer Vision Methods and Applications (H) COMPSCI4066",
+  "course_code": "COMPSCI4066",
+  "semester": "Semester 1",
+  "aims": "To provide a theoretical and practical understanding of 2D and 3D visual perception based on current image analysis techniques and currently available vision software libraries.To equip the student with the ability to tackle the practical aspects of developing algorithms for vision-based applications as listed above(section 13). Therefore, CVMA will provide the student with the basic tools to undertake Level 4 and Masters projects that require vision to be applied within in these related disciplines.To prepare the student for a career in Industry as a Computer Vision specialist in areas such as Research & Development, Technical Marketing and Intellectual Property Management; or for an Academic career, e.g. PhD research or Research Assistantship.",
+  "ilos": "By the end of the course studentswillbe able to:1.Analysecritically computer vision algorithms and applications based on knowledge of image representation, image formation and basic processing techniques;2.Implement feature extraction and object recognition algorithms;3.Critically evaluate the basic geometric concepts in 3D computer vision and employed in recovery of 3Dsurfaces from stereo-pair images, or motion fields from image sequences;4.Demonstrate the ability to apply the rudiments of information theory and basic image compressiontechniques to the design of image coding/decoding algorithms;5.Demonstrate competence in the use of theprogramming languages for vision-based applications prototyping.  Demonstrate competence in the application of the key current image analysis libraries."
+ },
+ {
+  "name": "Computing Science Education Theory and Practice (H) COMPSCI4100",
+  "course_code": "COMPSCI4100",
+  "semester": "Semester 2",
+  "aims": "To develop a broad understanding of CS education principles, practices and challenges in relation to personal learning of the subject and to the development and critique of effective CS learning and teaching activities.",
+  "ilos": "By the end of this course students will be able to:Name and describe core theories, frameworks, and practices underpinning CS educationChoose and apply techniques appropriate for givenCS learning and teachingscenariosDesign educational material suitable for use in given CS education contextsAnalyse and evaluate CS education experiences and materials"
+ },
+ {
+  "name": "Cyber Security Fundamentals (H) COMPSCI4062",
+  "course_code": "COMPSCI4062",
+  "semester": "Semester 2",
+  "aims": "The aim of this course is to provide participants with the opportunity to develop a security mind-set by introducing students to introductory core material in the area of computer security.",
+  "ilos": "By the end of this course students should be able to:1.Explain the algorithms behind a number of different cryptographic and communication solutions;2.Explain a number of different security protocols;3.Evaluate an existing or proposedsystem in terms of potential vulnerabilitiesandrecommendthe most appropriatesecurity solution to applyin anumber of different scenarios;4.Summarise the key vulnerabilities, threats, and attacks with regards to network security and explain approaches to mitigate these issues.5.Implement an aspect of cyber security."
+ },
+ {
+  "name": "Data Fundamentals (H) COMPSCI4073",
+  "course_code": "COMPSCI4073",
+  "semester": "Semester 1",
+  "aims": "This course will give students skills in manipulating continuous data, specifying problems in a formsthat can be solvednumerically, dealing with unreliable and uncertain information, and communicating these results. DF(H)will introduce operations on vectors and matrices,specifying and solving problems via numerical optimisation,time seriesmodelling,scientific visualisation and basic probabilistic computation. Students will learn how to bridge the continuous and discrete worlds; for example solving graph flow problems via matrix operations, or how to do robust A/B testing of websites The focus will befirmlyon applying and solving these problems from a computer science perspective and not on theoretical background or formal proofs.",
+  "ilos": "By the end of this coursestudents will be able to:1.formulate problems in tensor form and fluently manipulate tensors;2.efficiently run vectorized code;3.apply matrix decomposition to practical problems;4.represent problems as objective functions and apply optimisation to solve them;5.formulate and understand problems with stochastic elements;6.understand the principles of Bayesian inference and apply it to simple problems;7.create effective, clear, and precise visualisations of scientific data;8.understand the effects of sampling and noise on time series;9.process, filter, summarise and plot time series and array data."
+ },
+ {
+  "name": "Database Systems (H) COMPSCI4013",
+  "course_code": "COMPSCI4013",
+  "semester": "Semester 2",
+  "aims": "From the basic skills derived in CS1F, to develop the software engineering and database administration skills required for designing, creating, running and developing a relational database application and its associated application software suite.Understanding of how conventional programming languages interact with databases;Understanding of the fundamental concepts, functional dependency and normalization theories and methods of the relational data model;Understanding the principles of database indexing, file structures, hash-based file structures, tree-based indexes;Understanding the cost-based query optimization methods;Understanding the principles of selection selectivity and joint selectivity using histograms in query optimization;Introduction to data analytics tasks and advanced methods & techniques.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate competence in performing sophisticated queries and updates against an existing RDBMS using most of the advanced features of SQL standard;2.Demonstrate skills in designing, writing, changing and testing programs(e.g., Java/JDBC)that use an RDBMS;3.Interpret and optimize SQL queries based on the principles of the cost-based query optimization;4.Provide an explanation of the database indexing techniques including File Hashing, Search Trees, Multi-level Indexes, B Trees and B+ Trees;5.Specify advanced constraints on the DB schemebased on Functional Dependencies & Normalization;6.AppreciateData analytics and aggregation tasks and techniques;7.Provide an explanation of the selection selectivity and join selectivity using histograms for query optimization."
+ },
+ {
+  "name": "Functional Programming (H) COMPSCI4021",
+  "course_code": "COMPSCI4021",
+  "semester": "Semester 1",
+  "aims": "Functional programming languages are one of the central focuses of modern research in programming languages, and they are also of immense practical utility.  This course presents the concepts of functional programming using Haskell, which is one of the most widely used functional languages.  The emphasis is on developing practical programming skills,applyingadvanced techniques such as monads, parallelism, metaprogramming, and formal methods.The aims are to understand the principles of functional programming, including functions, expressions, types, type inference, equational reasoning, and monads, and to develop the ability to solve substantial programming problems using Haskell.",
+  "ilos": "By the end of the course students will be able to:1.Write simple programs involving elementary Haskell techniques, including pure function definitions;2.Define new algebraic data types and use recursion to define functions that traverse recursive types,and use common higher-order functions such as map, fold, and filter;3.Demonstrate understanding of how to express data structures and function interfaces using types, and how to infer types;4.Understand parametric polymorphism, and ad-hoc polymorphism throughtypeclasses;5.Demonstrate understanding of the differences between strict and lazy evaluation, and thetradeoffsof the two approaches;6.Demonstrate understanding of how to structure programs using monads, how to use the most common standard monads (including IO, Maybe, and State), and how to use a monad transformer;7.Understand and use common functional abstractions such as functors and applicative functors;8.Develop substantial functional software applications including external libraries;9.Use formal methodsand property-based testingto reason about the correctness of functional programs;10.Construct, adapt, and analysecode using standard Haskelltoolssuch as Stack andHUnit"
+ },
+ {
+  "name": "Human-Computer Interaction (H) COMPSCI4023",
+  "course_code": "COMPSCI4023",
+  "semester": "Semester 1",
+  "aims": "This course will bring depth and breadth to the material covered in Interactive Systems H.  Human-Computer Interaction has moved away from a narrow focus on textual windows on a desktop, operated by one person using a keyboard and mouse.  In terms of devices, phones and other mobile systems lead to ubiquitous use and also ubiquitous sharing of data about us. In terms of data, such systems are often used to manipulate and explore complex data, including individual and social data.  They are used at a scale that pervades and changes our society, and legal and ethical issues (e.g. GDPR) are influencing what we design and how we design them. The aim of Human-Computer Interaction H will be to equip our students with skills to design for this broad use of technology. It will also to feed into Mobile Human-Computer Interaction H, which concentrates on mobile systems.The aim ofthiscourse is to give the students an overview of advanced topics in Human-ComputerInteraction, covering thekey areas ofinteraction with complex, personal and social data, via data analytics (in particular, visual analytics), and via multimodal interaction. It will address the ways that we design and evaluate such systems. There will also be a significant piece of coursework where the students will haveto design, implement and evaluate aninteractive application. This will give them valuable experience indevelopment and justification ofsuch systems.",
+  "ilos": "By the end of the course students will be able to:1.Identify thekeyconceptsandexemplarsinthe design ofnovelvisualisation systems, collaborative systems, andmultimodalsystems, and in ethical system design;2.Identify themainissuesand key concepts in evaluating such systems, in terms of immediate functionality and utility as well as in terms of wider social, legal and ethical criteria;3.Haveexperience designingsuch systems, by designing, developing and evaluatinga significant piece of interactive software embodying key aspects of the course."
+ },
+ {
+  "name": "Human-centred Systems Design and Evaluation (H) COMPSCI4014",
+  "course_code": "COMPSCI4014",
+  "semester": "Semester 1",
+  "aims": "The aims of the course are:to offer students the opportunity to become familiar with one of the most important interaction paradigms;to enable students to become skilled in the use of techniques and tools for modelling, implementing and evaluating interactive systems;toenable students to apply the theories, techniques and tools presented in the course via challenging exercises which combine design, implementation and evaluation.",
+  "ilos": "By the end of the course students will be able to:1.Describe the key problems in interaction design;2.Represent and reason about interaction designs;3.Design, implement and evaluatea simple interactive system using appropriate technology;4.Use formal, experimental and analytic techniques for evaluating interaction;5.Discusshowthe lecture material fits within the whole area of HCI research and practice."
+ },
+ {
+  "name": "Individual Project (H) (Combined) COMPSCI4024P",
+  "course_code": "COMPSCI4024P",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of the individual project is to allow students to undertake a substantial piece of individual work, involving planning, specification, design, execution, evaluation, presentation and report-writing.",
+  "ilos": "By the end of the course students will be able to:1.Manage and organise a large independent solo piece of work;2.Choose among technologies, tools and approaches and apply them effectively;3.Synthesise technical skills appropriately to address a single challenging problem;4.Develop a substantial product which demonstrates technicalachievement in computer science;5.Appropriately evaluate the outcome of their work;6.Conduct themselves in a professional manner, taking responsibility for the progress of the project, recording their time and effectively using their supervisor's input;7.Write a coherent, literate dissertation that documents the project, justifies decisions made and sets their work in context;8.Present their work orally to a technical audience, communicating their project precisely and fluently;9.Produce concise, informative video summaries of their work."
+ },
+ {
+  "name": "Individual Project (H) (Single) COMPSCI4025P",
+  "course_code": "COMPSCI4025P",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of the individual project is to allow students to undertake a substantial piece of individual work, involving planning, specification, design, execution, evaluation, presentation and report-writing.",
+  "ilos": "By the end of the course students will be able to:1.Manage and organise a large independent solo piece of work;2.Choose among technologies, tools and approaches and apply them effectively;3.Synthesise technical skills appropriately to address a single challenging problem;4.Develop a substantial product which demonstrates technical achievement in computer science;5.Appropriately evaluate the outcome of their work;6.Conduct themselves in a professional manner, taking responsibility for the progress of the project, recording their time and effectively using their supervisor's input;7.Write a coherent, literate dissertation that documents the project, justifies decisions made and sets their work in context;8.Present their work orally to a technical audience, communicating their project precisely and fluently;9.Produce concise, informative video summaries of their work."
+ },
+ {
+  "name": "Information Retrieval (H) COMPSCI4069",
+  "course_code": "COMPSCI4069",
+  "semester": "Semester 2",
+  "aims": "To present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web.To present students with the practical engineering issues raised by the design and implementation of an information retrieval system.",
+  "ilos": "By the end of the course students will be able to:1.Implement a standard information retrieval (IR) system;2.Discuss the theoretical basis behind the standard models of IR (e.g. Boolean, Vector-space, and Probabilistic models);3.Discuss how an IR system should be evaluated in terms of the system's performance and the user's satisfaction with the system;4.Describe the techniques in organising information;5.Describe the techniques involved in retrieving information from the World Wide Web;6.Describe the practical engineering issues raised by the implementation of a search engine for the Web."
+ },
+ {
+  "name": "Machine Learning (H) COMPSCI4061",
+  "course_code": "COMPSCI4061",
+  "semester": "Semester 1",
+  "aims": "To present students with an introduction to the general theory of learning from data and to a number of popular Machine Learning methods.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate knowledge of the major machine learning application areas in, for example Information Retrieval, Human Computer Interaction, Bioinformatics and Computer Vision & Graphics;2.Explain the principle of learning from data;3.Implement and use machine learning algorithms inPython;4.Apply the main machine learning methods: regression, classification, clustering, probability density estimation and dimensionality reduction;5.Explain thetypicalstrengths and weaknesses of a selection of common algorithms6.Appreciate someadvancedmachine learning approaches, e.g.non-parametric methods,sampling techniquesand neural networks."
+ },
+ {
+  "name": "Mobile Human-Computer Interaction (H) COMPSCI4068",
+  "course_code": "COMPSCI4068",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce the challenges of developing interactive systems for mobile computing devices, e.g., mobile phones and wearable computers. Students will learn about challenging aspects of mobile interaction contexts, e.g., device movement, situational impairments, social acceptability. This course will introduce interaction design concepts like prototyping and evaluation through user studies. This is not intended as a mobile application development course but will briefly introduce core concepts andmethodsforprototyping novel interactions.",
+  "ilos": "By the end of this course students will be able to:1.Explain problems associated with human-computer interaction in mobile and ubiquitous usage contexts.2.Critically analyse a proposed mobile interactive system considering its intended usage context.3.Design usable mobile interactive systems for a given problem or application area.4.Develop and evaluate prototypes of mobile interactive systems using a variety of prototyping methods and evaluation techniques.5.Discuss cutting edge developments in mobile human-computer interaction, such as context-aware systems, sensor-based interaction, location-based interaction, and mixed reality."
+ },
+ {
+  "name": "Modelling Reactive Systems (H) COMPSCI4031",
+  "course_code": "COMPSCI4031",
+  "semester": "Semester 1",
+  "aims": "Reactive systems are widely and increasingly used throughout society (e.g. telecommunications, flight control, railway signalling, medical devices).  An understanding of the fundamentals of these systems, at an abstract level, is essential for the development of process control systems and should be a pre-requisite for anyone developing software for such applications.  This course provides in-depth study of key formal techniques used in designing and analysing concurrent, reactive systems; and topresent the practical issues raised by using a number of such formalisms and associated software tools, particularly within the context of developing communications protocols and othercommunications applications.Students will learn to model systems using the Promela specification language and associated verification tool SPIN. In addition, probabilistic systems will be modelled as Discrete Time Markov Chains using the PRISM language and tool.",
+  "ilos": "By the end of the course students will be able to:1: Clearly differentiate issues that arise in concurrent, reactive,distributed, and probabilistic systems;2: Explain the various concepts of concurrency and communication that arise in such systems;3: Demonstrate understanding of the concepts of signalling and control and associated modelling issues;4: Develop message sequence charts for a reactive system;5: Enumerate the differences between non-probabilistic and probabilistic formalisms;6: Design and analyse a reactive system, including a communication protocol, using appropriate design techniques and mechanised analysis tools (SPIN and PRISM);"
+ },
+ {
+  "name": "Networked Systems (H) COMPSCI4012",
+  "course_code": "COMPSCI4012",
+  "semester": "Semester 2",
+  "aims": "To introduce the fundamental concepts and theory of communications;To provide a solid understanding of the technologies that support modern networked computer systems;To introduce low-level networkprogramming concepts, and give students practice with systems programming in C;To provide our students with the ability to evaluate and advise industry on the use and deployment of networked systems.",
+  "ilos": "By the end of the course students will be able to:1.Describe and compare capabilities of various communication technologies and techniques;2.Point out differences between networks of different scale, and how these affect their design;3.Describe the issues in connecting heterogeneous networks;4.Describe importance of layering, and the OSI reference model;5.Detail demands of different applications on quality of service requirements for the underlying communication network;6.Demonstrate an understanding of the design and operation of an IP network, such as the Internet, and explain the purpose and function of its various components;7.Write simple low-level communication software, showing awareness of good practice for correct and secure programming."
+ },
+ {
+  "name": "Operating Systems (H) COMPSCI4011",
+  "course_code": "COMPSCI4011",
+  "semester": "Semester 2",
+  "aims": "To introduce the students to the styles of coding required with an OS;To give a thorough presentation of the contents of a traditional OS, including the key abstractions;To show the range of algorithms and techniques available for specific OS problems, and the implications of selection specific algorithms for application behaviour;To develop an integrated understanding of what the computer is doing, from a non-naive view of hardware to the behaviour of multi-threaded application processes; present the alternatives and clarify the trade-offs that drive OS and hardware design.",
+  "ilos": "By the end of this course, students will be able to:1.Use current operating system terminology in correctly explaining the functions of an OS;2.Relate operating system functions to computer hardware;3.Describe the mechanisms of interrupts, context switching and address translation;4.Describe the relation of operating system functions to language run-time systems;5.Explain the significance of concurrency in operating system design;6.Demonstrate an understanding of the semantics of operating system functions, including scheduling and memory management, by being able to describe their functioning;7.Implement simple operating system componentsand basic algorithms (CPU scheduling, deadlock detection and avoidance algorithms);8.Critique designs and implementations of OS components,egthe Unix file system;9.Illustrate the influence of operating system functions on application behaviour;10.Compare and contrast alternative approaches to hardware components such as the CPU and bus;11.Engineer medium-sized (multi-file) software components for integration into larger Cand/or Java programs."
+ },
+ {
+  "name": "Patient Centred Health-Technologies COMPSCI4101",
+  "course_code": "COMPSCI4101",
+  "semester": "Semester 1",
+  "aims": "The aim of this course is to give students an overview of human-centred digital healthcare design, why it is important but difficult and how to start to address common challenges in it. Students will be introduced to emerging areas of innovation in digital healthcare delivery, the challenges that are faced by designers, and the techniques from human-computer interaction, psychology and social sciences that help to improve address them.",
+  "ilos": "By the end of this course students will be able to:1.Identify and critically appraise several different areas of innovation in digital healthcare design including the opportunities that are present and the barriers to their deployment.2.Analyse new digital healthcare innovations and 1) identify potential problem areas (including design, AI implementation, and sensor reliability) then 2) respond with a plan using the techniques they have been taught to start to address those issues.3.Appraise how inequalities in healthcare delivery are reenforced or mitigated depending on how we design digital healthcare."
+ },
+ {
+  "name": "Professional Skills and Issues (H) COMPSCI4038",
+  "course_code": "COMPSCI4038",
+  "semester": "Semester 1",
+  "aims": "Graduates in Computing Science, Software Engineering, and related disciplines need to understand thesocial, ethical, legal, andprofessionalas well as technicalissuesinherent in thewidespread deployment ofinformation technology(IT).Theyneed to develop the ability to ask serious questions about the social impact ofITand to evaluate proposed answers to those questions.They need to know thelaws andprofessionalcodes of conduct relevant to the IT industry(e.g.,intellectual property, privacy,freedom of information,computerand Internetmisuse,and professional responsibilities).This course aims to:stimulate thinking about the social and ethical implications of the widespread and sustainable use of IT;develop students' awareness of the laws and professional codes of conduct governing the IT industry;expose students to IT industry working practices, including the need forcontinuing professional development;develop information gathering skills;encourage students to adopt principled, reasoned stances on important issues in the topic area;developstudents'verbal and written argumentation skills.",
+  "ilos": "By the end of this course students will be able to:1.Identify the principal social, ethical, legal, and professional issues in information technology (IT);2.Explain the laws and codes of conduct relevant to the IT industry, and relate them to examples of IT in practice;3.Use analytical tools to break down complex ethical issues in IT;4.Develop and present arguments on social, ethical, legal, and professional issues in IT;5.Constructively criticise the arguments of others."
+ },
+ {
+  "name": "Professional Software Development (H) COMPSCI4015",
+  "course_code": "COMPSCI4015",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aims of the course are to:Introduce students to modern software development methods and techniques for building and maintaininglarge systems;Preparestudents to apply these methods and techniques presented to them in the context of an extended group-based software development exercise(Team Project (H));Make the students aware of the professional, social and ethical dimensions of software development;Instil in the students a professional attitude towards software development.",
+  "ilos": "By the end of this course students will be able to:1.Identify the main phases of software development and how they are related in contemporary development methods;2.Maintainan existing medium to large-scale system according to supplied requirements (this will include modifying some of the system documentation);3.Identify and discuss critically professional, social and ethical issues involved in large-scale software development;4.Plan, organise and schedulea substantial team basedproject;5.Capture and specify functional and non-functional requirements;6.Design, specify; implement and test a system which demonstrably meets project requirements;7.Maintainappropriate, clear and accurate documentation;8.Use appropriate QA techniques, including test suite planning;9.Use appropriate configuration management tools and techniques;10.Deliver articulate and informative presentations on project topics;11.Communicate effectively within the project team;12.Work successfully within a team."
+ },
+ {
+  "name": "Programming COMPSCI4039",
+  "course_code": "COMPSCI4039",
+  "semester": "Semester 1",
+  "aims": "To provide a firm foundation in skills and key concepts essential for programming in Java, which is the main language used in the MSc IT programme.To provide a thorough introduction to problem solving and Java programming, giving a basis for study in topics such as algorithms and data structures, object-oriented design, and human computer interaction.To develop skills, required for implementing solutions to well-specified programming problems, which could then be transferred to other programming languages.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate familiarity with the relevant programming environment;2.Perform simple programming using primitive data types and objects;3.Implement simple algorithms using repetition and conditional execution;4.Develop well-structured programs in Java, employing suitable elementary algorithms and data structures as required;5.Write maintainable, robust, reliable, and reusable code, together with concise and informative documentation;6.Provide evidence of program correctness through thorough testing."
+ },
+ {
+  "name": "Programming Languages (H) COMPSCI4016",
+  "course_code": "COMPSCI4016",
+  "semester": "Semester 2",
+  "aims": "This course aims to:Provide a conceptual framework that will enable students to understand familiar programming languages more deeply and learn new languages more efficiently;Show how the syntax of a programming language can be formalized;Explain the functions of compilers and interpreters, how they interact, and how they work;Show how to implement a compiler using compiler-generation tools.",
+  "ilos": "By the end of the course students will be able to:1.Describe the relationships between the imperative, object-oriented, and functional programming paradigms;2.Explain fundamental programming language concepts such as values and types, variables and lifetime, bindings and scope, procedural abstraction, data abstraction, and generic abstraction;3.Explain the distinction between syntax and semantics, and read and write syntactic specifications of programming languages;4.Explain the functions of compilers and interpreters, and compiler-interpreter interactions such as multi-stage compilers, interpretive compilers, and just-in-time compilers;5.Implement a compiler and interpreter for a very simple programming language using compiler-generation tools."
+ },
+ {
+  "name": "Programming and Systems Development (H) COMPSCI4084",
+  "course_code": "COMPSCI4084",
+  "semester": "Semester 1",
+  "aims": "Toenhance existing skillsand practical processes forprogramming in Java and Python, which are the main languages used in the MSc programmeTo improve skill at using online information to pick up new languages, APIs or toolsTo become familiar with common tools needed to build working systems, including repositories, virtual machines and servers.Todevelopknowledgeof the use of the LINUX operating system and experience of using the tools available under LINUX for programming and system administration.",
+  "ilos": "By the end of this course students will be able to:1.Demonstrate familiarity with the relevantmodernprogramming environments;2.Use the command line and a text editor competently, ideally with experience with a modern IDE;3.Develop well-structured programs in Java and Python,andbe proficient inlookingfor onlinehelp, and be prepared to pick up new skills independently;4.Explainthe importanceofconcise and informative documentation, and use modern documentation tools;5.Provide evidence of program correctness through thorough testing;6.Describe and useversion control processes, and be able to checkoutand usea repository(e.g. git);7.Launch, edit and use Jupyter/Colab notebooks (including ability to work withbasic operations onnumpy arrays);8.Use basic SQL from Java and Python, and be able to set up a basic server;9.Be able to spin up aContainer(e.g.Docker VM (and/or Kubernetes));10.Creating/adapting a basic graphical user interface (give them some exposure to a modern GUI and how to adapt it);11.Describethe basics of user interaction with the Linux shell,file navigation, system monitoring, printing;12.Explainhow to install and configure software under Linux, and be able to write and execute simple Linux shell scripts."
+ },
+ {
+  "name": "Recommender Systems (H) COMPSCI4075",
+  "course_code": "COMPSCI4075",
+  "semester": "Semester 2",
+  "aims": "Recommender systems are widely deployed stochastic retrieval systems - a search system that learns what to suggest to a user based upon no explicit user input (i.e. zero query), but make suggestions using what is known about the user or the demographics that the user belongs to.With the prevalence of recommender systems, from e-commerce sites to supermarket loyalty cards, it can be seenrecommendation technologies have the potential to be more ubiquitous than search technologies.This course introduces the concepts, applications, algorithms, programming, and design of recommender systems -- software systems that recommend products or information, often based on extensive personalization. This course discusses various techniques for making recommendations that are widely used in industry, including non-personalized, content-based, and collaborative recommendation techniques, and their evaluation.",
+  "ilos": "By the end of this course students will be able to:1.Describe the techniques in making automatic recommendations andpersonalisingthem for individual users.2.Describe different recommendation systemscenarios,and models suitable for deployment therein.3.Discuss how a recommender system should be evaluated in terms of the system's performance and the user's satisfaction with the system.4.Describe the practical engineering issues raised by the implementation of a recommender system in a real deployment.5.Implementand evaluatea standard recommender system."
+ },
+ {
+  "name": "Robotics Foundations (H) COMPSCI4076",
+  "course_code": "COMPSCI4076",
+  "semester": "Semester 2",
+  "aims": "The aims of Robotics Foundations are:To facilitate students understanding ofcore concepts involved in robotic softwaredevelopment, from perception to planning and action;Tounderstandhow sensed data and pre-obtained information, or world/domain \"knowledge\", is used to plan interaction with the environmentTo understand matrix andtransformationmathematicaloperators to accomplish complex robotic motions.To develop the ability to implement, test, validate and deploy amobile/manipulation robotic problem, based ontheuse oftheRobotOperatingSystem.The relationship between physical robots and their virtual equivalents required for simulation, developmentand debuggingwill also be considered.To develop a complete robotic application using off-the-shelf virtual robotic platforms.",
+  "ilos": "By the end of this course,students will be able to:1.Describeand understandwhat constitutes a robot system2.Formulaterobot's information capabilities within robotic middleware and understand how data is transformedfrom basiccontrol, sensor and perception functions to robot actions3.Create and implementrobot kinematics and motions in mobile robots and robot manipulators4.Apply techniques for path and motion planning that allows a robot to move5.Design control/behaviour tasks for mobile robots and robot manipulators6.Applypractical software engineering principles during the development of a robotic application7.Understand the facilities provided by ROS and how to structure robot control software systems using ROS and vision systems inOpenCV.8.Be able to program a data processing pipeline consisting of a robot control system in the ROS environment to carry out a specific task, such as locating an object, grasping it and placing it in another location."
+ },
+ {
+  "name": "Software Engineering Full Year Industrial Placement H COMPSCI4079",
+  "course_code": "COMPSCI4079",
+  "semester": "Full Year",
+  "aims": "To give students the experience of a real software development environment.To embed the software engineering theory, principles and tools studied during the previous three years through practical experience.Enable students to contextualise their own experiences of software engineering within an understanding of the wider disciplineTo develop a student's ability to evaluate and enhance their personal software process.",
+  "ilos": "By the end of this course students will be able to:Describe applicability of practices, methods and tool taught in software engineering and other academic computing science courses to real world software development efforts.Select appropriate sources of information on Software Engineering in practice.Critically analyse empirical software engineering, case studies and experience reports.Communicate reflectively on their experiences on placement and the relationship to theoretical material delivered at University."
+ },
+ {
+  "name": "Software Engineering Summer Placement (H) COMPSCI4046",
+  "course_code": "COMPSCI4046",
+  "semester": "Summer",
+  "aims": "To give students the experience of a real software development environment.To embed the software engineering theory, principles and tools studied during the previous three years through practical experience.To develop a student's ability to evaluate and enhance their personal software process.",
+  "ilos": "By the end of the course students will be able to:1.Describe applicability of practices, methods and tool taught in software engineering and other academic computing science courses to real world software development efforts;2.Present a summary of their contribution during their placement;3.Discuss and reflect on their experiences during their placement."
+ },
+ {
+  "name": "Software Product Release Engineering (H) COMPSCI4102",
+  "course_code": "COMPSCI4102",
+  "semester": "Semester 2",
+  "aims": "To introduce advanced principles, methods and approaches in Software Product Release Engineering,To introduce techniques for effective maintenance and evolution of working software,To expose students to the practicalities and reality of software engineering in industry.",
+  "ilos": "By the end of this course students will be able to:1.Explain a range of advanced practices in software product release engineering including change management, continuous integration and -delivery, software evolution, build automation, and software security;2.Reflect critically on the design decisions and trade-offs involved in building and releasing long-lived software products;3.Apply and adapt techniques for planning and maintaining up-time and maintenance cycles;4.Understand and apply known stability patterns to maintain scaling and software release availability targets;5.Design, plan, implement, deploy, maintain and evolve software  releases;6.Be aware of the limitations of existing software engineering practices in large scale systems development."
+ },
+ {
+  "name": "Startup Growth Engineering (H) COMPSCI4087",
+  "course_code": "COMPSCI4087",
+  "semester": "Semester 2",
+  "aims": "To familiarise students with the fundamental techniques used by tech companies to drive exponential user growth, including user retention techniques, the different types of compounding growth mechanisms, and optimization techniques.To equip students with the analytical and strategy skills necessary to analyse real-world start-up growth trajectories and construct predictive and optimisation models to drive user growth.To enable students to apply these techniques in team situations and to gain an understanding of the typical Growth Engineering team structures and processes employed in Silicon Valley and other leading start-up incubation areas.",
+  "ilos": "By the end of this course students will be able to:1.explain and apply the techniques used to create viral user growth in tech companies;2.create a growth strategy for a start-up, designed to drive exponential growth.3.explain the key metrics involved in driving start-up exponential growth, and how to optimise those metrics;4.qualitatively and quantitatively predict the growth performance of a product or start-up based on current growth metrics5.analyse and explain why some start-ups grow into very large-scale organisations, while others with similar products fail;6.explain how growth teams are configured inside leading start-ups and the development models used by them."
+ },
+ {
+  "name": "Systems And Networks COMPSCI4043",
+  "course_code": "COMPSCI4043",
+  "semester": "Semester 1",
+  "aims": "To introduce the structure and function of computer systems, in particular:To introduce the concept of representation of data.To provide a general understanding of what computers are and how they work.To provide background helpful for better understanding the behaviour of programming languages, compilers, and operating systems.To convey understanding of descriptions of computer systems and projections of future trends.",
+  "ilos": "By the end of the course students will be able to:1.Describe the main components of a computer system;2.Describe the concepts of digital representation, bits and words;3.Work with the binary and two's complement representation of numbers and convert between these and decimal numbers;4.Explain how the behaviours of signed and unsigned operations are caused by the underlying representation;5.Describe of how basic control constructs and algorithms are translated to machine language;6.Compare critically two machine architectures at the instructions set level;7.Describe the central functions of an operating system;8.Describe how virtual memory works, together with its benefits and limitations;9.Describe how end systems and routers are connected in the Internet;10.Explain the main levels of abstraction in computer networks."
+ },
+ {
+  "name": "Systems Programming (H) COMPSCI4081",
+  "course_code": "COMPSCI4081",
+  "semester": "Semester 1",
+  "aims": "To introduce low-level systems programming concepts and develop the students' experience and understanding of programming in a systems language;To develop the ability to craft efficient and effective code in a pointer-rich language;To develop the ability to manage memory, and other resources, in a language/environment that lacks automatic storage management;To demonstrate the impact of data layout, caching, non-uniform memory access, virtual memory, and other machine specifics on the performance of systems code;To explore a variety of different concurrency control mechanisms, and develop practice programming concurrent code in a systems language; andTo introduce students to the differences between hardware platforms and operating systems, and the impact these have on systems programming.",
+  "ilos": "By the end of this course students should be able to:Demonstrate competence in low-level systems programming;Design, implement and explain the behaviour of low-level programs written in a systems language;Explain the concepts of stack and heap allocation, pointers, and memory ownership, including demonstrating an understanding of issues such as memory leaks, buffer overflows, use-after-free, and race conditions;Explain how data structures are represented, and how this interacts with caching and virtual memory, and to be able to demonstrate the performance impact of such issues;Discuss and reason about concurrency, race conditions, and the system memory model; andBuild well-structured concurrent systems programs of moderate size, using libraries and static analysis tools appropriately."
+ },
+ {
+  "name": "Team Project (H) COMPSCI4047",
+  "course_code": "COMPSCI4047",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce students to the constraints and challenges of substantial, long lived software development projects.  To provide the opportunity to practice software industry standard practices and tools for managing the complexity of large scale software development.",
+  "ilos": "By the end of this course students will be able to:1.Manage a substantial team based software project in a disciplined and organised manner;2.Work with a customer in a problem domain to elaborate, specify and refine requirements;3.Select, and employ industry standard software practices and tools as appropriate within a software process;4.Present project progress through short demonstrations;5.Review, analyse and adapt project processes within a process improvement framework."
+ },
+ {
+  "name": "Team Project ESE (H) COMPSCI4044",
+  "course_code": "COMPSCI4044",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce students to the constraints and challenges of substantial, long lived software development projects.  To provide the opportunity to practice software industry standard practices and tools for managing the complexity of large scale software development.",
+  "ilos": "By the end of this course students will be able to:1.Manage a substantial team based hardware and software project in a disciplined and organised manner;2.Work with a customer in a problem domain to elaborate, specify and refine requirements;3.Select, and employ industry standard software practices and tools as appropriate within a software process;4.Present project progress through short demonstrations;5.Review, analyse and adapt project processes within a process improvement framework."
+ },
+ {
+  "name": "Team Project Minor (H) COMPSCI4070",
+  "course_code": "COMPSCI4070",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce students to the constraints and challenges of long lived software development projects.  To provide the opportunity to practice software industry standard practices and tools for managing the complexity of large scalesoftware development.",
+  "ilos": "By the end of this course students will be able to:1.Manage a small scale team based software project in a disciplined and organised manner;2.Work with a customer in a problem domain to elaborate, specify and refine requirements;3.Select, and employ industry standard software practices and tools as appropriate within a software process;4.Present project progress through short demonstrations;5.Review, analyse and adapt project processes within a process improvement framework."
+ },
+ {
+  "name": "Text as Data - An Introduction to Document Analytics (H) COMPSCI4074",
+  "course_code": "COMPSCI4074",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce students tolanguage modelling, geometric interpretations of documents, information theory, network models and in general the use ofstochastic thinking (including building on the probability theory learned during theData Fundamentalscourse). This isillustrated througha number ofsupervised and unsupervised text processing and analytics approachesas well as their applications such as bibliometric analysis, web link analysis, and social media analytics.The course is designed to be applied in nature, using text analytics as an example, and introducing students to various toolkits for document processing (e.g. Weka/SparkMlib).",
+  "ilos": "By the end of this course students will be able to:1.Describe classical modelsfor textual representationssuch as the vector space, network graphs, language modelling.2.Identify potential applications of text analytics in practice.3.Describe various common techniques for regression, classification, clustering and topic modelling, and select the appropriate machine learning task for a potential document processing application.4.Represent data as features to serve as input to machine learning models.5.Assess machine learning model quality in termsof relevant error metrics fordocument processing tasks, in an appropriate experimental design.6.Deploy unsupervised and machine learned approaches for document/text analytics tasks."
+ },
+ {
+  "name": "Web Science (H) COMPSCI4077",
+  "course_code": "COMPSCI4077",
+  "semester": "Semester 2",
+  "aims": "The objective ofthis courseis tointroduce students to the field of web science and critically examine methodologies and techniques used in the field.",
+  "ilos": "By the end of this course students will be able to:1.Skills to analyse and implement technical solutions on social web applications2.Describe the techniques employed in developing advertising models on the web3.Describe the techniques needed to analyse social networks4.Ability to understand and rationalise privacy threats and mitigation strategies in online communities5.Describemethodologies to conduct large scale data analysisto analyse user behaviour on the web,to predict user demographics and purchase behaviours6.Describesentiment and emotion extraction techniquesand employ them."
+ },
+ {
+  "name": "Workplace Assessment Year 4 COMPSCI4085P",
+  "course_code": "COMPSCI4085P",
+  "semester": "Full Year",
+  "aims": "This project aims to give the student an opportunity to demonstrate their ability to plan and manage a significant piece of software development work. They should be able to make decisions rationally and justify these decisions convincingly based on research. They should also display their technical writing ability by presenting their work as a dissertation.",
+  "ilos": "By the end of this course, students will be able to:1.Independently design and constructor extenda substantial software product which demonstrates technical achievements in computer science.2.Applytechnologyandtoolsin the workplace.3.Manage technical skills appropriately to address a challenging problem in computer science.4.Compose and present a dissertation that documents a software engineering projectand debate the decisionsandset their work in the context of a software suite."
+ },
+ {
+  "name": "Workplace Project Supplement COMPSCI4093P",
+  "course_code": "COMPSCI4093P",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of this course is to allow Graduate Apprenticeship students in the final year of the programtoenhancetheir work-based learning byspendingmoretime in the workplaceon more, larger, and/or more ambitious project(s) on top of the project they are alreadysubmitting as part of the co-requisite\"Workplace Assessment Year 4\"module.",
+  "ilos": "By the end of this course, students will be able to:1.Independently design and constructor extenda substantial software product which demonstrates technical achievements in computer science.2.Applytechnologyandtoolsin the workplace.3.Manage technical skills appropriately to address a challenging problem in computer science.4.Appropriately evaluate the outcome of their work.5.Communicate reflectively on their experiences and the relationship to theoretical material delivered atuniversity."
+ },
+ {
+  "name": "Advanced Programming (M) COMPSCI5002",
+  "course_code": "COMPSCI5002",
+  "semester": "Semester 2",
+  "aims": "The course is intended to extend the student's knowledge to encompass a number of important programming techniques necessary for building a modern computing application.  The course content will include techniques in Java to deal with a range of issues drawn from the following:  program design using an object oriented programming model; modelling data using programming language type systems; event and exception programming; thread programming; persistence; and distributed programming.  It will also cover in brief the underlying Java run time system and techniques found in other languages.",
+  "ilos": "By the end of the course students will be able to:1.Use the programming language concepts covered in the earlier Programming course: type checking, scoping, abstraction, data hiding and encapsulation; in an effective way;2.Describe the core concepts and issues involved in programming with polymorphic constructs, multiple threads of execution, and networking mechanisms in a generalway;3.Use these concepts in Java programs."
+ },
+ {
+  "name": "Advanced Systems Programming (M) COMPSCI5083",
+  "course_code": "COMPSCI5083",
+  "semester": "Semester 2",
+  "aims": "The computing landscape has changed radically in the last decade. The desktop personal computer has become largely irrelevant, and heterogeneous, multicore, mobile, and real-time systems - smart mobile phones, netbooks, and laptops - are now ubiquitous. Yet, despite this shift, these systems are still programmed in C, and the majority run some variant of the Unix operating system.The course aims to explore the features of modern programming languages and operating systems that can ease the challenges of systems programming, considering type systems and run-time support. It will review the research literature on systems programming and operating system interfaces, discuss the limitations of deployed systems, and consider how systems programming might evolve to address the challenges of supporting modern computingsystems.  Particular emphasis will be placed on system correctness and secure programming, to ensure the resulting systems are safe to use in an adversarial environment.",
+  "ilos": "By the end of thiscourse students will be ableto:Discuss the advantages and disadvantages of C as a systems programming language, and to compare and contrast this with a modern systems programming language, for example Rust;todiscuss the role of the type system, static analysis, and verification tools in systems programming, and show awareness of how to model system properties using the type system to avoid errors;Discuss the challenges of secure low-level programming and write secure code in a modern systems programming language to perform systems programming tasks such as parsing hostile network input; show awareness of security problems in programs written in C;Discuss the advantages and disadvantages of integrating automatic memory management with the operating system/runtime, to understand the operation of popular garbage collection algorithms and alternative techniques for memory management, and know when it might be appropriate to apply such techniques and managed run-times to real-time systems and/or operating systems;Understand the impact of heterogeneous multicore systems on operating systems, compare and evaluate different programming models for concurrent systems, their implementation, and their impact on operating systems; andConstruct and/or analyse simple programming to demonstrate understanding of novel techniques for memory management and/or concurrent programming, to understand the trade-offs and implementation decisions."
+ },
+ {
+  "name": "Algorithms And Data Structures (M) COMPSCI5004",
+  "course_code": "COMPSCI5004",
+  "semester": "Semester 2",
+  "aims": "To study the concept of algorithms, and how to analyse their efficiency;To study the concept of abstract data types, and the abstract data types most commonly used in software development;To study the basic data structures most commonly used to represent these abstract data types, together with algorithms operating on these data structures.",
+  "ilos": "By the end of the course students will be able to:1: Discuss the concepts of algorithms and algorithm complexity;2: Use an abstract data type (ADT);3: Identify commonly used to represent the above ADTs (arrays,linked lists,search trees,hash tables);4: Describe algorithms expressed in a suitable notation;5: Use basic insertion,deletion,searching, merging,and sorting algorithms;6: Implement these algorithms in a suitable programming language;7: Detail complexity of these algorithms;8: Use recursion in algorithms and programs;9: Describe ADTs specified informally;10: Design,specify,and implement ADTs;11: Code standard ADTs (strings,stacks,queues,lists,sets,maps,trees,graphs);12: Recognise how to decide which ADTs are suitable for use in particular programs;13: Implement these data structures in a suitable programming language;14: Describe how the complexity of ADT operations is affected by the choice of data structures."
+ },
+ {
+  "name": "Artificial Intelligence (M) COMPSCI5087",
+  "course_code": "COMPSCI5087",
+  "semester": "Semester 1",
+  "aims": "The aim of this course is to provide an overview of intelligent agent design, where agents perceive their environment and act rationally to fulfil their goals.Students will gain practical experience in labs, programming various aspects of intelligent systems.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate familiarity with the history of AI, philosophical debates, and understand the potential and limitations of the subject in its current form;2.Explain the basic components of an intelligent agent, and be able to map these onto other advanced subjects such as information retrieval, computer vision, database systems, robotics, human-computer interaction, reactive systems,etc;3.Discuss difficulties in computer perception;4.Discuss basic issues in planning;5.Explainand apply search-based problem-solving techniques;6.Formulate and apply Bayesian networks in modelling and planning;7.Explainand apply utility theory as a probabilistic framework for rational decision making;8.Explainand applybasicmachine learning techniques to learn fromrewardsandobservations;9.Discussemergingand advancedmachine learningtechniquestolearnfromrewards andobservationsin high-dimensionalplanningproblems(e.g. deep reinforcementlearning,MontoCarlo tree-search, etc.)"
+ },
+ {
+  "name": "Big Data: Systems, Programming, and Management (M) COMPSCI5088",
+  "course_code": "COMPSCI5088",
+  "semester": "Semester 2",
+  "aims": "The course aims to endow students with:An understanding of the new challenges posed by the advent for big data, as they refer to its modelling, storage, and access, paying particular emphasis on the impact of the desiderata of scalability and efficiency in big data infrastructures.Exposure to a number of different cloud data stores and their design and implementation details, showing how they can achieve efficiency and scalability, while also addressing design trade-offs and their impacts.Familiarity with modern programming paradigms (e.g., MapReduce, RDDs, etc.), so to enable them to design and develop programs which can execute in massively parallel infrastructures in the cloud.The ability to discuss and appraise the internals of (NoSQL) cloud data storage systems, and the ability to enrich these systems with additional functionality.A deep knowledge of the latest evolutions in the field of big data systems.",
+  "ilos": "By the end of this course students will be able to:1.Design, develop and evaluateprograms to access big data repositories in a massively parallel manner;2.Discussandcontrastthe internals of the design and implementationof current cloud data storage and processing systems;3.Identify andanalyseissues related to the scalability and efficiency challengesofprocessing complex queries/algorithmsagainst big data systems, and develop and assess ways of addressing said challenges;4.Explain and appraise state-of-the-art research in the field of big data systems.5.Demonstrate that they have mastered the required background knowledge to pursue graduate studies in the fields of cloud systems and big data."
+ },
+ {
+  "name": "Coaching Software Teams (M) COMPSCI5113",
+  "course_code": "COMPSCI5113",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce advanced principles, practices and methods used in whole-team coaching of Software Engineering teams.To introduce techniques for effective working in software teams in a mentoring role,To expose students to the practicalities and reality of software engineering in industry.",
+  "ilos": "By the end of this course students will be able to:1.Explain a range of advanced practices in large-scale collaborative software engineering including agile project management, stakeholder management, user research and product discovery;2.Apply and adapt mentoring techniques for working with less experienced colleagues;3.Identify, plan, implement and evaluate improvements to team software processes;4.Be aware of the limitations of existing software engineering practices in large scale systems development."
+ },
+ {
+  "name": "Computational Social Intelligence (M) COMPSCI5095",
+  "course_code": "COMPSCI5095",
+  "semester": "Semester 1",
+  "aims": "The aim of the course is to introduce the students to the main computational methodologies for automatic analysis of human behaviour. In particular the course teaches how to design and organise the observation of human behaviour in view of the application of computational approaches. Furthermore, it shows how to quantify social and psychological phenomena through the application of standard psychometric questionnaires. Finally, it introduces basic methodologies - based on machine learning and statistics - aimed at mapping behavioural observations into high-level interpretations of human behaviour that take into account social and psychological aspects of human-human and human-machine interactions.",
+  "ilos": "By the end of this course students will be able to:1.To design and organise the collection of behavioural data in view of the application of statistical and computational methodologies for human behaviour understanding;2.To formulate and assesssocial and psychological constructs - in quantitative terms - through the adoption of standard psychometric questionnaires;3.To design and constructstatistical methodologiesaimed atautomatically mappingbehavioural observations into social and psychological constructs;4.To engage with the scientific literature relevant to the topics presented in the course in view of evaluating and comparing multiple approaches aimed at addressing the same problem;5.To formulate the theoretic principles underpinning the methodologies presented in the course."
+ },
+ {
+  "name": "Constraint Programming (M) COMPSCI5006",
+  "course_code": "COMPSCI5006",
+  "semester": "Semester 1",
+  "aims": "To enable students to implement constraint programming solutions to a number of combinatorial problems using a state of the art constraint programming toolkit.To give students a critical appreciation of the fundamental concepts of constraint satisfaction and constraint programming, and the ability to compare to related search approaches.To give the student an appreciation of, and exposure to, commercial applications and the research directions in constraint programming.To understand the basic mechanics of a constraint programming toolkit (such that they might implement such a toolkit).",
+  "ilos": "By the end of this course students will be able to:1: Model complex problems (such as scheduling problems, design and configuration problems) as constraint programs, using a state of the art constraint programming toolkit;2: Implement the algorithms for achieving constraint propagation, and critically appreciate the costs and benefits of different levels of consistency;3: Demonstrate extensive, detailed and critical knowledge and understanding of constraint satisfactionfrom a theoretical point of view, and be able to compare to other combinatorial approaches;4: Implement, the search algorithms typically used in constraint programming;5: Use various variable and value ordering heuristics;6: Discuss current issues and research direction in constraint programming."
+ },
+ {
+  "name": "Conversational Interfaces (M) COMPSCI5094",
+  "course_code": "COMPSCI5094",
+  "semester": "Semester 2",
+  "aims": "The aim of the course is tosurveythe theoretical and practical aspectsinvolved inimplementingand evaluatingconversational interfaces. It introduces themaincomponent tasks involved in a conversational interaction, ranging from speech recognitionto output generation, and surveys tools and approaches that can be used for building a conversational system. Italso introduces techniques and instruments for testing and evaluatingsystems.",
+  "ilos": "By the end of this course students will be able to:Review, critically analyse, evaluate and synthesize existing research in the field of conversational interfaces and spoken language processing.Make informed judgments about appropriate methodologies for developing and evaluating conversational interfaces.Implement a conversational interfaceusing a suitable programming language and software tools.Carry out a user evaluation ofan implemented conversational system.Explain howtheuseof multimodalinteraction and embodied agentsaffects the development, deployment, and evaluation ofconversational interfaces"
+ },
+ {
+  "name": "Cryptography and Secure Development (M) COMPSCI5079",
+  "course_code": "COMPSCI5079",
+  "semester": "Semester 2",
+  "aims": "To develop student's knowledge of cryptographic algorithms, how they can be attacked and how to evaluate how secure they are.To develop student's practical skills in developing secure systems.",
+  "ilos": "By the end of this course students will be able to:1.Explain basic cryptographic algorithms, how they can be attacked and evaluate how secure they are.2.Demonstrate anadvancedunderstanding of a range of specialist algorithms, explaining when they are useful.3.Produce a program that uses a standardcryptographic library to solve a security problem.4.       Critically compare and contrast a number of ways of developing secure systems."
+ },
+ {
+  "name": "CyberSecurity Fundamentals for MSc (M) COMPSCI5063",
+  "course_code": "COMPSCI5063",
+  "semester": "Semester 2",
+  "aims": "The aim of thiscourseis to provide participants with the opportunity to developa security mind-set byintroducing students tointroductorycore material in the area ofcomputer security.",
+  "ilos": "By the end of this course students should be able to:1.Explain cyber security fundamentals concepts including Ethical hacking, Digital Forensics and Penetration testing;2.Explaina number ofdifferent security protocols;3.Evaluate an existing or proposedsystem in terms of potential vulnerabilitiesandrecommendthe most appropriatesecurity solution to applyinanumberof different scenarios;4.Summarise the key vulnerabilities, threats, and attacks with regards to network security and explain approaches to mitigate these issues;5.Implement an aspect of cyber security;6.Critically appraise a topic within the field of computer security."
+ },
+ {
+  "name": "Database Theory and Analytics (M) COMPSCI5076",
+  "course_code": "COMPSCI5076",
+  "semester": "Semester 1",
+  "aims": "To provide students with opportunities to develop an understanding of modern methods of managing computerised information. This includes the principles andfundamentalsof relational databaseconceptual design, relational algebra, preliminaries in relational databasesystems, introduction to NoSQL and Big Data systems.",
+  "ilos": "By the end of this course students will be able to:1.Design a relational database using entity relationship diagrams and following the principles of normalization;2.Use a database management system (DBMS) to construct and manage a relational database;3.Use the Structured Query Language (SQL) to construct SQL statementsissued overrelational databases;4.Apply normalisation techniquesand functional dependencyto a relational databaseschema;5.Explain how databases can handlephysical design and heuristic optimization based on relational algebra;6.Analyse the execution efficiency of SQLqueriestoheuristicallyoptimise queries across centralised databases.7.Evaluate what the most appropriaterelational schema designis for a given context and discuss related issues.8.Explain how the basic NoSQL and Big Data Systems manage large-scale data.9.Analyse the fundamental data analytics tasks using the Map Reduce paradigm."
+ },
+ {
+  "name": "Deep Learning (M) COMPSCI5085",
+  "course_code": "COMPSCI5085",
+  "semester": "Semester 2",
+  "aims": "The aim of thiscourseis to go beyond our introductory machine learningcourse, andteach students about modern techniques for machine learning with high-dimensional image and sequence (time-series) data, and the underlying computational structures for such systems. Teach the students aboutmanaging large data sets, and the engineering pipelines for large-scale machine learning tasks.In this course, students will learn the foundations of deep learning and dynamic models for time-series analysis.",
+  "ilos": "By the end of this course students will be able to:1.Understand the major technology trends in advanced machine learning;2.Build, train and apply fullyconnected deep neural networks;3.Know how to implement efficient, vectorised neural networks in python and understand the underlyingbackends;4.Apply deep learning methods to new applications;5.Understand the machine learning pipeline, and engineering aspects of training data collation, and the importance of unlabelled data."
+ },
+ {
+  "name": "Deep Learning for MSc (M) COMPSCI5103",
+  "course_code": "COMPSCI5103",
+  "semester": "Semester 2",
+  "aims": "The aim of this course is to go beyond our introductory machine learningcourse, andteach students about modern techniques for machine learning with high-dimensional image and sequence (time-series) data, and the underlying computational structures for such systems. Teach the students about managing large data sets, and the engineering pipelines for large-scale machine learning tasks.In this course, students will learn the foundations of deep learning and dynamic models for time-series analysis.",
+  "ilos": "By the end of this course students will be able to:1.Understand the major technology trends in advanced machine learning;2.Build, train and apply fully connected deep neural networks;3.Know how to implement efficient, vectorised neural networks in python and understand the underlying backends;4.Apply deep learning methods to new applications;5.Understand the machine learning pipeline, and engineering aspects of training data collation, and the importance of unlabelled data."
+ },
+ {
+  "name": "Enterprise Cyber Security (M) COMPSCI5077",
+  "course_code": "COMPSCI5077",
+  "semester": "Semester 1",
+  "aims": "To develop students'knowledge of key concepts incyber security managementinabusinesscontextandan awareness of the management imperatives thereof;To emphasise the importanceand wherewithalofinformation securityprovision to meet legislation imperatives;Toexplorethe advanced securitymanagementissuesrelated toITusagewithinand outsidethe enterprise, the challenges of ensuring information security and the tools available to managers to assure this;Encourage the acquisition of analytical, management and communication skills to identify enterprise assets and threats, argue mitigation actions and communicate such complex concepts to key-decision makers within an enterprise.",
+  "ilos": "By the end of this course students will be able to:describe different deployment concerns for a specific context.design security policy to address perceived concerns for a specific context.argue appropriate approaches to business continuity and resilience.predict legal, social and ethical concerns in the secure management of information.effectively communicate cyber security imperatives to decision makers in an organisation.identify and critically assess threats in a specific contextcritique security policy and justification for a given context."
+ },
+ {
+  "name": "Forensics (M) COMPSCI5080",
+  "course_code": "COMPSCI5080",
+  "semester": "Semester 2",
+  "aims": "To encourage the acquisition of analytical, scientific and communication skills to investigate cyber security incidents  and present appropriate evidence to a non-technical audience, e.g. court-room.",
+  "ilos": "By the end of this course students will be able to:1.critically evaluate cyber system tools and approaches for a given context;2.understand the nature of countermeasures against forensic analysis;3.predict potential ethical, legal and regulatory concerns from gathered forensic evidence;4.effectively communicate complex outcomes from a forensic investigation to a non-technical audience, e.g. court-room."
+ },
+ {
+  "name": "Human Computer Interaction (M) COMPSCI5111",
+  "course_code": "COMPSCI5111",
+  "semester": "Semester 1",
+  "aims": "This course will bring depth and breadth to the material covered in Interactive Systems H.  Human-Computer Interaction has moved away from a narrow focus on textual windows on a desktop, operated by one person using a keyboard and mouse.  In terms of devices, phones and other mobile systems lead to ubiquitous use and also ubiquitous sharing of data about us. Such systems are often used to manipulate and explore complex data, including individual and social data.  They are used at a scale that pervades and changes our society, and legal and ethical issues (e.g. GDPR) are influencing what and how we design. The aim of Human-Computer Interaction H will be to equip our students with skills to design for this broad use of technology. It will also to feed into Mobile Human-Computer Interaction H, which concentrates on mobile systems.The aim ofthiscourse is to give the students an overview of advanced topics in Human-ComputerInteraction, covering thekey areas ofinteraction with complex, personal and social data, via data analytics (in particular, visual analytics), and collaborative systems. It will address the ways that we design and evaluate such systems. There will also be a significant piece of coursework where the students will haveto design, implement and evaluate aninteractive application. This will give them valuable experience indevelopment and justification ofsuch systems.",
+  "ilos": "By the end of this course students will be able to:1.Identify thekeyexemplarsinthe design ofnovelvisualisation systems, collaborative systems, and large-scale user modelling, and in ethical system design;2.Explain the theoretical concepts behind such system design approaches.3.Identify themainissuesand key concepts in evaluating such systems, in terms of immediate functionality and utility as well as in terms of wider social, legal and ethical criteria;4.Haveexperience designingsuch systems, by designing, developing and evaluatinga significant piece of interactive software embodying key aspects of the course.5.Discuss leading-edge developments ofHCIthrough a critical analysis of a recently publishedHCIpaper."
+ },
+ {
+  "name": "Human Computer Interaction Design and Evaluation (M) COMPSCI5057",
+  "course_code": "COMPSCI5057",
+  "semester": "Semester 2",
+  "aims": "The aim of this course is to both introduce students to the fundamentals of Human Computer Interaction (modelling, cognitive models, interaction paradigms, design rules, evaluation methods) as well to explore some selected advanced research topics through the study of current research literature.",
+  "ilos": "By the end of the course students will be able to:1.Describe the key problems in designing effective interfaces, in relation to cognitive models, interactive technologies and usability;2.Represent, reason about, and critique interaction designs;3.Use formal, experimental and analytic techniques for evaluating interaction models and interfaces;4.Explain the contributions of recent research within the context of the scope of the field of HCI."
+ },
+ {
+  "name": "Human-Centred Security (M) COMPSCI5060",
+  "course_code": "COMPSCI5060",
+  "semester": "Semester 2",
+  "aims": "This course aims to:Foster an appreciation of the vital role played by human factors in securing systems;Explain and allow students to appreciate the multiple dimensions of the core principles of privacy, authentication, biometrics, risk communication, and the importance of security systems interface usability.",
+  "ilos": "By the end of the course students will be able to:1.Explain primary themes and challenges of human centred security;2.Examine a given context and design an appropriate security solution and be able to justify your choices;3.Identify usability, privacy or security issues in a given system, and make recommendations about how to improve it;4.Communicate risks to non-expert users in an understandable way;5.Identify causative effects ofparticular humanbehavioursin a security setting, explain how these can be influenced;6.Demonstrate an understanding of common threats, and be able to critique and design solutions to mitigate against them;7.Design and analyse the results of user studies to evaluate the usability and security of computing systems;8.Compare and contrast approaches to establishing and maintaining privacy;9.Demonstrate an understanding of social engineering and its significance."
+ },
+ {
+  "name": "Information Retrieval (M) COMPSCI5011",
+  "course_code": "COMPSCI5011",
+  "semester": "Semester 2",
+  "aims": "To present students with an in-depth examination of the theoretical and practical issues involved in providing tools to access large collections of documents, especially in the context of the World Wide Web.To present students with the practical engineering issues raised by the design and implementation of an information retrieval system.",
+  "ilos": "By the end of the course students will be able to:1.Implement a standard information retrieval (IR) system;2.Discuss the theoretical basis behind the standard models of IR (e.g. Boolean, Vector-space, and Probabilistic models);3.Discuss how an IR system should be evaluated in terms of the system's performance and the user's satisfaction with the system;4.Understand the concepts behind the different retrieval modelsincluding advanced machine learning models such as learning to rank;5.Understand the techniques involved in retrieving information from the World Wide Web;6.Describe the practical engineering issues raised by the implementation of a search engine for the Web;7.Understand techniques and architectures necessary to speed up the retrieval process for large-scale IR systems."
+ },
+ {
+  "name": "Information Visualisation (M) COMPSCI5099",
+  "course_code": "COMPSCI5099",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce the broad field of Information Visualisation, with reference to theories of data abstraction and visual perception, current research in the area, and evaluation methods. The theoretical component of the course will be complemented by a practical exercise where students will implement and evaluate an information visualisation system.",
+  "ilos": "By the end of this course students will be able to:Discuss the purposes and range of visualisation techniques;Identify different data types and relate them to differentvisualisation techniques;Explain how theories of visual perception relate to visualisation techniques;Implement a visualisation system, justifying its design;Evaluate a visualisation system with reference to specified data exploration tasks;Describe, in general terms, the scope of information visualisation research, and critique current research papers in the area."
+ },
+ {
+  "name": "Internet Technology (M) COMPSCI5012",
+  "course_code": "COMPSCI5012",
+  "semester": "Semester 2",
+  "aims": "The aims of this course are:To provide an overview of the ongoing developments in web application development;To promote the disciplined design and development of distributed web applications;To strengthenstudentsunderstanding of the context and rationale of distributed systems;Toexplainthe messaging and protocols used as a communication mechanisms in web applications;To develop the ability to implement and deploy distributed web applications.",
+  "ilos": "By the end of the course students will be able to:1.Illustrate and describe the n-tier client-server architecture of web applications;2.Explain the role of messaging and protocols within the design of web applications;3.Explain the opportunities and challenges relating to developing web applications in a distributed environment;4.Identify and critically analyse the requirements of a web application;5.Design and specify the architecture of a web application;6.Evaluate and assess specifications and designs of web applications;7.Construct, build and deploy a web application."
+ },
+ {
+  "name": "Introduction to Data Science and Systems (M) COMPSCI5089",
+  "course_code": "COMPSCI5089",
+  "semester": "Semester 1",
+  "aims": "This course will give students a grounding in foundational elements of data science theory and systems, including:1.Data transformation fundamentals: working with array data, implementation of linear algebra, visualisation, probabilistic concepts.2.Database Systems Fundamentals:To introduce students to physical DB design (storage, indexing), fundamental query processing algorithms based on file organization, basic indexing methods, practical query optimization, and transactional semantics.3.Practical data processing pipelines:Give students experience of data cleaning and integration with modern tools (e.g. pandas,numpy,scikit-learn).  This includes handling incomplete and noisy data from diverse sources. Representing diverse types of data (including text), creating vector representations of data, measuring item similarity, clustering and linking data objects, and then visualising the results using modern algorithms.",
+  "ilos": "By the end of this course students will be able to:1.formulate problems in tensor form and fluently manipulate tensors;2.efficiently runvectorizedcode;3.apply matrix decomposition to practical problems;4.be able tovectorisedata, and measure distances between items(including text data)5.formulate and understand problems with stochastic elements;6.discussthe impact of storage and indexing decisions on database performance7.explain the impact of optimisation choices on query processing performance8.create effective, clear, and precise visualisations of scientific data;9.demonstrateproficiencyin the application of common tools in a pipeline toprocess, filter,integrate, analyse,summarise andvisualisedata."
+ },
+ {
+  "name": "MSc IT+ Team Project (M) COMPSCI5074",
+  "course_code": "COMPSCI5074",
+  "semester": "Semester 2",
+  "aims": "To integrate the skills acquired in the first semester courses: Programming,Database Theory and Applications.To have experience of working in a group.To gain experience in writing a small technical report.",
+  "ilos": "By the end of this course students will be able to:1. Demonstrate that they can design, implement and test a moderately sized piece of software.2. Produce a literate report describing the project.3. Produce the appropriate documentation for the delivered software."
+ },
+ {
+  "name": "MSc Project for Computing Science (SOCIAL) COMPSCI5098P",
+  "course_code": "COMPSCI5098P",
+  "semester": "Summer",
+  "aims": "The aim of the project is to enable students to carry out a substantial, independent, individualproject at level M.  It will entailthe development of a software product and/or the conduct of a research project. Students will submit a dissertation for assessment.",
+  "ilos": "By the end of the course students will be able to:1.Formulate and execute a project plan for an appropriate software developmentor researchproject;2.Use standard methods to carry out appropriate analysis, design, implementation (including testing) and critical evaluation of a system;and/or use standard methods to conduct a research project.3.Write a dissertation that will clearly describe the value of their project as a software product and/or research project.4.Describe their work to both technical and non technical audiences, demonstrating software products as appropriate."
+ },
+ {
+  "name": "MSc Project for Computing Science+ COMPSCI5086P",
+  "course_code": "COMPSCI5086P",
+  "semester": "Semester 1",
+  "aims": "The aim of the project is to enable students to carry out a substantial, independent, individualproject at level M.  It will entailthe development of a software product and/or the conduct of a research project. Students will submit a dissertation for assessment.",
+  "ilos": "By the end of the course students will be able to:1.Formulate and execute a project plan for an appropriate software developmentor researchproject;2.Use standard methods to carry out appropriate analysis, design, implementation (including testing) and critical evaluation of a system;and/or use standard methods to conduct a research project.3.Write a dissertation that will clearly describe the value of their project as a software product and/or research project.4.Describe their work to both technical andnon technicalaudiences, demonstrating software products as appropriate."
+ },
+ {
+  "name": "MSc Project for Information Technology + COMPSCI5018P",
+  "course_code": "COMPSCI5018P",
+  "semester": "Semester 1",
+  "aims": "The aim of the project is to enable students to carry out a substantial, independent, individualproject at level M.  It will entailthe development of a software product and/or the conduct of a research project. Students will submit a dissertation for assessment.",
+  "ilos": "By the end of the course students will be able to:1.Formulate and execute a project plan for an appropriate software developmentor researchproject;2.Use standard methods to carry out appropriate analysis, design, implementation (including testing) and critical evaluation of a system;and/or use standard methods to conduct a research project;3.Write a dissertation that will clearly describe the value of their project as a softwareproduct and/or research project;4.Describe their work to both technical andnon technicalaudiences, demonstrating software products as appropriate."
+ },
+ {
+  "name": "MSci (Sandwich Year) Software Engineering Individual Project COMPSCI5082P",
+  "course_code": "COMPSCI5082P",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of the course is toprovide students with the opportunity to develop practice and demonstrate their research skills within the context ofSoftware Engineering.  The course develops transferable skills in critical analysis, introspection and research methods that will be useful in professional careers.",
+  "ilos": "By the end of this course students will be able to:1.Specify and justify a well-defined research problem in the area of Software Engineering;2.Articulate and justify a feasible approach for tackling this problem;3.Produce a comprehensive literature survey covering their research problem, offering a critical review of the key relevant work in this area;4.Formulate a research plan for the research problem;5.Carry out a coherent and well-executed investigation of a research problem in Software Engineering, using appropriate methods and producing valid results;6.Write up their research in the form of an academic paper, including the expression of a well-defined thesis and argument, a clear statement of the research methods and results, a critical evaluation of the research results, a consideration of their significance and of their relationship to other relevant work."
+ },
+ {
+  "name": "MSci Research Proposal and Project COMPSCI5073P",
+  "course_code": "COMPSCI5073P",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of the course is to provide students with an opportunity to identify and refine a research problem in Computing Science of a suitable degree of difficultywhilecarryingout a literature survey of the problem and then undertake a substantial, independent, individual research-oriented project at level M including thewriting upofthe results.",
+  "ilos": "By the end of this course students will be able to:1.Specify and justify a well-defined research problem in the area of theirMScispecialism;2.Articulate and justify a feasible approach for tackling this problem;3.Produce a comprehensive literature survey covering their research problem, offering a critical review of the key relevant work in this area.4.Formulate a research plan for the research problem;5.Carry out a coherent and well-executed investigation of a research problem in Computing Science, using appropriate methods and producing valid results;6.Write up their research in the form of an academic paper, including the expression of a well-defined thesis and argument, a clear statement of the research methods and results, a critical evaluation of the research results, a consideration of their significance and of their relationship to other relevant work."
+ },
+ {
+  "name": "MSci Research Proposal and Project (Half) COMPSCI5072P",
+  "course_code": "COMPSCI5072P",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "The aim of the course is to provide students with an opportunity to identify and refine aresearch problem in Computing Science of a suitable degree of difficulty while carrying out a literature survey of the problem and then undertake a substantial, independent, individual research-oriented project at level M including the writing up of the results.",
+  "ilos": "By the end of this course students will be able to:1.Specify and justify a well-defined research problem in the area of theirMScispecialism;2.Articulate and justify a feasible approach for tackling this problem;3.Produce a comprehensive literature survey covering their research problem, offering a critical review ofthe key relevant work in this area;4.Formulate a research plan for the research problem;5.Carry out a coherent and well-executed investigation of a research problem in Computing Science, usingappropriate methods and producing valid results;6.Write up their research in the form of an academic paper, including the expression of a well-definedthesis and argument, a clear statement of the research methods and results, acritical evaluation of theresearch results, a consideration of their significance and of their relationship to other relevant work."
+ },
+ {
+  "name": "Machine Learning & Artificial Intelligence for Data Scientists (M) COMPSCI5100",
+  "course_code": "COMPSCI5100",
+  "semester": "Semester 1",
+  "aims": "To present students withanintroduction to thefield of artificial intelligencegiving the students an overview of intelligent agent designwith focus on machine learningwith application to data science.The course will present thecontext and history of AIandpresent thegeneral theoryoflearning from dataand decision makingpresented in thecontext of popular Machine Learning methods.The moduleis focussed on practical application ofAI andMachine Learning techniques from standard libraries(e.g.scikit-learn)in a variety of domains as well asprovidinggood practice in training and validating Machine Learning models.The course willincludepracticalAI/MLcase studies from e.g. Human Computer Interaction, Information Retrieval, Bioinformatics and Computer Vision and Graphics.",
+  "ilos": "By the end of this course students will be able to:1.Demonstrate familiarity with the history ofartificial intelligenceand machine learning,ethical andphilosophical debates, and understand the potential and limitations of the subject in its current form;2.Explain thecomputationalprocess of learning fromdataforexampleregression, classification,clusteringanddecision-makingproblems.3.Explainanddemonstratethe strengths and weaknesses of common algorithms and propose appropriate choices for specific problems;4.Analyseand formulate alearning problemasan optimisation problemanddiscuss the impact of the choice of loss function;5.Demonstrate knowledge of the majorartificial andmachine learning application areas in, for example Physics, Information Retrieval, Human Computer Interaction, Bioinformatics and Computer Vision & Graphics;6.Implement, customise and applyAI/MLalgorithms in Python using existing libraries (e.g.scikit-learn) to regression, classification, clustering, probability density estimation and dimensionality reduction;7.Demonstrate proficiency in the data-driven modelling processfrom data collection to decision-making(be able to setup a machine learning project, organise data and code, develop and apply a model, visualise and analyse the results, and communicate them in a coherentdocument)."
+ },
+ {
+  "name": "Machine Learning (M) COMPSCI5014",
+  "course_code": "COMPSCI5014",
+  "semester": "Semester 1",
+  "aims": "To present students with an introduction to thegeneraltheoryof learning from data and toa number ofpopularMachine Learning methods.To present students with the practical application of Machine Learning techniques in a variety of domains, including Human Computer Interaction, Information Retrieval, Bioinformatics and Computer Vision and Graphics.",
+  "ilos": "By the end of the course students will be able to:1.Demonstrate knowledge of the major machine learning application areas in, for example Information Retrieval, Human Computer Interaction, Bioinformatics and Computer Vision & Graphics;2.Explain the principle of learning from data;3.Implement and use machine learning algorithms inPython;4.Apply the main machine learning methods: regression, classification, clustering, probability density estimation and dimensionality reduction;5.Contrastthe strengths and weaknesses ofdifferentalgorithmsfor different tasks and datasets;6.Analyse the benefits and drawbacks ofsomeadvancedmachine learning approaches, e.g.non-parametric methods,sampling techniquesand neural networks."
+ },
+ {
+  "name": "Mobile Human-Computer Interaction (M) COMPSCI5015",
+  "course_code": "COMPSCI5015",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce the challenges of developing interactive systems for mobile computing devices, e.g., mobile phones and wearable computers. Students will learn about challenging aspects of mobile interaction contexts, e.g., device movement, situational impairments, social acceptability. This course will introduce interaction design concepts like prototyping and evaluation through user studies. This is not intended as a mobile application development course but will briefly introduce core concepts andmethodsforprototyping novel interactions.",
+  "ilos": "By the end of this course students will be able to:1.Explain problems associated with human-computer interaction in mobile and ubiquitous usage contexts.2.Critically analyse a proposed mobile interactive system considering its intended usage context.3.Design usable mobile interactive systems for a given problem or application area.4.Develop and evaluate prototypes of mobile interactive systems using a variety of prototyping methods and evaluation techniques.5.Discuss cutting edge developments in mobile human-computer interaction, such as context-aware systems, sensor-based interaction, location-based interaction, and mixed reality."
+ },
+ {
+  "name": "Mobile Human-Computer Interaction for MSc COMPSCI5112",
+  "course_code": "COMPSCI5112",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce the challenges of developing interactive systems for mobile computing devices, e.g., mobile phones and wearable computers. Students will learn about challenging aspects of mobile interaction contexts, e.g., device movement, situational impairments, social acceptability. This course will introduce interaction design concepts like prototyping and evaluation through user studies. This is not intended as a mobile application development course but will briefly introduce core concepts.",
+  "ilos": "By the end of this course students will be able to:1.Explain problems associated with human-computer interaction in mobile and ubiquitous usage contexts.2.Critically analyse a proposed mobile interactive system considering its intended usage context.3.Design usable mobile interactive systems for a given problem or application area.4.Develop and evaluate prototypes of mobile interactive systems using a variety of prototyping methodsand evaluation techniques.5.Discuss cutting edge developments in mobile human-computer interaction, such as context-aware systems, sensor-based interaction, location-based interaction, and mixed reality."
+ },
+ {
+  "name": "Modelling Reactive Systems (M) COMPSCI5075",
+  "course_code": "COMPSCI5075",
+  "semester": "Semester 1",
+  "aims": "Reactive systems are widely and increasingly used throughout society (e.g. telecommunications, flight control, railway signalling, medical devices).  An understanding of the fundamentals of these systems, at an abstract level, is essential for the development of process control systems and should be a pre-requisite for anyone developing software for such applications.  This course provides in-depth study of key formal techniques used in designing and analysing concurrent, reactive systems; and topresent the practical issues raised by using a number of such formalisms and associated software tools, particularly within the context of developing communications protocols and othercommunications applications.Students will learn to model systems using the Promela specification language and associated verification tool SPIN. In addition, probabilistic systems will be modelled as Discrete Time Markov Chains using the PRISM language and tool.The course aims to encourage critical thinking and analysis of existing systems, tools and theories via research-based investigation.",
+  "ilos": "By the end of this course students will be able to:1: Clearly differentiate issues that arise in concurrent, reactive, distributed systems, and probabilistic systems;2: Explain the various concepts of concurrency and communication that arise in such systems;3: Demonstrate understanding of the concepts of signalling and control and associated modelling issues;4: Develop message sequence charts for a reactive system;5: Enumerate the differences between non-probabilistic and probabilistic formalisms;6: Design and analyse a reactive system, including a communication protocol, using appropriate design techniquesand mechanised analysis tools (SPIN and PRISM);7: Critically evaluate existing techniques and methods."
+ },
+ {
+  "name": "Programming for Artificial Intelligence (M) COMPSCI5097",
+  "course_code": "COMPSCI5097",
+  "semester": "Semester 1",
+  "aims": "The aim of the course is to provide the students with basic programming skills while developing familiarity with the statistical data analysis methodologies underlying simple Artificial Intelligenceapproaches.",
+  "ilos": "By the end of this course students will be able to:Todesign and evaluatepython code aimed athistogrammingexperimental data, including detection of outliers andformulation of therelationship between histogram and probability distribution;To design and evaluatepython code implementing the most common probability distributions and probability density functions (including, e.g., Gaussians,Multinomials,Possonian, etc.);To design and evaluatepython code aimedatthe statistical analysis of data, including estimate of main statistical measurements (average, variance, median, etc.);To design and evaluatepython code performing basic algorithms for multivariate data clustering, including k-means, etc.;To design and evaluatepython code implementing supervised learningmethodologies, including, e.g.,Nave Bayes approachesand Gaussian Discriminant Functions;To compare multiple methodologies in view of finding the one most suitable for a problem to be solved;To formulatethecommonprinciples underlying the methodologies presented in the course."
+ },
+ {
+  "name": "Project Research Readings In Computing Science (M) COMPSCI5003",
+  "course_code": "COMPSCI5003",
+  "semester": "Semester 2",
+  "aims": "Immerse students intheresearch topics inthe specialist area of ComputingSciencepertaining to theirMSciproject;Reinforce critical reading and reviewing skills learned in the ResearchMethods and Techniques course;Enable students to develop their critical thinking andscientific writingcapabilities;Develop students' presentation skills.",
+  "ilos": "By the end of the course students will be able to:1.Exhibit understanding of seminal research in their specialist area by preparing a grant proposal-style report that requires an in-depth understanding of the research area;2.Demonstrate the ability to present a critical analysis of relevant literature by presenting a research poster session to a critical audience."
+ },
+ {
+  "name": "Recommender Systems (M) COMPSCI5091",
+  "course_code": "COMPSCI5091",
+  "semester": "Semester 2",
+  "aims": "Recommender systems are widely deployed stochastic retrieval systems - a search system that learns what to suggest to a user based upon no explicit user input (i.e. zero query), but make suggestions using what is known about the user or the demographics that the user belongs to. With the prevalence of recommender systems, from e-commerce sites to supermarket loyalty cards, it can be seen recommendation technologies have the potential to be more ubiquitous than search technologies. This course introduces the concepts, applications, algorithms, programming, and design of recommender systems -- software systems that recommend products or information, often based on extensive personalization. This course discusses various techniques for making recommendations that are widely used in industry, including non-personalized, content-based, and collaborative recommendation techniques, and their evaluation.",
+  "ilos": "By the end of this course students will be able to:1.Describe the techniques in making automatic recommendations andpersonalisingthem for individual users.2.Describe different recommendation systemscenarios,and models suitable for deployment therein.3.Explainthe theoretical concepts behind different recommendation models.4.Discuss how a recommender system should be evaluated in terms of the system's performance and the user's satisfaction with the system.5.Describe the practical engineering issues raised by the implementation of a recommender system in a real deployment.6.Implement and evaluate a standard recommender system.7.Discuss leading-edge developments of recommender systems through a critical analysis of a recently publishedrecommender systemspaper."
+ },
+ {
+  "name": "Research Methods And Techniques (M) for MSci COMPSCI5025",
+  "course_code": "COMPSCI5025",
+  "semester": "Semester 1",
+  "aims": "Introduce students to critical research techniques through paper reviews, bibliographies, project proposals and presentations;Introduce students to core scientific principles and methods for conducting and evaluating scientificinvestigations;Introducestudents to the use of controls and statistical power in experimental design;Introduce students to important techniques for planning and managing a research project;Give guidance on how to structure theses and papers.",
+  "ilos": "By the end of the course students will be able to:1.Critically review research papers;2.Perform a comprehensive literature search;3.Write a comprehensive literature survey;4.Write a convincing and appropriate experimental design for achosen CS research problem;5.Write a convincing project proposal;6.Perform critical analysis of experimental designs;7.Explainthe importance of controls and sample sizes in experimental design;8.Discuss issues of ethics approval of experiments."
+ },
+ {
+  "name": "Research and Professional Skills (M) COMPSCI5092",
+  "course_code": "COMPSCI5092",
+  "semester": "Semester 1",
+  "aims": "Introduce studentsto critical research techniques, core scientific principles,methods for conducting and evaluating scientific investigations,andimportant techniques for planning and managing a research project.To stimulate thinking about the social and ethical implications of the widespread and sustainable use of IT;develop students' awareness of the laws and professional codes of conduct governing the IT industry;encourage students to adopt principled, reasoned stances on important issues in the topic area.",
+  "ilos": "By the end of this course students will be able to:1.Identify the principal social, ethical, legal, and professional issues in information technology (IT);2.Explain the laws and codes of conduct relevant to the IT industry, and relate them to examples of IT in practice;3.Constructively criticise the arguments of others;4.Critically review research papers;5.Perform a comprehensive literature search and write a comprehensive literature survey;6.Write an appropriate study designfor a chosen CS research problem;7.Perform critical analysis of experimental designs;8.Discuss issues relating to theethics approval of experiments."
+ },
+ {
+  "name": "Secured Software Engineering (M) COMPSCI5093",
+  "course_code": "COMPSCI5093",
+  "semester": "Semester 2",
+  "aims": "Broadly, this course aims tooffer practical knowledge on engineeringsecuresystemsacross the software engineering life-cycle. These include requirements, design, implementation, testing and maintenance.Topics covered include secure design principles and patterns, eliciting security requirements and uncovering security flaws in software design. This isin addition to fundamental privacy engineering concepts such as Privacy-by-Designand otherthe conceptual framework for understandingprivacyin software. This course also devotes a significant time to discussing well known secure design solutions including architectural patterns and design patterns focusing on security/privacycountermeasures. We discussinformation-flowanalysis and evaluation as mechanisms to assess the effectiveness of the secure design solutions implemented in source code.The course will help prepare students to applysoftware security andprivacy techniques in industry, as well asto pursue research in software engineering, security and privacy.",
+  "ilos": "By the end of this course students will be able to:1.Describethelife cycle for developing secure software systems.2.Applylightweight refactoringmethodstobalance trade-offs between competing security, privacy and functionality quality measures insoftware.3.Verifythe effectiveness of a secure software design solution.4.Exploregeneral approaches toprivacy engineering andPrivacy-by-Design paradigm in software.5.Build a simple privacyjustificatory frameworkforjustifyingthe extent a given software aligns withdata protection regulations (e.g GDPR, HIPPA, etc.).6.Apply secure software design principles to a range of application domains and case studies such as social networks, internet of things, mobile computing, ecommerce,service oriented architectures, multi-agent and autonomous systems."
+ },
+ {
+  "name": "Secured Software Engineering for MSc (M) COMPSCI5104",
+  "course_code": "COMPSCI5104",
+  "semester": "Semester 2",
+  "aims": "Broadly, this course aims to offer practical knowledge on engineering secure systems across the software engineeringlife-cycle. These include requirements, design, implementation, testing and maintenance. Topics covered include secure design principles and patterns, eliciting security requirements and uncovering security flaws in software design. This is in addition to fundamental privacy engineering concepts such as Privacy-by-Design and other the conceptual framework for understanding privacy in software. This course also devotes a significant time to discussing well known secure design solutions including architectural patterns and design patterns focusing on security/privacy countermeasures. We discuss information-flow analysis and evaluation as mechanisms to assess the effectiveness of the secure design solutions implemented in source code.The course will help prepare students to apply software security and privacy techniques in industry, as well as to pursue research in software engineering, security and privacy.",
+  "ilos": "By the end of this course students will be able to:1.Describe the life cycle for developing secure software systems.2.Apply lightweight refactoring methods to balance trade-offs between competing security, privacy and functionality quality measures in software.3.Verify the effectiveness of a secure software design solution.4.Explore general approaches to privacy engineering and Privacy-by-Design paradigm in software.5.Build a simple privacy justificatory framework for justifying the extent a given software aligns with data protection regulations (e.gGDPR, HIPPA, etc.).6.Apply secure software design principles to a range of application domains and case studies such as social networks, internet of things, mobile computing, ecommerce,service orientedarchitectures, multi-agent and autonomous systems."
+ },
+ {
+  "name": "Software Engineering (M) COMPSCI5059",
+  "course_code": "COMPSCI5059",
+  "semester": "Runs Throughout Semesters 1 and 2",
+  "aims": "To introduce the basic concepts of software engineeringand project managementin the small;To study the generic components of requirements gathering and specification.To present methods for the design, implementation, testing and documentation of object-oriented programs;To develop program comprehension and design skills.To familiarize students with the inherent problems and components of managing software development projects and differing approaches to software project management.To stimulate thinking abouttheeconomic,legal,social,ethical andenvironmentalimplicationsof the widespread and sustainable use of IT and to develop students' awareness of the laws and professional codes of conduct governing the IT industry.",
+  "ilos": "By the end of the course students will be able to:1.Carry out a requirements analysis and write a requirements definition;2.Create UML class diagrams which model aspects of the domain and the software solution;3.Apply design principles and patterns while designing and implementing simple systems;4.Carry out testing of programs and apply simple measurement techniques to software;5.Produce clear, concise, and sufficiently formal documentation appropriate for the design and development of existing systems and programs developed in practical exercises;6.Apply a variety of project management techniques to software project management scenarios of varying complexity;7.Explain the principaleconomic, legal, social, ethical and environmental, and professional issues and regulations in information technology (IT);8.Discuss the breadth of software engineeringand projectmanagementpractices."
+ },
+ {
+  "name": "Software Engineering Full Year Placement Review COMPSCI5101",
+  "course_code": "COMPSCI5101",
+  "semester": "Semester 1",
+  "aims": "To allow the students to reflect on the learning during the fourth yeartwelve monthwork placement.",
+  "ilos": "By the end of this course students will be able to:1.Describe applicability of practices, methods and tool taught in software engineering and other academic computing science courses to real world software development efforts;2.Present a summary of their contribution during their placement;3.Discuss and reflect on their experiences during their placement."
+ },
+ {
+  "name": "Software Product Release Engineering (M) COMPSCI5115",
+  "course_code": "COMPSCI5115",
+  "semester": "Semester 2",
+  "aims": "To introduce advanced principles, methods and approaches in Software Product Release Engineering,To introduce techniques for effective maintenance and evolution of working software,To expose students to the practicalities and reality of software engineering in industry.",
+  "ilos": "By the end of this course students will be able to:1.Explain a range of advanced practices in software product release engineering including change management,2.Reflect critically on the design decisions and trade-offs involved in building and releasing long-lived software products;3.Apply and adapt techniques for planning and maintaining up-time and maintenance cycles;4.Understand and apply known stability patterns to maintain scaling and software release availability targets;5.Design, plan, implement, deploy, maintain and evolve software  releases;6.Be aware of the limitations of existing software engineering practices in large scale systems development."
+ },
+ {
+  "name": "Text as Data - An Introduction to Document Analytics (M) COMPSCI5096",
+  "course_code": "COMPSCI5096",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce students to language modelling, representations of documents, natural language processing, information theory, network models and in general the use of stochastic thinking (including building on the probability theory learned during the IDSS/Data Fundamentals course). This is illustrated through a number of supervised and unsupervised text processing and analytics approaches as well as their applications such as information extraction, question answering, summarization, and dialogue systems.  The course is designed to be applied in nature, using text analytics as an example, and introducing students to various toolkits for document processing.",
+  "ilos": "By the end of this course students will be able to:1.Describe classical modelsfor textual representationssuch as theone-hot encoding,bag-of-words models,and sequences withlanguage modelling.2.Identify potential applications of text analytics in practice.3.Describe various common techniques forclassification, clustering and topic modelling, and select the appropriate machine learning task for a potential document processing application.4.Represent data as features to serve as input to machine learning models.5.Assess machine learning model quality in termsof relevant error metrics fordocument processing tasks, in an appropriate experimental design.6.Deploy unsupervised and machine learned approaches for document/text analytics tasks.7.Critically analyzeand critiquerecentdevelopmentsinnatural language andtext processingacademicliterature.8.Evaluate and explain the appropriate application ofrecentresearchdevelopmentsto real-world problems."
+ },
+ {
+  "name": "Text as Data for MSc COMPSCI5106",
+  "course_code": "COMPSCI5106",
+  "semester": "Semester 2",
+  "aims": "This course aims to introduce students to language modelling, representations of documents, natural language processing, information theory, network models and in general the use of stochastic thinking (including building on the probability theory learned during the IDSS/Data Fundamentals course). This is illustrated through a number of supervised and unsupervised text processing and analytics approaches as well as their applications such as information extraction, question answering, summarization, and dialogue systems.  The course is designed to be applied in nature, using text analytics as an example, and introducing students to various toolkits for document processing.",
+  "ilos": "By the end of this course students will be able to:1.Describe classical modelsfor textual representationssuch as theone-hot encoding,bag-of-words models,and sequences withlanguage modelling.2.Identify potential applications of text analytics in practice.3.Describe various common techniques forclassification, clustering and topic modelling, and select the appropriate machine learning task for a potential document processing application.4.Represent data as features to serve as input to machine learning models.5.Assess machine learning model quality in termsof relevant error metrics fordocument processing tasks, in an appropriate experimental design.6.Deploy unsupervised and machine learned approaches for document/text analytics tasks.7.Critically analyze and critique recentdevelopmentsinnatural language andtext processingacademic literature.8.Evaluate and explain the appropriate application of recent research developments to real-world problems."
+ },
+ {
+  "name": "Web Science (M) COMPSCI5078",
+  "course_code": "COMPSCI5078",
+  "semester": "Semester 2",
+  "aims": "The objective of this course is to introduce students to the field of web science and critically examine methodologies and techniques used in the field.",
+  "ilos": "By the end of this course students will be able to:1.Skills to analyse and implement technical solutions on social web applications2.Describe methodologies to conduct large scale dataanalysis on social data and platforms3.Describe the techniques employed in developing advertising models on the web4.Describe the techniques needed to analyse social networks5.Describetopicmodels and their usage on social systems6.Describe sentiment and emotion extraction techniques and employ them7.Ability to understandfairness, ethics and privacy issues on online systems"
+ },
+ {
+  "name": "Web Science for MSc COMPSCI5107",
+  "course_code": "COMPSCI5107",
+  "semester": "Semester 2",
+  "aims": "The objective of this course is to introduce students to the field of web science and critically examine methodologies and techniques used in the field.",
+  "ilos": "By the end of this course students will be able to:1.Skills to analyse and implement technical solutions on social web applications2.Describe methodologies to conduct large scale dataanalysis on social data and platforms3.Describe the techniques employed in developing advertising models on the web4.Describe the techniques needed to analyse social networks5.Describetopicmodels and their usage on social systems6.Describe sentiment and emotion extraction techniques and employ them7.Ability to understandfairness, ethics and privacy issues on online systems"
+ }
+]
