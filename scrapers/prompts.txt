@@ -1,14 +1,19 @@
 # Course list scraper
 
-Here is some sample HTML from a course catalogue page:
-
-<<HTML>>
-
-Write a Python program that will take HTML like this and output JSON of the form:
+Write a Python program that will take HTML like the HTML at the end of this message. The exact HTML should be a parameter to the program. The program should output JSON of the form:
 
 { name: <course name>, course_code: <course code>, url: <url for course page>}
 
-Only give code, no explanation.
+Only give Python code, no explanation. Do not include the sample HTML in the generated program. Do not include sample usage code.
+
+An example course is "Computer Systems". Each course links to a page that includes "unit.php".
+
+Here is the sample HTML:
+
+
+<<HTML>>
+
+
 
 =======
 
