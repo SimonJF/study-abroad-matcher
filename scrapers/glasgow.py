@@ -57,9 +57,10 @@ def scrape_course_page(url):
         course_details["course_code"] = course_code_tag['href'].split('=')[-1]
 
 # Extract semester
-    semester_tag = soup.find('li', string='Typically Offered:')
-    if semester_tag:
-        course_details["semester"] = semester_tag.find('strong').get_text(strip=True).split(':')[1]
+    semester_strong_tag = soup.find('strong', string='Typically Offered:')
+    if semester_strong_tag and semester_strong_tag.parent.name == 'li':
+        semester_tag = semester_strong_tag.parent
+        course_details["semester"] = semester_tag.get_text(strip=True).split(':')[1]
 
 # Extract aims
     aims_tag = soup.find('h3', string='Course Aims').find_next('div')
