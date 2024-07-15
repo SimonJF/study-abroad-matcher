@@ -1,0 +1,555 @@
+[
+ {
+  "name": "Academic Integrity Module",
+  "course_code": "DAI001",
+  "semester": "Semester 1: Online Semester 2: Online Trimester 1: Online Trimester 2: Online Trimester 3: Online",
+  "aims": "The Academic Integrity Module is a compulsory zero credit point module in all Deakin University courses. The module's learning and assessment activities allow students to develop knowledge, skills and good practice principles to understand the importance of maintaining academic integrity in their studies and career and to avoid breaching academic integrity standards.",
+  "ilos": "Apply the values of academic integrity - honesty, trust, fairness, respect and responsibility.\nIdentify acceptable and unacceptable behaviours related to acting with academic integrity.\nApply knowledge of appropriate strategies to act with academic integrity."
+ },
+ {
+  "name": "Safety Induction Program",
+  "course_code": "SIT010",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This zero credit point unit is a program of safety information for students involved in information technology laboratory work. The program encompasses information technology hazards, building evacuation procedures, laboratory accident management and first aid procedures and safety work procedures particular to laboratory work.",
+  "ilos": "Demonstrate a basic understanding of laboratory safety practices employed within the School and across the University."
+ },
+ {
+  "name": "Career Tools for Employability",
+  "course_code": "STP010",
+  "semester": "Trimester 1: Online (Intensive)Trimester 2: Online (Intensive)Trimester 3: Online (Intensive)",
+  "aims": "This zero credit point unit requires students to undertake and pass the introductory unit online prior to enrolling in a Faculty of Science, Engineering and Built Environment Professional Practice unit, Internship unit, Work Integrated Learning (WIL) project and or Industry Based Learning (IBL) unit.",
+  "ilos": "You will create three personalised career tools that will enhance your employability.\nYou will demonstrate achievement of foundational knowledge required for your career education journey as a professional."
+ },
+ {
+  "name": "Computer Systems",
+  "course_code": "SIT111",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "Over the past 70 years, computers have revolutionised nearly every facet of modern life, from healthcare to education, manufacturing to transport, and entertainment to agriculture. Computing hardware and the algorithms encoded into software are thus vital to the continued growth of modern society, as are computer scientists and software engineers - the professionals who design and develop computational solutions to many of the world's problems. In this unit, students will learn the building blocks of computing systems and the tools used information technology professionals. The unit connects students with hardware and software elements of computer systems, ensuring they are ready to engage with configuring, operating, and building computing systems.",
+  "ilos": "Describe the elements of computer systems, and how they provide the foundations required for software applications.\nDescribe functions of modern operating systems, and utilise Unix tools to configure and operate computer systems.\nPrototype and build the hardware and software for small digital systems using microcontroller boards with a range of input and output components attached.\nIdentify IT roles that align with career interests and aspirations; describe and reflect on personal strengths, required knowledge and skill development for successful employment in these roles; construct a professional experience plan including professional communication for a work opportunity.\nIndependently identify knowledge gaps and effectively seek and use appropriate learning resources to acquire the necessary knowledge."
+ },
+ {
+  "name": "Discrete Mathematics",
+  "course_code": "SIT192",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "In this unit you will explore the foundations of discrete mathematics, the basis for mathematical reasoning in applied and computational sciences. You will learn how to rigorously build, from first principles, the tools needed to address a wide range of mathematical and scientific problems. The topics you will cover include number theory, propositional and predicate logic, graph theory, sets, functions, recurrences and combinatorics.\u00a0SIT192 is designed to prepare you for further study in disciplines where discrete mathematics play a fundamental or foundational role: cryptography, networks, computer programming, and analysis of algorithms.",
+  "ilos": "Understand and apply tools from discrete mathematics to solve complex mathematical problems.\nDesign and implement rigorous problem-solving strategies from first principles.\nPlan and reflect on task management strategies to successfully fulfil responsibilities\nIdentify knowledge gaps and effectively seek and use appropriate learning resources to acquire necessary knowledge"
+ },
+ {
+  "name": "Introduction to Data Science and Artificial Intelligence",
+  "course_code": "SIT112",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "Data science is an emerging field and data scientists must be able to know how to make sense of data. In SIT112, students will develop knowledge of fundamentals in data science, in particular data manipulation and algorithms for analytics. The unit will also cover the practice of data science including ethical and responsible behaviour when crawling, cleaning, analysing, representing and repurposing the data. Students will be able to obtain data, recognise data formats, summarise and visualise relationships in the data, perform exploratory data analysis tasks and build predictive models.",
+  "ilos": "Describe key concepts, algorithms, components of data science, and artificial intelligence and their applications in real-world scenarios.\nDescribe the synergies between data science and artificial intelligence, and outline the connections between these fields.\nAdapt and explain programming scripts that make use of common data science and artificial intelligence algorithms, techniques, and tools.\nEffectively communicate artificial intelligence and data science solution designs and resulting insights, to technical and non-technical stakeholders.\nEvaluate the social and ethical implications of artificial intelligence adoption."
+ },
+ {
+  "name": "Introduction to Programming",
+  "course_code": "SIT102",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "Computing systems enable innovation and dramatic change in the world and the way we live in it. The capability of these systems evolve through people designing and developing new and innovative software solutions. Whether you are driving this revolution, or benefiting from it, you need to learn how computers work, and how people create software to drive computing processes. In this unit you will learn the fundamentals of structured programming and explore the mechanics of how these programs operate within the computer. The foundational knowledge and skills that you build in this unit will underpin both further programming units and your understanding of broader computing and communication systems in Information Technology contexts.",
+  "ilos": "Evaluate procedural program code for correct use of coding conventions, and use code tracing and debugging techniques to identify and correct issues.\nDesign, develop,and test procedural programs using specified programming languages to achieve defined program goals, including effective use of data types, programming statements, control flow structures and modularisation techniques.\nExplain the principles of structured procedural programming, using appropriate terminology and by relating these principles to programming syntax and structures developed.\nAnalyse, critique the quality, and reflect upon a portfolio of artefacts to justify the achievements of specified objectives and goals with evidence."
+ },
+ {
+  "name": "Object-Oriented Development",
+  "course_code": "SIT232",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "SIT232 introduces students to object-oriented programming as the fundamental paradigm of modern programming languages and software development. Upon completion of the unit, the students will be ready to develop real-world software following the software design and structure best practices.",
+  "ilos": "Evaluate simple program code for correct use of coding conventions, and use code tracing and debugging techniques to identify and correct issues.\nApply and explain the principles of object-oriented programming including abstraction, encapsulation, inheritance and polymorphism.\nImplement and test small object-oriented programs that conform to planned system structures and requirements.\nDesign, communicate, and evaluate solution structures using appropriate diagrams and textual descriptions.\nJustify meeting specified outcomes through providing relevant evidence and critiquing the quality of that evidence against given criteria."
+ },
+ {
+  "name": "Database Fundamentals",
+  "course_code": "SIT103",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This unit covers the fundamentals of designing, implementing, and managing relational database systems in industry-standard IT applications. It introduces data modelling, with a specific focus on entity-relationship (ER) modelling. Students will learn how to construct ER diagrams, ensuring that the model's semantics match those of the real-world object it represents. It also teaches how to construct, maintain, and retrieve information relational databases using SQL. Through real-world business case scenarios and project-based learning, students will gain the skills required to design, implement, and manage databases.",
+  "ilos": "Interpret and explain fundamental concepts of data, information, and knowledge and demonstrate an understanding of differences between traditional file systems and databases.\nAnalyse real-world problems to identify data requirements and apply data modelling concepts to design and develop Entity Relationship Diagrams for efficient data representation and storage.\nDesign, implement, evaluate and maintain relational database systems using SQL and Database Management Systems and explain the purpose of various SQL commands and operations.\nAnalyse and critique achievements of learning outcomes and justify meeting specified outcomes through providing relevant evidence and evaluating the quality of that evidence against given criteria."
+ },
+ {
+  "name": "Linear Algebra for Data Analysis",
+  "course_code": "SIT292",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "Linear algebra is the foundation for many sophisticated mathematical and computational methods. In SIT292 students will learn the basics of linear algebra, and solve systems of linear equations. This unit extends students ability apply mathematical formulae and to operate with complex mathematical objects. SIT292 introduces students to vector spaces, matrix theory, systems of linear equations and methods for solving them, eigenvalues and eigenvectors, and their application to similarity of diagonal matrices. The techniques that students learn from this unit will enable them with the analysis of complex data and ensuring its reliability in studies of cryptography.",
+  "ilos": "Perform operations and transformations on matrices and vectors and apply them to solve systems of linear equations, calculate determinants, eigenvalues and eigenvectors.\nPerform operations on \u00a0linear vector spaces and apply them for solving approximation and regression problems.\nDemonstrate mathematical literacy by sourcing, interpreting and discussing mathematical texts and digital resources."
+ },
+ {
+  "name": "Computer Networks and Communication",
+  "course_code": "SIT202",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "A strong understanding of computer networks is fundamental for cyber security. This unit will give students the deep understanding they need of how network protocols across the stack operate, while providing them with the programming and technical skills needed to analyse them. This will provide the focused technical foundation they need to be successful in the course.",
+  "ilos": "Explain the layers of abstraction involved in the computer network protocol stack, and how these enable data to flow between machines within a network.\nDesign and develop programs that interact with networks at different levels with the network protocol stack to implement and analyse common protocols.\nUse industry-relevant networking tools to analyse different network configurations, real network data, networking protocols, and their operations, and provide networking solutions to given problems.\nReflect and critique on how networks and protocols are constructed and apply those concepts in analysing real network issues related to security and scalability."
+ },
+ {
+  "name": "Data Structures and Algorithms",
+  "course_code": "SIT221",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "SIT221 introduces students to in memory data modelling and computational trade-offs when developing software. Computing platforms from Internet-Of-Things (IoT) devices to supercomputers have limited or restricted resources available to software engineers in terms of memory, computational power, and energy consumption. Writing efficient and high-quality programs is the technical skill every technology company is after. This unit will extend student programming capabilities by exploring the application and implementation of different data structures and algorithms and considerations associated with appropriate selection of these tools to meet different system requirements.",
+  "ilos": "Evaluate the memory usage and computational complexity of different solution strategies and use this to provide recommendations in terms of solution direction for given problem scenarios.\nCreate and use a range of data structures and algorithms to design solutions and implement programs that address specified requirements and constraints.\nDocument problem and solution constraints,\u00a0design decisions, and trade-offs involved in creating software solutions for a given problem."
+ },
+ {
+  "name": "Computational Intelligence",
+  "course_code": "SIT215",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "The development of intelligent systems has been a central quest of computer scientists for more than fifty years, with the objective of creating artificial systems that can solve problems traditionally achievable only by humans. This field is underpinned by a range of computational patterns and methods that cover problems such as searching, problem solving, reasoning, knowledge representation and learning. In this unit students will investigate, through a range of problem-based learning activities, a range of artificial and computational intelligence techniques that underpin modern, advanced intelligent systems such as autonomous vehicles, robotics and game-playing agents.",
+  "ilos": "Apply specific algorithms and data structures to model a range of problems arising in intelligent systems development.\nDesign and implement software artefacts to demonstrate effectiveness and efficiency of solutions for intelligent systems development.\nApply theoretical concepts and models to explain and communicate the design of intelligent systems."
+ },
+ {
+  "name": "Professional Practice in Information Technology",
+  "course_code": "SIT223",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "To be successful IT graduates need to understand the use of industry tools and practices, the ways these tools work and connect together, and the underlying professional, ethical, and teamwork knowledge and skills needed to put these into practice in a professional manner. This unit introduces students to IT workflows, agile project management, dev-ops pipelines, version control, and the ways these tools fit together in modern companies. The use of these technologies is underpinned by the behaviours, teamwork, and ethical considerations needed to engage in working in IT in a professional manner. The unit will tackle the big issues facing the IT industry with a focus on gender equity and diversity, helping ensure our future IT leaders are well placed to address this and other challenging issues.",
+  "ilos": "Engage with processes, tools, and practices associated with agile project management across all phases of the dev-ops lifecycle, and use software tools to contribute to real-world projects at each stage in an effective manner.\nObserve and reflect upon the impact of different leadership styles, organisational structures, communication practices, and approaches to conflict management for effective professional relationships within IT companies and projects.\nEvaluate, review, and synthesise real-world scenarios , including indigenous perspectives, to inform discussion and practice of IT, and relate to professional practice, codes of ethics, and principles of intellectual property and its protection.\nReflect upon professional practice to develop career plans and apply for work opportunities, as ways of engaging in continuous professional development of discipline specific and transferable skills."
+ },
+ {
+  "name": "Advanced Algorithms",
+  "course_code": "SIT320",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "In this advanced programming unit students will examine the design, analysis and implementation of advanced algorithms, explore software design patterns and their use in problem solving, and software testing techniques and tools to verify implementation. The unit will focus on the design and construction of advanced algorithms within software solutions with a strong emphasis on practical application of the algorithms, patterns, and tools under investigation.",
+  "ilos": "Analyse complex scenarios and draw upon appropriate algorithms and design patterns to design, implement and test software solutions that address the identified requirements and constraints.\nImplement, review, and evaluate software solutions that involve the application of complex algorithms and design patterns.\nClearly present relevant solution features and trade-offs when communicating with both specialist and non-specialist audiences.\nUse software design, implementation, and testing tools in the construction of advanced software solutions."
+ },
+ {
+  "name": "Team Project (A) - Project Management and Practices",
+  "course_code": "SIT374",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This is the first of two undergraduate capstone units for students within the School of Information Technology. The capstone experience provides students with the opportunity to engage in a real-world, industry-relevant IT project, and to demonstrate the knowledge and skills they have gained across their studies. In this first unit, students learn about project management methodologies and practices, with a particular emphasis on agile project management. Students will join a team and work under the guidance of students from Team Project (B) to advance an ongoing industry-relevant project. Students will develop hands-on experience in using industry-standard tools to contribute to the project, analyse requirements, design solutions, monitor project progress and productivity, and reflect on sprint and project outcomes.",
+  "ilos": "Develop and apply discipline specific knowledge, communication skills, digital literacy, and professional practice through engaging in an authentic real-world project.\nDevelop and apply problem solving and critical thinking in solving real-world problems and evaluating solutions as a member of a team.\nApply contemporary Information Technology methods tools and techniques to contribute to real-world projects in ways that meet project and stakeholder needs.\nReflect on, and take responsibility for, their own learning; manage their own time and processes; by reviewing personal performance as a means of managing continuing professional development.\nReflect upon knowledge and skills gained, progress towards achievement of learning goals, and communicate how skills developed are transferrable to other real-world contexts."
+ },
+ {
+  "name": "IT Placements and Industry Experience",
+  "course_code": "SIT306",
+  "semester": "Trimester 1: PlacementTrimester 2: PlacementTrimester 3: Placement",
+  "aims": "Integrating study and work experience in a systematic way is essential for forging close links between the university education process and the workplace. In this unit, students will undertake professional work experience with an approved host organisation for a minimum of 100 hours. The exact nature, activities, and emphasis in each industry placement will vary according to the context, resources and expertise of the staff of the host organisation as well as the experience, qualities and aspirations of the student. However, this systematic opportunity will provide students with experiences working in an organisation, critically reflecting on their Course and Graduate Learning Outcomes, and their discipline-specific and generic competencies. Learning and assessment activities in this unit will help students develop an appreciation for these work-life aspects and make decisions about personal and professional development. Most importantly, it will provide students relevant evidence when applying for future work.",
+  "ilos": "Articulate aspirations, career goals and intended activities to potential employers highlighting key personal and professional capabilities and competencies, to secure a position.\nParticipate in and demonstrate evidence of ethical, professional and efficient work practices in IT.\nUse reflective practice to document experience gained and skills developed to become an IT professional during placement experience.\nShow capacity for preparing personal and professional development plans, which contribute to the job search/career development process."
+ },
+ {
+  "name": "Professional Practice",
+  "course_code": "SIT344",
+  "semester": "Trimester 1: PlacementTrimester 2: PlacementTrimester 3: Placement",
+  "aims": "Integrating study and work experience is essential for forging close links between university education and the workplace. Students will gain professional work experience with an approved host organisation. The exact nature, activities, and emphasis in each industry placement will vary according to the context, resources, and expertise of staff and the student's experience, qualities, and aspirations. Industry experiences will allow students to learn about and with an organisation. In addition, students will critically reflect on their role as IT professionals, bringing together everything they have learnt in their course to demonstrate achievement of Course and Graduate Learning Outcomes and their readiness for professional work. Learning and assessment activities in this unit will help students appreciate work-life and make decisions about personal and professional development. Most importantly, it will provide relevant evidence when applying for future work.",
+  "ilos": "Articulate aspirations, career goals and intended activities to potential employers, highlighting key personal and professional capabilities and competencies, to secure a position.\nParticipate in and demonstrate evidence of ethical, professional and efficient work practices in IT/data science.\nUse reflective practice to document discipline-specific (course learning outcomes) and generic competencies (graduate learning outcomes) required to become an IT professional/data scientist, drawn from placement experience.\nShow capacity for preparing personal and professional development plans, which contribute to the job search/career development process."
+ },
+ {
+  "name": "Concurrent and Distributed Programming",
+  "course_code": "SIT315",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "In this unit students will expand their programming skills beyond procedural and object-oriented methods covered in earlier units, investigating parallel and distributed, as well as real-time systems programming. Through both study of theoretical aspects of programming languages and hands-on practicals on these programming paradigms, students will develop an understanding, skills and expertise in choosing and implementing the right programming paradigms to tackle the computational problems at hand.",
+  "ilos": "Assess the suitability of different programming paradigms for a range of problem types to facilitate effective language selection and program design.\nDesign and implement programs in languages encompassing different programming paradigms to demonstrate effective and efficient computational problem solving.\nApply the theoretical aspects of different programming paradigms to analyse and critique the design of programs."
+ },
+ {
+  "name": "Team Project (B) - Execution and Delivery",
+  "course_code": "SIT378",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This is the second of two undergraduate capstone units for students within the School of Information Technology. In this unit, students will extend their experiences of IT projects by executing a real-world, industry-relevant project and synthesise knowledge and technical as well as other professional skills acquired during their course. Students will join a team as senior members, and provide guidance and mentoring to Team Project (A) students. As a team, they will apply agile project management methods to iteratively create enhancements to a unique IT product, service or solution in a highly flexible and interactive manner. Students will identify a potential problem or technical gap and experience how to solve it using methods, algorithms and techniques pertinent to the field of IT. Students will be required to further formulate necessary design and/or development strategies, work collaboratively with peers to manage and conduct the implementation of the project and demonstrate outcomes achieved against project goals and targets.",
+  "ilos": "Demonstrate the apply discipline specific knowledge, communication skills, digital literacy, and professional practice through engaging in an authentic real-world project.\nDemonstrate and apply problem solving and critical thinking in solving real-world problems and evaluating solutions as a member of a team.\nAnalyse stakeholders's; needs, project goals, and team capabilities to identify, prioritize, and schedule project deliverables, and take responsibility for the execution of the project plan and associated reporting as a senior member of a team.\nApply contemporary Information Technology methods tools and techniques to contribute to real-world projects in ways that meet project and stakeholder needs including mentoring team members.\nReflect on and take responsibility for their own learning; manage their own time and processes; by reviewing personal performance as a means of managing continuing professional development.\nReflect upon and showcase knowledge and skills gained, demonstrate achievement of learning goals, and communicate how skills developed are transferrable to other real-world contexts."
+ },
+ {
+  "name": "Research Techniques and Applications",
+  "course_code": "SIT723",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online Semester 1*: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineSemester 2*: Burwood (Melbourne), Waurn Ponds (Geelong), Online *Semester offerings only available to S400 students",
+  "aims": "Research and development skills and abilities are highly in-demand in the IT industry. In SIT723, students will have the opportunity to embark on a research or practice project and develop skills and abilities for informed evidence-based practice. Through research training and mentoring, the unit offers students the opportunity to explore an IT area in depth, and define their own research direction and scope. Students will develop the skills to produce literature reviews, project proposals, and design experiments using the scientific method. Students will learn how to evaluate academic research, gain the confidence to prepare publications and develop skills to become independent researchers.",
+  "ilos": "Demonstrate the ability to explore an IT area in depth, define a research direction and scope, and develop a research proposal.\nDemonstrate clear understanding of the broader context associated with a research project, including any safety, sustainability, and ethical considerations relevant to the project.\nEffectively and convincingly communicate and defend their understanding of technical content, objectives, design reasoning, and implementation details of a research projects in written and oral forms.\nProduce and discuss results to validate and/or justify the proposed project objectives and methodology.\nImplement and deliver on a project's objectives by applying appropriate techniques, management practices, and associated skills and knowledge."
+ },
+ {
+  "name": "Research Project",
+  "course_code": "SIT724",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "Research and development skills and abilities are highly in-demand in the IT industry. As part of SIT724 students are required implement their research project proposed in SIT723 Research Techniques and Applications. Students will undertake research on a well-defined area, and develop solutions within an identified scope, to meet defined goals and stakeholder requirements. Students will work with an academic supervisor to plan project milestones, adhering to ethical conduct, design validation and verification protocols as well as taking into consideration safety, security and risk factors. The project implementation/development tasks will enable students to gain advanced theoretical and technical knowledge in their project area.",
+  "ilos": "Demonstrate the ability to explore an IT area in depth, define a research direction and scope, and develop a research proposal.\nDemonstrate clear understanding of the broader context associated with a research project, including any safety, sustainability, and ethical considerations relevant to the project.\nEffectively and convincingly communicate and defend their understanding of technical content, objectives, design reasoning, and implementation details of a research projects in written and oral forms.\nProduce and discuss results to validate and/or justify the proposed project objectives and methodology.\nImplement and deliver on a project's objectives by applying appropriate techniques, management practices, and associated skills and knowledge."
+ },
+ {
+  "name": "Research Project (Advanced)",
+  "course_code": "SIT746",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online Semester 1*: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineSemester 2*: Burwood (Melbourne), Waurn Ponds (Geelong), Online *Semester offerings only available\u00a0to S400 students",
+  "aims": "Research and development skills and abilities are highly in-demand in the IT industry, with scientific articles essential for advancing knowledge. As part of this unit, students will progress their proposed research project from SIT723 Research Techniques and Applications to produce a scientific publication associated with this work. Students will research a well-defined area and develop solutions within an identified scope, to meet defined goals and stakeholder requirements. Students will work with an academic supervisor to plan project milestones, adhere to ethical conduct, design validation and verification protocols, and address safety, security, and risk factors. Project implementation and development tasks will enable students to gain advanced theoretical and technical knowledge in their project area. Finally, students will produce a scientific publication as an honours thesis for a single enrolment in this unit and conference or journal publications in subsequent enrolments.",
+  "ilos": "Demonstrate the ability to explore an IT area in depth, define a research direction and scope, and develop a research proposal.\nDemonstrate clear understanding of the broader context associated with a research project, including any safety, sustainability, and ethical considerations relevant to the project.\nEffectively and convincingly communicate and defend their understanding of technical content, objectives, design reasoning, and implementation details of a research projects in written and oral forms.\nProduce and discuss results to validate and/or justify the proposed project objectives and methodology.\nImplement and deliver on a project's objectives by applying appropriate techniques, management practices, and associated skills and knowledge."
+ },
+ {
+  "name": "Introduction to Functions, Relations and Graphs",
+  "course_code": "SIT190",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "SIT190 aims to develop student understanding of the fundamental functions of applied mathematics, and to introduce calculus to students who have not previously studied it in secondary school. It is designed to prepare students from a number of different disciplines for learning tertiary level mathematics. Students will explore the algebra of polynomials, exponentials, logarithms, trigonometric functions and matrices, and learn rules for differentiating and integrating these functions. Applications studied include graph sketching, maximisation and minimisation problems, areas and kinematics.",
+  "ilos": "Solve mathematical equations and simplify mathematical expressions.\nConstruct and compare different representations of relations and functions.\nModel and solve practical problems involving rates of change.\nRecognise the contributions of different cultures to mathematics."
+ },
+ {
+  "name": "Introduction to Statistics and Data Analysis",
+  "course_code": "SIT191",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "Data is everywhere in the world. Without knowing how to interpret or use information from the data it would be difficult to understand its meaning. Statistics is both a method and a tool for interpreting information, testing hypotheses and analysing the inferences people make about the real-world. SIT191 aims to aid students develop knowledge in using statistics to summarise, describe and interpret numerical and graphical data and perform statistical inferences. In this unit, students will develop knowledge of the fundamentals of probability for reasoning real-world situations.\u00a0 Students will be required to use statistical software and calculators to analyse data and interpret results for tests on population means and proportions, chi-square tests, correlation and linear regression, and one-way ANOVA.",
+  "ilos": "Apply statistical and probabilistic techniques and software to extract, analyse and summarise information from real-world data.\nUse statistical knowledge to reflect critically about the world and critically analyse information.\nUse appropriate methods, supported by statistical evidence, to communicate findings to a range of audiences."
+ },
+ {
+  "name": "Introduction to Mathematical Modelling",
+  "course_code": "SIT194",
+  "semester": "Trimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This unit includes fundamental techniques in differential calculus and integral calculus for the analysis of functions that occur in science and engineering problems.\u00a0 Applications studied include approximations to solutions of equations and integrals and formulation of models to solve science and engineering problems.",
+  "ilos": "Apply the method of foundational calculus used to solve problems in a range of real-world contexts.\nUtilise mathematical modelling to analyse, model, calculate and validate the results associated with solving complex real-life problems.\nEvaluate a mathematical model and recommend refinements or improvements.\nCritically evaluate solution approaches and tools used in solving problems.\nCommunicate results by showing steps of solution approaches and interpreting the outcomes."
+ },
+ {
+  "name": "Cryptography",
+  "course_code": "SIT281",
+  "semester": "Trimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "In SIT281 students will learn the fundamental mechanisms of classic and modern cryptographic systems, which span from Caesar cipher of Roman times to Advanced Encryption Standard (AES) cipher invented in the early 21st century. Students will encrypt and decrypt messages by using modern symmetric encryption schemes including DES and AES, stream ciphers used in mobile phone networks and pay TVs, as well as the most well-known public key cipher RSA. The unit will also provide students the opportunity to explore the cryptographic applications.",
+  "ilos": "Evaluate the internal mechanisms of cryptosystems and report their strengths and weaknesses with relation to security and government requirements, and industry standards.\nDesign and implement a range of cryptosystems to meet security requirements for data encryption and decryption using appropriate software tools.\nEnhance data security against cyber-attacks using cryptosystems within software solutions, and be able to justify cryptographic algorithms and optimized parameters used."
+ },
+ {
+  "name": "Mathematical Methods for Information Modelling",
+  "course_code": "SIT291",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "SIT291 focuses on the concepts of differentiation and integration for the multi variable functions. Students will learn various techniques for solving constrained and unconstrained multivariate optimization problems as well as second order ordinary differential equations. Students will explore the applications of these mathematical techniques to the modelling of motion in space, optimization in business and economics, various forces in physics, periodic processes in mechanics, electric circuits and biology.",
+  "ilos": "Apply the concepts of multivariate calculus to model phenomena that involve several interrelated variables.\nUse knowledge of partial derivatives to solve constrained and unconstrained multivariate optimization problems.\nPerform operations on vector fields to calculate line integrals and potential functions in order to construct models of physical systems.\nModel aspects of change in physical systems using second order differential equations."
+ },
+ {
+  "name": "Optimisation and Constraint Programming",
+  "course_code": "SIT316",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit explores the commonly used computational skills for real-life optimization, planning, and decision making problems, such as routing, scheduling, machinery workflow, network design, logistics, staff rostering, resource allocation, and supply chain optimization with applications in industries including airline, mining, healthcare, science, education, wholesale and retail, as well as other government, and civic services.",
+  "ilos": "Analyse real-world problems to produce and evaluate models suitable for computation.\nApply domain-specific knowledge to solve optimisation and constraint programming problems.\nPlan and reflect on task management strategies to successfully fulfil responsibilities.\nIdentify knowledge gaps and effectively seek and use appropriate learning resources to acquire necessary knowledge."
+ },
+ {
+  "name": "Numerical Methods in Mathematics",
+  "course_code": "SIT334",
+  "semester": "Not available until 2026",
+  "aims": "The purpose of this unit is to introduce students to the skills of modelling, analysing and solving real-world problems using mathematical and computational techniques. After completing the unit you will be equipped with a range of tools enabling you to construct a better understanding of complex phenomena, and the ability to implement those tools. These tools include numerical methods to develop computer simulations, stochastic modelling to account for uncertainty, and approximate solvers for large scale mathematical problems.",
+  "ilos": "Analyse real-world problems and apply a range of mathematical techniques to develop models enabling their understanding\nImplement computer simulations of real-world problems based on sound mathematical models, and computer solutions to large scale mathematical problems.\nCommunicate computational and mathematical solutions to complex problems to a range of stakeholders applying appropriate judgement on the level and complexity of information provided."
+ },
+ {
+  "name": "Applied Algebra and Statistics",
+  "course_code": "SIT199",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This unit includes: the algebra of complex numbers, matrices, probability, and the major discrete and continuous probability distributions. The relationship algebraic and transcendental functions and complex numbers are emphasised and applied to electrical networks. Solutions to systems of linear equations using matrices and determinants, and fundamental concepts vectors are considered. The statistics techniques and examples studied are relevant to the sciences in general, and engineering in particular.",
+  "ilos": "Model and describe real-world problems using algebra and statistics.\nUtilise the notions of vectors and matrices in modelling and computing quantities to interpret the outcomes of real-word phenomena.\nApply tools and concepts to determine states of a system of linear equations originating from real-world applications.\nCritically evaluate solution approaches and tools used in solving problems.\nCommunicate results by showing steps of solution approaches and interpreting the outcomes."
+ },
+ {
+  "name": "Introduction to Statistics and Data Analysis",
+  "course_code": "SIT191",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "Data is everywhere in the world. Without knowing how to interpret or use information from the data it would be difficult to understand its meaning. Statistics is both a method and a tool for interpreting information, testing hypotheses and analysing the inferences people make about the real-world. SIT191 aims to aid students develop knowledge in using statistics to summarise, describe and interpret numerical and graphical data and perform statistical inferences. In this unit, students will develop knowledge of the fundamentals of probability for reasoning real-world situations.\u00a0 Students will be required to use statistical software and calculators to analyse data and interpret results for tests on population means and proportions, chi-square tests, correlation and linear regression, and one-way ANOVA.",
+  "ilos": "Apply statistical and probabilistic techniques and software to extract, analyse and summarise information from real-world data.\nUse statistical knowledge to reflect critically about the world and critically analyse information.\nUse appropriate methods, supported by statistical evidence, to communicate findings to a range of audiences."
+ },
+ {
+  "name": "Data Wrangling",
+  "course_code": "SIT220",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 3: Burwood (Melbourne), Online",
+  "aims": "Data Science (DS) and Artificial Intelligence (AI) are popular fields in making sense of data that have been collected in large quantities from various sources. Performing accurate exploration and modelling using DS and AI heavily rely on appropriately prepared data. Data wrangling is the process of preparing the raw data appropriately for modelling purposes. The aim of this unit is to learn various data wrangling methodologies and programming techniques to perform them. This includes programming in Python for performing various data wrangling tasks, learning data extraction methods from different sources, working with different types of data, storing and retrieving them, applying sampling techniques and inspecting them, cleaning them by identifying outliers/anomalies, handling missing data, transforming, selecting and extracting features, performing exploratory analysis, visualisation using various tools, summarising data appropriately, performing basic statistical analysis and modelling using basic machine learning. Further, techniques for maintaining data privacy and exercising ethics in data manipulation will be covered in this unit.",
+  "ilos": "Undertake data wrangling tasks by using appropriate programming and scripting languages to extract, clean, consolidate, and store data of different data types from a range of data sources.\nIdentify and apply data discovery and extraction methods and tools to handle extracting data based on project needs.\nDesign, implement, and explain the data model needed to achieve project goals, and the processes that can be used to convert data from data sources to both technical and non-technical audiences.\nUse both statistical and machine learning techniques to perform exploratory analysis on data extracted, and communicate results to technical and non-technical audiences.\nApply and reflect on techniques for maintaining data privacy and exercising ethics in data handling."
+ },
+ {
+  "name": "Machine Learning",
+  "course_code": "SIT307",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "Machine learning is an important tool in analytics, where algorithms iteratively learn from data to uncover hidden insights, without being directly programmed on where to find such information. This unit involves students exploring machine-learning techniques such as data representation, unsupervised learning (clustering and factor analysis) methods, supervised learning (linear and non-linear classification) methods, concepts of suitable model complexity for the problem and data at hand. Students will have the opportunity to apply these techniques in solving real-world problem scenarios presented to them in the unit.",
+  "ilos": "Maintain knowledge of advances in machine learning, and use this knowledge to explain machine learning techniques and algorithms to a range of technical and non-technical audiences.\nExplore data using a range of machine learning techniques, evaluate resulting models, and extract and communicate insights from data in real-world scenarios.\nDesign solutions to real-world problems and exploring data using machine learning techniques.\nCreate Python scripts to automate the evaluation and analysis of data using a range of machine learning libraries, techniques, and algorithms."
+ },
+ {
+  "name": "Deep Learning",
+  "course_code": "SIT319",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "Deep learning is a disruptive technology for data science and artificial intelligence. This unit is for students to develop practical knowledge of deep learning and associated applications. Learning activities will focus on understanding deep learning theories, constructing deep learning models for handling structured and unstructured data, such as images, videos, and texts. Concepts such as computational graphs and representation learning that form core knowledge in this unit will be introduced. Students will also learn about deep learning techniques for data analytics such as convolutional networks, recurrent networks, and neural embedding methods which are being widely adopted in industries.",
+  "ilos": "Explain deep learning and its role in AI.\nApply deep learning theory to analyse an problem and select a suitable model.\nDesign suitable deep learning algorithms for unsupervised learning and supervised learning problems.\nModel and implement algorithms for processing structured and unstructured data, including images and texts.\nProgram and maintain deep learning models using industry-strength software frameworks."
+ },
+ {
+  "name": "Software Architecture and Scalability for Internet-Of-Things",
+  "course_code": "SIT314",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit introduces students to key challenges and principals when architecting large-scale applications for the Internet-of-Things (IoT). Students will learn and use different architecture patterns including layered architectures, message-bus style, event-driven, micro-services. Students will also learn different deployment models, quality of service attributes and trade-offs and testing requirements and frameworks.",
+  "ilos": "Demonstrate understanding of the key challenges and principals in building large-scale, cloud-based cyber physical systems.\nSelect, justify and apply appropriate system architectures and design patterns according to specific functional and non-functional requirements.\nDevelop large-scale cyber physical systems using available services.\nDemonstrate ability to deploy and scale cloud-based services."
+ },
+ {
+  "name": "Natural Language Processing",
+  "course_code": "SIT330",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "The widespread use of technology has allowed the creation of unlimited quantity of text data because people communicate almost everything in text language: webpages, social media posts, ads, emails, customer service, language translation, virtual agents, medical reports, etc. Thus, the need to exploit this unprecedented quantity of text data is critical for many companies and their business. This has led to the development of Document Processing techniques to extract valuable knowledge from this data, based on fast, effective and scalable information retrieval, text mining, and machine learning algorithms, which are at the heart of this unit focusing on descriptive, predictive, and prescriptive analytics of large-scale text data. In particular, this unit provides students with a deep understanding of the basic theories and techniques used to process large-scale of text document data to understand, search, identify, and extract information from semi-structured text documents. The unit will cover basic technologies for text document analysis, including information retrieval, search and indexing, information extraction, document classification, and natural language understanding.",
+  "ilos": "Explain natural language processing concepts and algorithms to a range of technical and non-technical audiences\nDesign and develop software solutions to that make effective and informed use of natural language processing tools and frameworks to solve real world problems, and justify the approach taken to a range of technical and non-technical audiences\nClearly articulate natural language processing approaches for proposed software solutions to a range of technical and non-technical audiences\nEffectively regulate and reflect upon learning and present compelling evidence of learning achieved"
+ },
+ {
+  "name": "Data Capture Technologies",
+  "course_code": "SIT225",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit will introduce students to ubiquitous and readily accessible devices for data capture, such as the sensor suite on a mobile smartphone, and those commonly used in homes, vehicles and current examples of cyber-physical systems. Students will be introduced to a range of data capture protocols and methodologies. Students will use industry-standard approaches for data presentation, visualisation and analysis. Through practical investigations and analysis, students will investigate issues of robustness, reliability and validity of data and the effects of these on conclusions drawn from data.",
+  "ilos": "Acquire, process, visualise, analyse and interpret data using existing devices and technologies.\nApply professional and ethical standards to sustainable data collection practices.\nDesign data capture protocols and methodologies to meet user and functional requirements."
+ },
+ {
+  "name": "Embedded Systems Development",
+  "course_code": "SIT210",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "Embedded devices are an inseparable part of modern computing systems. They monitor and control dedicated functionality of the systems. Examples of these systems include Anti-lock Brake Systems (ABS) and Airbags in cars to various Internet-of-things as Smart Home applications. This unit will focus on device level programming on System on Chip (SoC) development boards covering topics such as hardware interfaces and serial communications (GPIO, I2C, UART, SPI), real-time systems development, PCB design, Open Systems Interconnection Model (OSI), and Real Time Operating Systems. Students will build and prototype embedded devices and systems to capture data, sense the environment, and trigger actions using a range of hardware devices and for a variety of real-world projects.",
+  "ilos": "Develop software necessary for controlling devices within an embedded system.\nDevelop an embedded system by interfacing sensing, computation and communication components to solve real world problems.\nDesign sensing architectures that satisfy performance constraints related to robustness, fault tolerance and responsiveness.\nReflect upon learning achieved through experiences within the unit, and assessment tasks to highlight development of technical expertise in relation to career opportunities."
+ },
+ {
+  "name": "Full Stack Development: Secure Backend Services",
+  "course_code": "SIT331",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "Web technologies are now commonly used to be used to create full applications for traditional desktop, web and mobile devices. Web technologies provide better cross platform support and a more streamlined and consistent application development process. The full web technologies stack includes frontend, backend server, service APIs and databases. Full stack web development involves the use of a full suite of technologies to build the application frontend, backend and supporting infrastructure. A full stack web developer will use contemporary web development tools and frameworks, version control, and modern deployment approaches to create effective and impressive applications. This unit focuses on the backend technologies for the full stack development, including programming service APIs, creating databases and cloud deployment.",
+  "ilos": "Research full stack development technologies and best practices and apply resulting learning to application development associated with back-end technologies.\nDevelop the backend part of full stack-based applications that include frontend, backend server, service APIs and databases.\nEstablish and evaluate continuous delivery infrastructure that supports web application development, testing and deployment.\nClearly articulate, solution structures and associated technologies and processes to a range of technical and non-technical audiences.\nEffectively regulate and reflect upon learning achieved and present compelling evidence of learning achieved."
+ },
+ {
+  "name": "Software Architecture and Scalability for Internet-Of-Things",
+  "course_code": "SIT314",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit introduces students to key challenges and principals when architecting large-scale applications for the Internet-of-Things (IoT). Students will learn and use different architecture patterns including layered architectures, message-bus style, event-driven, micro-services. Students will also learn different deployment models, quality of service attributes and trade-offs and testing requirements and frameworks.",
+  "ilos": "Demonstrate understanding of the key challenges and principals in building large-scale, cloud-based cyber physical systems.\nSelect, justify and apply appropriate system architectures and design patterns according to specific functional and non-functional requirements.\nDevelop large-scale cyber physical systems using available services.\nDemonstrate ability to deploy and scale cloud-based services."
+ },
+ {
+  "name": "Machine Learning",
+  "course_code": "SIT307",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 2: Burwood (Melbourne), Online",
+  "aims": "Machine learning is an important tool in analytics, where algorithms iteratively learn from data to uncover hidden insights, without being directly programmed on where to find such information. This unit involves students exploring machine-learning techniques such as data representation, unsupervised learning (clustering and factor analysis) methods, supervised learning (linear and non-linear classification) methods, concepts of suitable model complexity for the problem and data at hand. Students will have the opportunity to apply these techniques in solving real-world problem scenarios presented to them in the unit.",
+  "ilos": "Maintain knowledge of advances in machine learning, and use this knowledge to explain machine learning techniques and algorithms to a range of technical and non-technical audiences.\nExplore data using a range of machine learning techniques, evaluate resulting models, and extract and communicate insights from data in real-world scenarios.\nDesign solutions to real-world problems and exploring data using machine learning techniques.\nCreate Python scripts to automate the evaluation and analysis of data using a range of machine learning libraries, techniques, and algorithms."
+ },
+ {
+  "name": "Advanced Embedded Systems",
+  "course_code": "SIT329",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit provides deep and practical understanding of advanced embedded systems in the context of technology development. It builds on the learning and experiences of SIT210 Embedded Systems Development. Students will take their learning beyond simple embedded boards and sensor devices, to understanding, working with and designing full System on Chip (SoC) platforms. Students will learn and experience prototyping hardware solutions using the Verilog and VHDL hardware description languages, and field programmable gate arrays (FPGA) hardware platforms. With these platforms, students will work towards developing modern embedded system prototypes that satisfy the requirements of challenging embedded applications.",
+  "ilos": "Analyse system requirements, select, evaluate, and justify appropriate platforms, and design solutions for a range of embedded systems problems.\nDevelop advanced embedded solutions using hardware description languages for programming dedicated hardware applications.\nDesign and implement an advanced embedded systems to solve a real-world problem.\nProfessionally communicate with technical and non-technical stakeholders about an engineering project, including solution structures, platform capabilities, trade-offs, risks and benefits."
+ },
+ {
+  "name": "Data Capture Technologies",
+  "course_code": "SIT225",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit will introduce students to ubiquitous and readily accessible devices for data capture, such as the sensor suite on a mobile smartphone, and those commonly used in homes, vehicles and current examples of cyber-physical systems. Students will be introduced to a range of data capture protocols and methodologies. Students will use industry-standard approaches for data presentation, visualisation and analysis. Through practical investigations and analysis, students will investigate issues of robustness, reliability and validity of data and the effects of these on conclusions drawn from data.",
+  "ilos": "Acquire, process, visualise, analyse and interpret data using existing devices and technologies.\nApply professional and ethical standards to sustainable data collection practices.\nDesign data capture protocols and methodologies to meet user and functional requirements."
+ },
+ {
+  "name": "Robotics Studio",
+  "course_code": "SIT122",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "This unit introduces the fundamental computational paradigms of robotic systems (sense-reason-act) in the context of a hands-on, studio based learning environment using the mBot ranger robots. Students will learn and practice event-driven programming methods within mBlock5, the visual programming environment for the mBot ranger robot. Problems such as animating movement, responding to stimuli, and creating meaningful behaviours in constrained environmental contexts will form the basis of practical investigations of the robots' capabilities and limitations, as well as the design and development of programmatic solutions.",
+  "ilos": "Develop basic robotics applications using existing software frameworks, languages, and tools.\nDesign robotics applications that function in structured environments.\nAnalyse the capabilities of a specified robots to inform the design process and determine solution viability."
+ },
+ {
+  "name": "Embedded Systems Development",
+  "course_code": "SIT210",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "Embedded devices are an inseparable part of modern computing systems. They monitor and control dedicated functionality of the systems. Examples of these systems include Anti-lock Brake Systems (ABS) and Airbags in cars to various Internet-of-things as Smart Home applications. This unit will focus on device level programming on System on Chip (SoC) development boards covering topics such as hardware interfaces and serial communications (GPIO, I2C, UART, SPI), real-time systems development, PCB design, Open Systems Interconnection Model (OSI), and Real Time Operating Systems. Students will build and prototype embedded devices and systems to capture data, sense the environment, and trigger actions using a range of hardware devices and for a variety of real-world projects.",
+  "ilos": "Develop software necessary for controlling devices within an embedded system.\nDevelop an embedded system by interfacing sensing, computation and communication components to solve real world problems.\nDesign sensing architectures that satisfy performance constraints related to robustness, fault tolerance and responsiveness.\nReflect upon learning achieved through experiences within the unit, and assessment tasks to highlight development of technical expertise in relation to career opportunities."
+ },
+ {
+  "name": "Robotics Application Development",
+  "course_code": "SIT310",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "In this unit, students will use industry standard approaches to developing robotics applications. These approaches allow the integration of hardware, software and different communications technologies as seamless applications to solve complex physical problems using robots. Students will learn Robot Operating System (ROS) to control robots and access sensors. Students and develop applications. Students will learn advanced robotics techniques including control, navigation, planning, computer vision, and machine learning. A small mobile robot equipped with a camera will be utilised for simplified autonomous driving tasks.",
+  "ilos": "Apply advanced programming techniques suitable for solving reasoning problems in a physical environment.\nDevelop systems that utilize sensing, reasoning and acting to achieve specified performance levels.\nDesign systems that employ data collected to act on the environment to achieve defined goals."
+ },
+ {
+  "name": "Concurrent and Distributed Programming",
+  "course_code": "SIT315",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "In this unit students will expand their programming skills beyond procedural and object-oriented methods covered in earlier units, investigating parallel and distributed, as well as real-time systems programming. Through both study of theoretical aspects of programming languages and hands-on practicals on these programming paradigms, students will develop an understanding, skills and expertise in choosing and implementing the right programming paradigms to tackle the computational problems at hand.",
+  "ilos": "Assess the suitability of different programming paradigms for a range of problem types to facilitate effective language selection and program design.\nDesign and implement programs in languages encompassing different programming paradigms to demonstrate effective and efficient computational problem solving.\nApply the theoretical aspects of different programming paradigms to analyse and critique the design of programs."
+ },
+ {
+  "name": "Robotics, Computer Vision and Speech Processing",
+  "course_code": "SIT332",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "Sensing and interacting with the environment in robotics is achieved using computer vision and speech processing techniques. In this unit, you will analyse various existing computer vision and speech processing algorithms and their application in robotics to navigate and act in a real-world scenario. You will investigate state-of-art machine learning techniques that can be used in the field and develop novel solution involving computer vision and speech processing.",
+  "ilos": "Analyse computer vision and speech processing techniques and demonstrate the design and application of solutions to real-world problems\nAnalyse and demonstrate robotics application based on computer vision and speech processing techniques.\nCompare, select, and apply advanced machine learning techniques with voice, image and video data for the purpose of recognition, classification, and pattern matching\nApply tools and frameworks to design, implement and evaluate computer vision and speech processing solutions."
+ },
+ {
+  "name": "Introduction to Functions, Relations and Graphs",
+  "course_code": "SIT190",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "SIT190 aims to develop student understanding of the fundamental functions of applied mathematics, and to introduce calculus to students who have not previously studied it in secondary school. It is designed to prepare students from a number of different disciplines for learning tertiary level mathematics. Students will explore the algebra of polynomials, exponentials, logarithms, trigonometric functions and matrices, and learn rules for differentiating and integrating these functions. Applications studied include graph sketching, maximisation and minimisation problems, areas and kinematics.",
+  "ilos": "Solve mathematical equations and simplify mathematical expressions.\nConstruct and compare different representations of relations and functions.\nModel and solve practical problems involving rates of change.\nRecognise the contributions of different cultures to mathematics."
+ },
+ {
+  "name": "Introduction to Mathematical Modelling",
+  "course_code": "SIT194",
+  "semester": "Trimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "This unit includes fundamental techniques in differential calculus and integral calculus for the analysis of functions that occur in science and engineering problems.\u00a0 Applications studied include approximations to solutions of equations and integrals and formulation of models to solve science and engineering problems.",
+  "ilos": "Apply the method of foundational calculus used to solve problems in a range of real-world contexts.\nUtilise mathematical modelling to analyse, model, calculate and validate the results associated with solving complex real-life problems.\nEvaluate a mathematical model and recommend refinements or improvements.\nCritically evaluate solution approaches and tools used in solving problems.\nCommunicate results by showing steps of solution approaches and interpreting the outcomes."
+ },
+ {
+  "name": "Cryptography",
+  "course_code": "SIT281",
+  "semester": "Trimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "In SIT281 students will learn the fundamental mechanisms of classic and modern cryptographic systems, which span from Caesar cipher of Roman times to Advanced Encryption Standard (AES) cipher invented in the early 21st century. Students will encrypt and decrypt messages by using modern symmetric encryption schemes including DES and AES, stream ciphers used in mobile phone networks and pay TVs, as well as the most well-known public key cipher RSA. The unit will also provide students the opportunity to explore the cryptographic applications.",
+  "ilos": "Evaluate the internal mechanisms of cryptosystems and report their strengths and weaknesses with relation to security and government requirements, and industry standards.\nDesign and implement a range of cryptosystems to meet security requirements for data encryption and decryption using appropriate software tools.\nEnhance data security against cyber-attacks using cryptosystems within software solutions, and be able to justify cryptographic algorithms and optimized parameters used."
+ },
+ {
+  "name": "Mathematical Methods for Information Modelling",
+  "course_code": "SIT291",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "SIT291 focuses on the concepts of differentiation and integration for the multi variable functions. Students will learn various techniques for solving constrained and unconstrained multivariate optimization problems as well as second order ordinary differential equations. Students will explore the applications of these mathematical techniques to the modelling of motion in space, optimization in business and economics, various forces in physics, periodic processes in mechanics, electric circuits and biology.",
+  "ilos": "Apply the concepts of multivariate calculus to model phenomena that involve several interrelated variables.\nUse knowledge of partial derivatives to solve constrained and unconstrained multivariate optimization problems.\nPerform operations on vector fields to calculate line integrals and potential functions in order to construct models of physical systems.\nModel aspects of change in physical systems using second order differential equations."
+ },
+ {
+  "name": "Linear Algebra for Data Analysis",
+  "course_code": "SIT292",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "Linear algebra is the foundation for many sophisticated mathematical and computational methods. In SIT292 students will learn the basics of linear algebra, and solve systems of linear equations. This unit extends students ability apply mathematical formulae and to operate with complex mathematical objects. SIT292 introduces students to vector spaces, matrix theory, systems of linear equations and methods for solving them, eigenvalues and eigenvectors, and their application to similarity of diagonal matrices. The techniques that students learn from this unit will enable them with the analysis of complex data and ensuring its reliability in studies of cryptography.",
+  "ilos": "Perform operations and transformations on matrices and vectors and apply them to solve systems of linear equations, calculate determinants, eigenvalues and eigenvectors.\nPerform operations on \u00a0linear vector spaces and apply them for solving approximation and regression problems.\nDemonstrate mathematical literacy by sourcing, interpreting and discussing mathematical texts and digital resources."
+ },
+ {
+  "name": "Optimisation and Constraint Programming",
+  "course_code": "SIT316",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit explores the commonly used computational skills for real-life optimization, planning, and decision making problems, such as routing, scheduling, machinery workflow, network design, logistics, staff rostering, resource allocation, and supply chain optimization with applications in industries including airline, mining, healthcare, science, education, wholesale and retail, as well as other government, and civic services.",
+  "ilos": "Analyse real-world problems to produce and evaluate models suitable for computation.\nApply domain-specific knowledge to solve optimisation and constraint programming problems.\nPlan and reflect on task management strategies to successfully fulfil responsibilities.\nIdentify knowledge gaps and effectively seek and use appropriate learning resources to acquire necessary knowledge."
+ },
+ {
+  "name": "Numerical Methods in Mathematics",
+  "course_code": "SIT334",
+  "semester": "Not available until 2026",
+  "aims": "The purpose of this unit is to introduce students to the skills of modelling, analysing and solving real-world problems using mathematical and computational techniques. After completing the unit you will be equipped with a range of tools enabling you to construct a better understanding of complex phenomena, and the ability to implement those tools. These tools include numerical methods to develop computer simulations, stochastic modelling to account for uncertainty, and approximate solvers for large scale mathematical problems.",
+  "ilos": "Analyse real-world problems and apply a range of mathematical techniques to develop models enabling their understanding\nImplement computer simulations of real-world problems based on sound mathematical models, and computer solutions to large scale mathematical problems.\nCommunicate computational and mathematical solutions to complex problems to a range of stakeholders applying appropriate judgement on the level and complexity of information provided."
+ },
+ {
+  "name": "Cloud Computing",
+  "course_code": "SIT233",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "Cloud computing offers a new model for the delivery of IT services to end users by introducing the ability to deliver infrastructure, platforms, and software via the network.\u00a0 This unit explores the technologies, models, benefits and risks of cloud computing.\u00a0 Technologies that will be examined as part of our studies of cloud computing include virtualisation, cloud management systems, storage systems, networking technologies, and public cloud options offered by commercial organisations.\u00a0 Upon completion of the unit students will have a clear understanding of cloud computing, the technologies used in provisioning clouds, the application of cloud computing to solve problems, and the issues that must be considered when deploying cloud technologies in an organisation.",
+  "ilos": "Explain cloud computing, its constituent technologies, and how they are used to a range of technical and non-technical audiences.\nAnalyse architectures that are used for building cloud solutions and understand how they contribute to solutions that are efficient, scalable, reliable, and highly available.\nDesign cloud computing solutions and justify design decisions to a range of stakeholders in terms of trade-offs between cost and performance."
+ },
+ {
+  "name": "Cloud Automation Technologies",
+  "course_code": "SIT226",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "The environment in which we develop and deploy network services is changing. Monolithic architectures are being replaced with new approaches such as cloud native applications which exploit a highly modular architecture. Operations teams are no longer responsible for maintaining just a handful of applications, but potentially hundreds or thousands of microservices that live entirely in the cloud and are interdependent and individually scalable. This cannot be achieved manually and so a combination of DevOps and automation is used to manage the deployment of software.",
+  "ilos": "Explain how computing resources are represented within cloud systems and how they are managed within both public and private cloud systems to a range of audiences.\nInstall and configure Kubernetes and associated resources for deploying, monitoring, and managing network services and applications.\nEvaluate the application of public and/or private cloud services for the deployment of network services and applications, including consideration of business impacts.\nCollaborate with software architects, developers, and dev-ops teams on developing and maintaining cloud-deployed network services and applications across the lifecycle."
+ },
+ {
+  "name": "Cloud Native Application Development",
+  "course_code": "SIT323",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "The cloud native approach to application development reflects modern demands to rapidly adapt to new business requirements, improve utilisation and efficiency of development teams, and deliver high quality reliable and scalable services using cloud technologies.\u00a0 Cloud native applications are constructed using the microservices architecture and typically exist only within the cloud.\u00a0 In this unit students will learn to design, develop, and deploy of cloud native applications according to best practices including infrastructure as code, asynchronous communication, instrumentation, latency management, replication and parallelization, failure management and security.",
+  "ilos": "Explain cloud-native architectures and discuss benefits for using this approach to a range of audiences.\nAnalyse scenarios and design, develop, deploy, monitor, and manage cloud-native solutions that meet stakeholder requirements.\nReview cloud-native application designs and implementations, and propose strategies to improve their performance."
+ },
+ {
+  "name": "Software Architecture and Scalability for Internet-Of-Things",
+  "course_code": "SIT314",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit introduces students to key challenges and principals when architecting large-scale applications for the Internet-of-Things (IoT). Students will learn and use different architecture patterns including layered architectures, message-bus style, event-driven, micro-services. Students will also learn different deployment models, quality of service attributes and trade-offs and testing requirements and frameworks.",
+  "ilos": "Demonstrate understanding of the key challenges and principals in building large-scale, cloud-based cyber physical systems.\nSelect, justify and apply appropriate system architectures and design patterns according to specific functional and non-functional requirements.\nDevelop large-scale cyber physical systems using available services.\nDemonstrate ability to deploy and scale cloud-based services."
+ },
+ {
+  "name": "Robotics Studio",
+  "course_code": "SIT122",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "This unit introduces the fundamental computational paradigms of robotic systems (sense-reason-act) in the context of a hands-on, studio based learning environment using the mBot ranger robots. Students will learn and practice event-driven programming methods within mBlock5, the visual programming environment for the mBot ranger robot. Problems such as animating movement, responding to stimuli, and creating meaningful behaviours in constrained environmental contexts will form the basis of practical investigations of the robots' capabilities and limitations, as well as the design and development of programmatic solutions.",
+  "ilos": "Develop basic robotics applications using existing software frameworks, languages, and tools.\nDesign robotics applications that function in structured environments.\nAnalyse the capabilities of a specified robots to inform the design process and determine solution viability."
+ },
+ {
+  "name": "Data Capture Technologies",
+  "course_code": "SIT225",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit will introduce students to ubiquitous and readily accessible devices for data capture, such as the sensor suite on a mobile smartphone, and those commonly used in homes, vehicles and current examples of cyber-physical systems. Students will be introduced to a range of data capture protocols and methodologies. Students will use industry-standard approaches for data presentation, visualisation and analysis. Through practical investigations and analysis, students will investigate issues of robustness, reliability and validity of data and the effects of these on conclusions drawn from data.",
+  "ilos": "Acquire, process, visualise, analyse and interpret data using existing devices and technologies.\nApply professional and ethical standards to sustainable data collection practices.\nDesign data capture protocols and methodologies to meet user and functional requirements."
+ },
+ {
+  "name": "Embedded Systems Development",
+  "course_code": "SIT210",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "Embedded devices are an inseparable part of modern computing systems. They monitor and control dedicated functionality of the systems. Examples of these systems include Anti-lock Brake Systems (ABS) and Airbags in cars to various Internet-of-things as Smart Home applications. This unit will focus on device level programming on System on Chip (SoC) development boards covering topics such as hardware interfaces and serial communications (GPIO, I2C, UART, SPI), real-time systems development, PCB design, Open Systems Interconnection Model (OSI), and Real Time Operating Systems. Students will build and prototype embedded devices and systems to capture data, sense the environment, and trigger actions using a range of hardware devices and for a variety of real-world projects.",
+  "ilos": "Develop software necessary for controlling devices within an embedded system.\nDevelop an embedded system by interfacing sensing, computation and communication components to solve real world problems.\nDesign sensing architectures that satisfy performance constraints related to robustness, fault tolerance and responsiveness.\nReflect upon learning achieved through experiences within the unit, and assessment tasks to highlight development of technical expertise in relation to career opportunities."
+ },
+ {
+  "name": "Advanced Embedded Systems",
+  "course_code": "SIT329",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit provides deep and practical understanding of advanced embedded systems in the context of technology development. It builds on the learning and experiences of SIT210 Embedded Systems Development. Students will take their learning beyond simple embedded boards and sensor devices, to understanding, working with and designing full System on Chip (SoC) platforms. Students will learn and experience prototyping hardware solutions using the Verilog and VHDL hardware description languages, and field programmable gate arrays (FPGA) hardware platforms. With these platforms, students will work towards developing modern embedded system prototypes that satisfy the requirements of challenging embedded applications.",
+  "ilos": "Analyse system requirements, select, evaluate, and justify appropriate platforms, and design solutions for a range of embedded systems problems.\nDevelop advanced embedded solutions using hardware description languages for programming dedicated hardware applications.\nDesign and implement an advanced embedded systems to solve a real-world problem.\nProfessionally communicate with technical and non-technical stakeholders about an engineering project, including solution structures, platform capabilities, trade-offs, risks and benefits."
+ },
+ {
+  "name": "Introduction to Responsive Web Apps",
+  "course_code": "SIT120",
+  "semester": "Trimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), Online",
+  "aims": "In SIT120 students will develop foundational knowledge of and basic skills related to responsive web app design and development. Students will learn basic networking protocols and fundamentals for web, HTML, CSS and advanced web design frameworks such as Vue to build web apps both for desktop and mobile devices. Students will develop an understanding of how web infrastructure, design and programming work together, as well as learn fundamentals of responsive and progressive web design and deployment.",
+  "ilos": "Demonstrate an understanding of networking protocols and fundamentals for web infrastructure.\nApply knowledge of enhanced web design skills to create responsive web design concept and professional plan.\nApply knowledge of advanced frameworks and algorithms to implement a responsive web app.\nDevelop a portfolio that demonstrates evidence of emerging skills in mobile computing technologies and web development frameworks for professional practice."
+ },
+ {
+  "name": "Full Stack Development: Secure Backend Services",
+  "course_code": "SIT331",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "Web technologies are now commonly used to be used to create full applications for traditional desktop, web and mobile devices. Web technologies provide better cross platform support and a more streamlined and consistent application development process. The full web technologies stack includes frontend, backend server, service APIs and databases. Full stack web development involves the use of a full suite of technologies to build the application frontend, backend and supporting infrastructure. A full stack web developer will use contemporary web development tools and frameworks, version control, and modern deployment approaches to create effective and impressive applications. This unit focuses on the backend technologies for the full stack development, including programming service APIs, creating databases and cloud deployment.",
+  "ilos": "Research full stack development technologies and best practices and apply resulting learning to application development associated with back-end technologies.\nDevelop the backend part of full stack-based applications that include frontend, backend server, service APIs and databases.\nEstablish and evaluate continuous delivery infrastructure that supports web application development, testing and deployment.\nClearly articulate, solution structures and associated technologies and processes to a range of technical and non-technical audiences.\nEffectively regulate and reflect upon learning achieved and present compelling evidence of learning achieved."
+ },
+ {
+  "name": "Full Stack Development: Secure Frontend Applications",
+  "course_code": "SIT313",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "Web technologies are now commonly used to create full applications for traditional desktop, web and mobile devices. Web technologies provide better cross platform support and a more streamlined and consistent application development process. The full web technologies stack includes frontend, backend server, service APIs and databases. Full stack web development involves the use of a full suite of technologies to build the application frontend, backend and supporting infrastructure. A full stack web developer will use contemporary web development tools and frameworks, version control, and modern deployment approaches to create effective and impressive applications. This unit focuses on the frontend part of the full stack development process by using web technologies for programming frontend interfaces, interact with services and databases to create applications that support a wide variety of device capabilities.Students are recommended to do this unit alongside\u00a0SIT331 Full Stack Development: Secure Backend Services.",
+  "ilos": "Research full stack development technologies and best practices and apply resulting learning to application development of frontend components.\nDevelop the frontend of full stack-based applications that include frontend, backend server, service APIs and databases.\nClearly articulate, solution structures and associated technologies and processes to a range of technical and non-technical audiences.\nEffectively regulate and reflect upon how learning was achieved, and present compelling evidence of outcomes attained."
+ },
+ {
+  "name": "Mobile Application Development",
+  "course_code": "SIT305",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "This unit provides a practical introduction to developing applications for mobile devices. Students will spend the unit being introduced to one mobile app development environment. Students will cover the design and the workflow of developing apps in one mobile application platform, a framework for constructing an application, as well as tools for developing, testing, and publishing software for the platform. Students will focus particularly on learning advanced concepts and APIs, and putting those skills into practice to develop a real-world mobile app.",
+  "ilos": "Explain the core concepts and design considerations associated with building mobile applications for a given platform.\nDesign, develop, test and deploy mobile application solutions using modern mobile applications development frameworks, libraries and tools.\nDesign innovative mobile application solutions to address real-world problems and scenarios, and communicate the solution structure and design decisions with stakeholders.\nAnalyse and critique the achievements of learning outcomes at the specified level with evidence based on artefacts/tasks produced."
+ },
+ {
+  "name": "Game Fundamentals",
+  "course_code": "SIT151",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "This unit is for students to study the concepts that define the design and development of games. Through the combination of practical application and theory, students will learn about designing games with a focus on engaging and refining their creative skills.\u00a0 Students will analyse existing games, learn about current processes of game design and development, and design a game implementation.",
+  "ilos": "Investigate computer game designs and articulate their effectiveness using evidence.\nDesign and develop computer game components and incorporate that into a game.\nEmploy the terminology used for computer game design and development to communicate ideas and concepts in a professional manner."
+ },
+ {
+  "name": "Content Creation for Interactive Experiences",
+  "course_code": "SIT253",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit aims to provide students with the ability to design and create audio and visual assets for creative productions such as video games and virtual reality. Students will design and build audio and visual elements appropriate to a given creative concept, and apply key concepts including; principles of good audio and visual asset design, representation, audio creation and manipulation, interactive audio, composition, lighting and colour, 3D modelling, and textures to the creation of assets. This hands-on unit will allow students to present their work in a professional portfolio and practice their oral presentation in front of an appropriate audience.",
+  "ilos": "Implement the requirements for designing and developing audio and visual elements to produce and integrate\u00a0assets appropriate to a given interactive application content.\nDesign and develop audio, 3D models and texture assets by identifying and applying further research to extend the concepts taught for inclusion in your professional folio.\nThrough self-management update and maintain an electronic portfolio that presents the audio and visual game content to audiences in a professional manner."
+ },
+ {
+  "name": "Game Design",
+  "course_code": "SIT254",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit aims to provide students an appreciation of what it means to be a games designer. Students will explore the process of games design and apply key concepts including gameplay mechanics, rule design, play mechanics, game balancing and play testing in implementing a game. Students will also learn how to document a game design, apply professional standards and deliver an industry quality pitch for their game. This is a very hands-on unit, where students will create and implement a games design and critique their peers\u2019 creations to determine how best to create a game experience for specific audiences.\u00a0 In the process of creating games students will be required to use a variety of software technologies including industry-standard games engines. While prior programming experience would be beneficial, it is not a prerequisite to study this unit.",
+  "ilos": "Prepare and present an industry quality design pitch to effectively communicate games design.\nProduce games design documentation that demonstrates sound knowledge and application of design approaches, rules and professional standards in a group work setting.\nDemonstrate evidence of game mechanics and rule structures through a computer game prototype produced within a group work setting.\nDemonstrate sound knowledge of the principles of games design in an applied context."
+ },
+ {
+  "name": "Development for Virtual and Augmented Reality",
+  "course_code": "SIT283",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit provides a comprehensive introduction to the development processes specific to the creation of effective virtual reality applications. Programming concepts and techniques appropriate to the creation of elements of virtual environments are taught using industry standard development facilities. Data types and manipulation patterns appropriate to the representation of virtual spaces allow students to solve typical problems including those related to responding to user actions, incorporating physical interactions between virtual objects and presenting the virtual world using computer graphics and other forms of output.",
+  "ilos": "Create functional solutions to typical VR/AR problems within a VR development environment.\nApply existing design patterns to solve VR development problems.\nRepresent and manipulate information required for VR/AR systems using appropriate algorithms and data structures."
+ },
+ {
+  "name": "Interactive Application Design for Virtual and Augmented Reality",
+  "course_code": "SIT183",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "This unit explores the design principles used in creating effective virtual and augmented reality applications. Virtual reality (VR) and augmented reality (AR) systems along with their areas of application (e.g., interactive educational experience, serious games, and immersive environments) are presented and analysed to form a foundation of basic design principles. The unit also provides a way to understand the interactive and cognitive functions of VR and AR systems and how these functions influence the design of assets for VR/AR systems.",
+  "ilos": "Communicate knowledge and skills regarding interactive and cognitive functions used in a range of VR/AR application components.\nDevelop solutions to a range of problems using VR/AR applications, tools and techniques.\nCollaborate to design and develop VR/AR solutions."
+ },
+ {
+  "name": "Development for Virtual and Augmented Reality",
+  "course_code": "SIT283",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit provides a comprehensive introduction to the development processes specific to the creation of effective virtual reality applications. Programming concepts and techniques appropriate to the creation of elements of virtual environments are taught using industry standard development facilities. Data types and manipulation patterns appropriate to the representation of virtual spaces allow students to solve typical problems including those related to responding to user actions, incorporating physical interactions between virtual objects and presenting the virtual world using computer graphics and other forms of output.",
+  "ilos": "Create functional solutions to typical VR/AR problems within a VR development environment.\nApply existing design patterns to solve VR development problems.\nRepresent and manipulate information required for VR/AR systems using appropriate algorithms and data structures."
+ },
+ {
+  "name": "Content Creation for Interactive Experiences",
+  "course_code": "SIT253",
+  "semester": "Trimester 2: Burwood (Melbourne), Online",
+  "aims": "This unit aims to provide students with the ability to design and create audio and visual assets for creative productions such as video games and virtual reality. Students will design and build audio and visual elements appropriate to a given creative concept, and apply key concepts including; principles of good audio and visual asset design, representation, audio creation and manipulation, interactive audio, composition, lighting and colour, 3D modelling, and textures to the creation of assets. This hands-on unit will allow students to present their work in a professional portfolio and practice their oral presentation in front of an appropriate audience.",
+  "ilos": "Implement the requirements for designing and developing audio and visual elements to produce and integrate\u00a0assets appropriate to a given interactive application content.\nDesign and develop audio, 3D models and texture assets by identifying and applying further research to extend the concepts taught for inclusion in your professional folio.\nThrough self-management update and maintain an electronic portfolio that presents the audio and visual game content to audiences in a professional manner."
+ },
+ {
+  "name": "Assembling Virtual and Augmented Reality Experiences",
+  "course_code": "SIT383",
+  "semester": "Trimester 1: Burwood (Melbourne), Online",
+  "aims": "This unit teaches the creation of augmented reality (AR) and mobile virtual reality applications. AR applications allow flexible and novel ways of interacting with the physical world and with other participants in the shared environment. The unit covers the design principles and development processes relevant to the mobile platforms, peripherals and application areas including education, simulation and entertainment that are used for augmented reality solutions.",
+  "ilos": "Design effective AR applications particular to a specified target audience.\nImplement, deploy and evaluate AR applications.\nTransmit knowledge and skills related to AR development on a mobile platform through effective communication to potential clients and team members."
+ },
+ {
+  "name": "Professional Research Practice",
+  "course_code": "SLE761",
+  "semester": "Trimester 1: OnlineTrimester 2: Online",
+  "aims": "The aim of this unit is to introduce students to the principles of academic writing and broad presentation skills in science communication, along with developing an understanding of a range of topics related to research planning which include; scientific research policies and procedures, accessing scientific literature, research project planning, ethics and integrity. Students will also gain an understanding of intellectual property and research commercialisation, along with the opportunity to consider their career aspirations and undertake tasks for professional skills development.",
+  "ilos": "Use digital technologies to locate, collate and analyse information for scientific research.\nApply planning and management strategies for undertaking a scientific research project.\nDesign a scientific project proposal and investigate and justify appropriate scientific methodologies for undertaking the project effectively and communicate the proposal both a written and oral format.\nCommunicate their understanding of intellectual property and commercialisation in research.\nApply principles of research ethics and integrity in research design.\nDemonstrate career development skills (awareness, planning, application) required to apply for work opportunities, to progress your career."
+ },
+ {
+  "name": "Real World Analytics",
+  "course_code": "SIT718",
+  "semester": "Trimester 1: Burwood (Melbourne), OnlineTrimester 2: Burwood (Melbourne), Online, GIFT City (India)^Trimester 3: Burwood (Melbourne), Online",
+  "aims": "This unit introduces students to two concepts at the heart of real world analytics: optimisation and multivariate data aggregation. Students will learn how decision-making problems in industry, business, and civic services can be solved using modern modelling and solution techniques. Students will learn how to make better decisions through mathematical methods in optimisation problems such as: production planning, time-tabling management, human resource rostering, sports program scheduling, robotics/vehicle routing, network design, and resource allocation. On the topic of aggregation, students will learn how to apply the concepts of multivariate functions in order to summarise datasets that involve several interrelated variables. They will be able to reasonably analyse datasets by interpreting the parameters associated with commonly used multivariate functions.",
+  "ilos": "Apply knowledge of multivariate functions data transformations and data distributions to summarise data sets.\nAnalyse datasets by interpreting summary statistics, model and function parameters.\nApply game theory, and linear programming skills and models, to make optimal decisions.\nDevelop software codes to solve computational problems for real world analytics.\nDemonstrate professional ethics and responsibility for working with real world data."
+ },
+ {
+  "name": "Research Project (Publication)",
+  "course_code": "SIT747",
+  "semester": "Trimester 1: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 2: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineTrimester 3: Burwood (Melbourne), Waurn Ponds (Geelong), Online Semester 1*: Burwood (Melbourne), Waurn Ponds (Geelong), OnlineSemester 2*: Burwood (Melbourne), Waurn Ponds (Geelong), Online *Semester offerings only available to S400 students",
+  "aims": "Research and development skills and abilities are highly in-demand in the IT industry, with scientific articles essential for advancing knowledge. As part of this unit, students will progress their proposed research project from SIT723 Research Techniques and Applications and the work they are undertaking in SIT746 Research Project (Advanced) to produce a scientific publication associated with this work. Students will research a well-defined area and develop solutions within an identified scope, to meet defined goals and stakeholder requirements. Students will work with an academic supervisor to plan project milestones, adhere to ethical conduct, design validation and verification protocols, and address safety, security, and risk factors. Project implementation and development tasks will enable students to gain advanced theoretical and technical knowledge in their project area. Finally, students will produce a scientific publication as an honours thesis which should target an appropriate conference or journal venue.",
+  "ilos": "Demonstrate the ability to explore an IT area in depth, define a research direction and scope, and develop a research proposal.\nDemonstrate clear understanding of the broader context associated with a research project, including any safety, sustainability, and ethical considerations relevant to the project.\nEffectively and convincingly communicate and defend their understanding of technical content, objectives, design reasoning, and implementation details of a research projects in written and oral forms.\nProduce and discuss results to validate and/or justify the proposed project objectives and methodology.\nImplement and deliver on a project's objectives by applying appropriate techniques, management practices, and associated skills and knowledge."
+ }
+]

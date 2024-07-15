@@ -6,7 +6,7 @@ Write a Python program that will take HTML like the HTML at the end of this mess
 
 Only give Python code, no explanation. Do not include the sample HTML in the generated program. Do not include sample usage code.
 
-An example course is "Computer Systems". Each course links to a page that includes "unit.php".
+An example course is "Computer Systems". Each course links to a page that includes "unit.php"; if your program does not include 'unit.php' it is incorrect.
 
 Here is the sample HTML:
 
@@ -18,12 +18,7 @@ Here is the sample HTML:
 =======
 
 # Course page scraper
-
-Here is a fragment of HTML from a course page:
-
-<<HTML>>
-
-Write a Python program that parses HTML of this form and extracts the course details into JSON of the form:
+At the bottom of this message is some sample HTML from a university course information page. Write a Python program that parses HTML of this structure and extracts the course details into JSON of the form:
 
 {
   name: <course name>,
@@ -33,4 +28,8 @@ Write a Python program that parses HTML of this form and extracts the course det
   ilos: <intended learning outcomes>
 }
 
-Only give code, no explanation.
+Only give code, no explanation. Do not include sample usage information.
+
+Here is the HTML:
+
+<<HTML>>
